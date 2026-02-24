@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "updated": "2026-02-24",
+  "meses": [
+    {
+      "id": "septiembre_2025",
+      "mes": "Septiembre 2025",
+      "dieta_path": "data/septiembre_2025/dieta.json",
+      "recetas_path": "data/septiembre_2025/recetas.json",
+      "dias": 7,
+      "recetas": 21
+    },
+    {
+      "id": "octubre_2025",
+      "mes": "Octubre 2025",
+      "dieta_path": "data/octubre_2025/dieta.json",
+      "recetas_path": "data/octubre_2025/recetas.json",
+      "dias": 7,
+      "recetas": 16
+    },
+    {
+      "id": "noviembre_2025",
+      "mes": "Noviembre 2025",
+      "dieta_path": "data/noviembre_2025/dieta.json",
+      "recetas_path": "data/noviembre_2025/recetas.json",
+      "dias": 7,
+      "recetas": 16
+    },
+    {
+      "id": "diciembre_2025",
+      "mes": "Diciembre 2025",
+      "dieta_path": "data/diciembre_2025/dieta.json",
+      "recetas_path": "data/diciembre_2025/recetas.json",
+      "dias": 7,
+      "recetas": 17
+    },
+    {
+      "id": "enero_2026",
+      "mes": "Enero 2026",
+      "dieta_path": "data/enero_2026/dieta.json",
+      "recetas_path": "data/enero_2026/recetas.json",
+      "dias": 7,
+      "recetas": 17
+    }
+  ]
+}

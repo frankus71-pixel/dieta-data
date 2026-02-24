@@ -1,0 +1,142 @@
+{
+  "mes": "Diciembre 2025",
+  "fuente_pdf": "DICIEMBRE 2025.pdf",
+  "recetas": [
+    {
+      "id": "pasta_natali",
+      "nombre": "Pasta Natali",
+      "cantidad": null,
+      "kcal": 356.05,
+      "ingredientes": [],
+      "preparacion": "Poner a hervir las pasta en abundante agua y siguiendo las instrucciones del envase, añadirle la sal y la hoja de laurel. Ir probándola uno dos minutos antes del tiempo indicado y cuando veamos que la pasta esta al dente, la refrescamos en agua fría. En una sartén se pone el aceite a calentar, se le añade el ajo, la cebolla, y la pimienta y cuando este pochado se añade los langostinos y el calabacín, una vez que este todo hecho se le añade la pasta, y se agrega el aguacate ya cortado en láminas. Puedes añadir el zumo de limón en este momento y espolvorear la pasta con perejil antes de servirla."
+    },
+    {
+      "id": "ensalada_de_tomate_y_jamon_serrano",
+      "nombre": "Ensalada De Tomate Y Jamón Serrano",
+      "cantidad": null,
+      "kcal": 380.75,
+      "ingredientes": [],
+      "preparacion": "Lavar los tomates con agua, retirar el pedúnculo y cortarlos en rodajas, salpimentar por un lado y ponerlos encima de un colador para que suelten toda el agua que contienen. Pelar el aguacate y cortarlo en lonchas finas, la cebolla y el jamón, disponer las rodajas de tomate en una bandeja de servir o en platos individuales, poner encima el aguacate, la cebolla, el jamón y por último el queso. Salpimentar al gusto y aliñar con el resto de aceite de oliva, servir frío."
+    },
+    {
+      "id": "calabacines_en_juliana_al_wok",
+      "nombre": "Calabacines En Juliana Al Wok",
+      "cantidad": null,
+      "kcal": 136.2,
+      "ingredientes": [],
+      "preparacion": "Se lavan con abundante agua las verduras y hortalizas que usaremos en la receta, una vez limpias, se realiza el corte de todas ellas en tipo juliana. Se intenta mantener una uniformidad en el corte para que cuando se cocinen queden todas al mismo punto de cocción. Introduciremos primeramente el aceite y una vez que alcance la temperatura adecuada le añadiremos el puerro, el tomate cherry (el tomate se añade sin pelar) y la cebolla a fuego medio. Cuando estén bien dorados se añadirá calabacín y se tapa, manteniendo el fuego a la misma intensidad, se añade sal al gusto y se pueden usar especias tipo eneldo, hierba buena, pimientas, menta. Una vez que los ingredientes estén en su punto se añade la soja y se revuelve en el Wok antes de emplatarse."
+    },
+    {
+      "id": "merluza_a_la_riojana",
+      "nombre": "Merluza A La Riojana",
+      "cantidad": null,
+      "kcal": 279.57,
+      "ingredientes": [],
+      "preparacion": "Quitar la espina y la piel a la merluza. Lavarlos, secarlos, sazonarlos con sal y pimienta y dejarlos escurrir para que tomen el sazonamiento. Calentar el aceite en una sartén, freir los ajos en láminas y la cebolla en rodajas. Antes de que tomen color añadir las tiras de pimiento, el tomate y cocer hasta obtener una salsa espesa. Sazonar con sal y pimienta. Dar unos hervores e incorporar la merluza, cocer tres minutos y servir."
+    },
+    {
+      "id": "bocadillo_cruper_h",
+      "nombre": "Bocadillo Cruper H",
+      "cantidad": null,
+      "kcal": 449.3,
+      "ingredientes": [],
+      "preparacion": "En la sartén ponemos el aceite de oliva y cuando está caliente le añadimos el lomo, una vez frito lo retiramos del fuego y lo reservamos en un plato. Abrimos el pan por la mitad, le añadimos el lomo y a continuación colocamos encima los pimientos en rodajas y por último el queso tierno."
+    },
+    {
+      "id": "ensalada_de_tomate",
+      "nombre": "Ensalada De Tomate",
+      "cantidad": null,
+      "kcal": 119.28,
+      "ingredientes": [],
+      "preparacion": "Lavar el tomate, secar y a continuación cortar en rodajas finas, colocarlo en un plato y a continuación aliñar con el aceite y el vinagre, servir frío."
+    },
+    {
+      "id": "pollo_al_ajillo",
+      "nombre": "Pollo Al Ajillo",
+      "cantidad": null,
+      "kcal": 295.06,
+      "ingredientes": [],
+      "preparacion": "Se sazonan los trozos de pollo con sal, se rebozan en harina y se fríen con cuidado para que no se oscurezcan. Una vez fritos, se van colocando en una cazuela, en el mismo aceite, se fríen ligeramente los dientes de ajo picaditos, que se escurren y se añaden al pollo, se echa por encima el vino y un poco de perejil picado y se tapa la cazuela para que el pollo sude y se quede tierno, a media cocción se destapa un poco hasta que el vino se reduzca a la mitad."
+    },
+    {
+      "id": "ensalada_de_aguacate",
+      "nombre": "Ensalada De Aguacate",
+      "cantidad": null,
+      "kcal": 287.84,
+      "ingredientes": [],
+      "preparacion": "Primeramente se pelará y troceará el aguacate y la zanahoria. A continuación, se lavará la lechuga y se cortará en trozos pequeños. Juntar la lechuga con el aguacate, la zanahoria, el apio y el maíz; finalmente se le agregará el pollo en dados. Para preparar el aderezo se mezclará el yogur natural con una pizca de la sal, la pimienta y la menta picada. A continuación se servirá la ensalada con el aderezo."
+    },
+    {
+      "id": "ensalada_de_millo_y_manzana",
+      "nombre": "Ensalada De Millo Y Manzana",
+      "cantidad": null,
+      "kcal": 320.6,
+      "ingredientes": [],
+      "preparacion": "Pelar la manzana y cortarla en cuadros. Lavar y cortar los tomates por la mitad, mezclar en una fuente estos ingredientes con el maíz, los espárragos y el atún desmigado. En un bol aparte se pone el aceite de oliva, el vinagre y la mostaza, se bate bien y se vierte sobre la ensalada. Se sirve a temperatura ambiente."
+    },
+    {
+      "id": "bocadillo_de_aguacate_tomate_y_huevo_h",
+      "nombre": "Bocadillo De Aguacate, Tomate Y Huevo H.",
+      "cantidad": null,
+      "kcal": 500.43,
+      "ingredientes": [],
+      "preparacion": "Prepara el resto de ingredientes, el queso será lo primero que pongas sobre la rebanada de pan que será la base del bocata. A continuación, una vez bien lavado el tomate, córtalo en rodajas y repártelas sobre el queso. Pela el aguacate, córtalo en láminas y colócalas sobre el tomate. Pon una sartén antiadherente a calentar untada con el aceite de oliva virgen extra y haz el huevo a la plancha a fuego medio-bajo para que la clara se cuaje y la yema quede fluida, puedes ayudarle tapando la sartén. Una vez hecho el huevo, retíralo con cuidado y colócalo sobre el aguacate. Salpimenta al gusto."
+    },
+    {
+      "id": "arroz_meloso_con_langostino_y_champinones",
+      "nombre": "Arroz Meloso Con Langostino Y Champiñones",
+      "cantidad": null,
+      "kcal": 413.4,
+      "ingredientes": [],
+      "preparacion": "En primer lugar se guisarán los langostinos sin pelar en abundante agua. Tras cocinarse durante veinte minutos se separa el caldo del marisco. Los langostinos se pelan y el caldo lo usaremos para cocinar el arroz . En una sartén se añade el aceite de oliva y una vez caliente se doran los ajos y los champiñones, ambos cortados en laminas. Añadimos los langostinos y el arroz (60 grs crudo). Lo mezclamos bien y se añade el caldo con el que guisamos el marisco. La cantidad de caldo que se añade es de tres coma cinco veces la de arroz para conseguir que quede meloso en lugar de caldoso. Las especias pueden usarse al gusto. En este arroz recomendamos usar pimienton dulce y tomillo."
+    },
+    {
+      "id": "ensalada_tres_tiempos",
+      "nombre": "Ensalada Tres Tiempos",
+      "cantidad": null,
+      "kcal": 283.55,
+      "ingredientes": [],
+      "preparacion": "Deshojar la lechuga y lavar las hojas, escurrirlas, secarlas y cortarlas en trozos, pelar la zanahoria cortarla en tiras, pelar la manzana y cortarla en trozos pequeñitos. Introducir todos los ingredientes en un cuenco y añadir el queso cortado en trozos, el atún, el aceite y el vinagre"
+    },
+    {
+      "id": "calabaza_con_tomate",
+      "nombre": "Calabaza Con Tomate",
+      "cantidad": null,
+      "kcal": 227.84,
+      "ingredientes": [],
+      "preparacion": "Pelar la calabaza, retirar las semillas, lavarla y cortarla en trocitos. Caliente el aceite en una cacerola al fuego y añádale el vino y seguidamente rehogar la cebolla durante cinco minutos, añada los tomates, el perejil, el comino en polvo, la calabaza cortada en trocitos, sal y pimienta, cubrir la preparación con agua y deje que cueza a fuego moderado durante unos cuarenta minutos o hasta que la calabaza esté tierna. Sírvala caliente."
+    },
+    {
+      "id": "pizzetas_vegetales",
+      "nombre": "Pizzetas Vegetales",
+      "cantidad": null,
+      "kcal": 401.88,
+      "ingredientes": [],
+      "preparacion": "Lava y corta las verduras, unta el tomate y seguidamente reparte el queso en las rebanadas de pan. Seguidamente añadir la cebolla y el pimiento ya cortados, desmenuza el atún sobre las rebanadas, y espolvorea con orégano. Hornéalo hasta gratinar."
+    },
+    {
+      "id": "judias_verdes_con_jamon_cocido",
+      "nombre": "Judías Verdes Con Jamón Cocido",
+      "cantidad": null,
+      "kcal": 135.53,
+      "ingredientes": [],
+      "preparacion": "Limpie las habichuelas verdes, lávelas y cuézalas durante 25 minutos en una cazuela con agua y sal. Prepare un picadillo con el jamón cocido, el ajo y el perejil y sofríalo, a fuego lento, en una sartén con el aceite y el vino blanco. Escurra muy bien las habichuelas, póngalas en la sartén con el sofrito y continúe cocinando durante unos 10 minutos aproximadamente, remover cuidadosamente para que no se pegue. Salpimente, pase las habichuelas a una fuente y sírvalas muy calientes."
+    },
+    {
+      "id": "pollo_asado",
+      "nombre": "Pollo Asado",
+      "cantidad": null,
+      "kcal": 261.69,
+      "ingredientes": [],
+      "preparacion": "Quitar la piel y los huesos al pollo , lavarlas y secarlas con papel de cocina, Colocarlas en una fuente refractaria, sazonarlas y espolvorear con el perejil, los ajos picados, el aceite y vino de mesa dejándolas macerar unos treinta minutos. Calentar el horno y asar el pollo a temperatura media unos treinta minutos, dándoles la vuelta a mitad del tiempo. Servir caliente."
+    },
+    {
+      "id": "revuelto_de_verduras_con_gambas",
+      "nombre": "Revuelto De Verduras Con Gambas",
+      "cantidad": null,
+      "kcal": 318.75,
+      "ingredientes": [],
+      "preparacion": "Corte todas las verduras en taquitos variando el tamaño según gusto y póngalas a hervir con agua y una pizca de sal. Cuando estén al dente añada las patatas para terminar de guisar las verduras junto con ellas. Deseche el exceso de agua y añada el aceite de oliva junto con las gambas. Una vez salteadas añada el huevo y revuelva hasta dejar una textura homogénea."
+    }
+  ]
+}

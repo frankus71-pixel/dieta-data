@@ -1,0 +1,532 @@
+{
+  "mes": "Noviembre 2025",
+  "fuente_pdf": "NOVIEMBRE 2025.pdf",
+  "dias": [
+    {
+      "dia": 1,
+      "desayuno": [
+        {
+          "alimento": "Leche Desnatada Uht",
+          "gramos": 250
+        },
+        {
+          "alimento": "Café (infusión)",
+          "gramos": 25
+        },
+        {
+          "alimento": "Kiwi",
+          "gramos": 150
+        },
+        {
+          "alimento": "Pan Integral",
+          "gramos": 60
+        },
+        {
+          "alimento": "Queso Tierno",
+          "gramos": 70
+        },
+        {
+          "alimento": "Pavo. Pechuga",
+          "gramos": 40
+        }
+      ],
+      "media_manana": [
+        {
+          "alimento": "Yogur Desnatado",
+          "gramos": 125
+        },
+        {
+          "alimento": "Plátano",
+          "gramos": 120
+        }
+      ],
+      "comida": [
+        {
+          "receta_id": "espaguetis_con_atun_h",
+          "gramos": 550
+        },
+        {
+          "alimento": "Mandarina",
+          "gramos": 150
+        }
+      ],
+      "merienda": [
+        {
+          "alimento": "Plátano",
+          "gramos": 100
+        },
+        {
+          "alimento": "Nueces Sin Piel",
+          "gramos": 10
+        }
+      ],
+      "cena": [
+        {
+          "receta_id": "ensalada_de_atun_y_aguacate",
+          "gramos": 281
+        },
+        {
+          "alimento": "Huevo De Gallina",
+          "gramos": 50
+        },
+        {
+          "alimento": "Sandia",
+          "gramos": 150
+        }
+      ],
+      "kcal": 1840.0
+    },
+    {
+      "dia": 2,
+      "desayuno": [
+        {
+          "alimento": "Leche Desnatada Uht",
+          "gramos": 250
+        },
+        {
+          "alimento": "Café (infusión)",
+          "gramos": 25
+        },
+        {
+          "alimento": "Melocoton",
+          "gramos": 150
+        },
+        {
+          "alimento": "Pan Integral",
+          "gramos": 60
+        },
+        {
+          "alimento": "Jamón Serrano",
+          "gramos": 40
+        }
+      ],
+      "media_manana": [
+        {
+          "alimento": "Yogur Desnatado",
+          "gramos": 125
+        },
+        {
+          "alimento": "Galleta De Trigo Espelta Integral",
+          "gramos": 30
+        }
+      ],
+      "comida": [
+        {
+          "receta_id": "calabacines_en_juliana_al_wok",
+          "gramos": 265
+        },
+        {
+          "receta_id": "merluza_a_la_riojana",
+          "gramos": 363
+        },
+        {
+          "alimento": "Arroz Blanco Cocinado",
+          "gramos": 100
+        },
+        {
+          "alimento": "Fresa Y Fresón",
+          "gramos": 150
+        }
+      ],
+      "merienda": [
+        {
+          "alimento": "Albaricoque",
+          "gramos": 150
+        },
+        {
+          "alimento": "Nueces Sin Piel",
+          "gramos": 10
+        }
+      ],
+      "cena": [
+        {
+          "receta_id": "bocadillo_de_atun_y_millo_h",
+          "gramos": 185
+        },
+        {
+          "alimento": "Albaricoque",
+          "gramos": 150
+        }
+      ],
+      "kcal": 1826.87
+    },
+    {
+      "dia": 3,
+      "desayuno": [
+        {
+          "alimento": "Leche Desnatada Uht",
+          "gramos": 250
+        },
+        {
+          "alimento": "Café (infusión)",
+          "gramos": 25
+        },
+        {
+          "alimento": "Kiwi",
+          "gramos": 150
+        },
+        {
+          "alimento": "Pan Integral",
+          "gramos": 60
+        },
+        {
+          "alimento": "Queso Tierno",
+          "gramos": 70
+        },
+        {
+          "alimento": "Mermelada Sin Azucar",
+          "gramos": 10
+        }
+      ],
+      "media_manana": [
+        {
+          "alimento": "Yogur Desnatado",
+          "gramos": 125
+        },
+        {
+          "alimento": "Galleta De Trigo Espelta Integral",
+          "gramos": 30
+        }
+      ],
+      "comida": [
+        {
+          "receta_id": "pollo_al_curry",
+          "gramos": 365
+        },
+        {
+          "alimento": "Patata",
+          "gramos": 200
+        },
+        {
+          "alimento": "Albaricoque",
+          "gramos": 200
+        }
+      ],
+      "merienda": [
+        {
+          "alimento": "Manzana Roja",
+          "gramos": 150
+        },
+        {
+          "alimento": "Nueces Sin Piel",
+          "gramos": 10
+        }
+      ],
+      "cena": [
+        {
+          "receta_id": "huevo_con_pisto_manchego",
+          "gramos": 247
+        },
+        {
+          "alimento": "Pan Integral",
+          "gramos": 30
+        },
+        {
+          "alimento": "Papaya",
+          "gramos": 200
+        }
+      ],
+      "kcal": 1739.97
+    },
+    {
+      "dia": 4,
+      "desayuno": [
+        {
+          "alimento": "Leche Desnatada Uht",
+          "gramos": 250
+        },
+        {
+          "alimento": "Café (infusión)",
+          "gramos": 25
+        },
+        {
+          "alimento": "Manzana Roja",
+          "gramos": 150
+        },
+        {
+          "alimento": "Pan Integral",
+          "gramos": 60
+        },
+        {
+          "alimento": "Pavo. Pechuga",
+          "gramos": 40
+        }
+      ],
+      "media_manana": [
+        {
+          "alimento": "Manzana Roja",
+          "gramos": 150
+        },
+        {
+          "alimento": "Nueces Sin Piel",
+          "gramos": 10
+        }
+      ],
+      "comida": [
+        {
+          "receta_id": "albondigas_con_guisantes",
+          "gramos": 350
+        },
+        {
+          "alimento": "Patata",
+          "gramos": 150
+        },
+        {
+          "alimento": "Manzana Roja",
+          "gramos": 150
+        }
+      ],
+      "merienda": [
+        {
+          "alimento": "Yogur Desnatado",
+          "gramos": 125
+        },
+        {
+          "alimento": "Melocoton",
+          "gramos": 150
+        }
+      ],
+      "cena": [
+        {
+          "receta_id": "ensalada_de_manzana_y_queso",
+          "gramos": 320
+        },
+        {
+          "alimento": "Atún En Aceite",
+          "gramos": 80
+        },
+        {
+          "alimento": "Sandia",
+          "gramos": 200
+        }
+      ],
+      "kcal": 1759.3
+    },
+    {
+      "dia": 5,
+      "desayuno": [
+        {
+          "alimento": "Leche Desnatada Uht",
+          "gramos": 250
+        },
+        {
+          "alimento": "Café (infusión)",
+          "gramos": 25
+        },
+        {
+          "alimento": "Naranja",
+          "gramos": 150
+        },
+        {
+          "alimento": "Pan Integral",
+          "gramos": 60
+        },
+        {
+          "alimento": "Jamón Serrano",
+          "gramos": 30
+        }
+      ],
+      "media_manana": [
+        {
+          "alimento": "Yogur Desnatado",
+          "gramos": 125
+        },
+        {
+          "alimento": "Galleta De Trigo Espelta Integral",
+          "gramos": 30
+        }
+      ],
+      "comida": [
+        {
+          "receta_id": "arroz_meloso_con_langostino_y_champinones",
+          "gramos": 395
+        },
+        {
+          "alimento": "Sandia",
+          "gramos": 200
+        }
+      ],
+      "merienda": [
+        {
+          "alimento": "Fresa Y Fresón",
+          "gramos": 150
+        },
+        {
+          "alimento": "Nueces Sin Piel",
+          "gramos": 10
+        }
+      ],
+      "cena": [
+        {
+          "receta_id": "ensalada_tres_tiempos",
+          "gramos": 305
+        },
+        {
+          "alimento": "Huevo De Gallina",
+          "gramos": 50
+        },
+        {
+          "alimento": "Pan Integral",
+          "gramos": 30
+        },
+        {
+          "alimento": "Albaricoque",
+          "gramos": 150
+        }
+      ],
+      "kcal": 1631.15
+    },
+    {
+      "dia": 6,
+      "desayuno": [
+        {
+          "alimento": "Leche Desnatada Uht",
+          "gramos": 250
+        },
+        {
+          "alimento": "Café (infusión)",
+          "gramos": 25
+        },
+        {
+          "alimento": "Kiwi",
+          "gramos": 150
+        },
+        {
+          "alimento": "Pan Integral",
+          "gramos": 60
+        },
+        {
+          "alimento": "Queso Tierno",
+          "gramos": 70
+        },
+        {
+          "alimento": "Mermelada Sin Azucar",
+          "gramos": 10
+        }
+      ],
+      "media_manana": [
+        {
+          "alimento": "Manzana Roja",
+          "gramos": 150
+        },
+        {
+          "alimento": "Nueces Sin Piel",
+          "gramos": 10
+        }
+      ],
+      "comida": [
+        {
+          "receta_id": "calabaza_con_tomate",
+          "gramos": 412
+        },
+        {
+          "alimento": "Salmón",
+          "gramos": 150
+        },
+        {
+          "alimento": "Aceite De Oliva",
+          "gramos": 10
+        },
+        {
+          "alimento": "Fresa Y Fresón",
+          "gramos": 150
+        }
+      ],
+      "merienda": [
+        {
+          "alimento": "Albaricoque",
+          "gramos": 150
+        }
+      ],
+      "cena": [
+        {
+          "receta_id": "pizza_con_atun",
+          "gramos": 285
+        },
+        {
+          "alimento": "Sandia",
+          "gramos": 150
+        }
+      ],
+      "kcal": 1846.91
+    },
+    {
+      "dia": 7,
+      "desayuno": [
+        {
+          "alimento": "Leche Desnatada Uht",
+          "gramos": 250
+        },
+        {
+          "alimento": "Café (infusión)",
+          "gramos": 25
+        },
+        {
+          "alimento": "Pera",
+          "gramos": 150
+        },
+        {
+          "alimento": "Pan Integral",
+          "gramos": 60
+        },
+        {
+          "alimento": "Pavo. Pechuga",
+          "gramos": 40
+        }
+      ],
+      "media_manana": [
+        {
+          "alimento": "Yogur Desnatado",
+          "gramos": 125
+        },
+        {
+          "alimento": "Nueces Sin Piel",
+          "gramos": 10
+        }
+      ],
+      "comida": [
+        {
+          "receta_id": "salteado_de_calabacin_y_champinones",
+          "gramos": 313
+        },
+        {
+          "receta_id": "pollo_al_limon",
+          "gramos": 221
+        },
+        {
+          "alimento": "Arroz Blanco Cocinado",
+          "gramos": 150
+        },
+        {
+          "alimento": "Sandia",
+          "gramos": 150
+        }
+      ],
+      "merienda": [
+        {
+          "alimento": "Fresa Y Fresón",
+          "gramos": 150
+        },
+        {
+          "alimento": "Yogur Desnatado",
+          "gramos": 125
+        }
+      ],
+      "cena": [
+        {
+          "receta_id": "revuelto_de_verduras_con_gambas",
+          "gramos": 360
+        },
+        {
+          "alimento": "Pan Integral",
+          "gramos": 30
+        },
+        {
+          "alimento": "Sandia",
+          "gramos": 150
+        }
+      ],
+      "kcal": 1663.94
+    }
+  ]
+}
