@@ -1,134 +1,230 @@
 {
   "mes": "Octubre 2025",
-  "fuente_pdf": "OCTUBRE 2025.pdf",
   "recetas": [
+
     {
-      "id": "pasta_griega_con_especias_h",
-      "nombre": "Pasta Griega con Especias (H)",
-      "cantidad": null,
-      "kcal": 457.68,
-      "ingredientes": [],
-      "preparacion": "Preparación al horno: En primer lugar, se hierve la cantidad de pasta en un caldero con agua y sal. Seguidamente, se colocan en un recipiente los tomates cherry, el queso feta, aceite de oliva, el ajo y especias al gusto (orégano) y sal al horno 30 minutos a 220 grados (precalentado el horno 10 minutos a 180 grados ). Transcurrido ese tiempo, se mezclan todos los ingredientes cocinados en el horno hasta que quede una salsa uniforme. Por último, se une con la pasta hervida. Preparación a la sartén: Añadir en una sartén los tomates cherry enteros con una pequeña cantidad de agua, que cubra solamente el fondo de la sartén. Cocinar a fuego medio-alto con la tapa puesta durante unos 10 minutos; si fuera preciso, se añadiría un poco más de agua para evitar que se quemen los tomates. Una vez que estén pochados, se baja el fuego y se añade el aceite de oliva y el ajo para dorar ligeramente dicho ingrediente. Seguidamente, se añade el queso feta troceado en dados y se mantiene a fuego medio unos dos minutos. Tras esto, se vierte en el plato y se remueve hasta obtener una mezcla uniforme. Para finalizar la presentación se añade la pasta que previamente ha sido cocinada tal cual se indica en la receta para horno"
+      "id": "pasta_griega_especias",
+      "nombre": "Pasta Griega con Especias",
+      "ingredientes": [
+        "Macarrones Integrales Hervidos 240g",
+        "Queso Feta 50g",
+        "Tomate Cherry 150g",
+        "Aceite de Oliva 10g",
+        "Ajo 2g"
+      ],
+      "preparacion": "Hervir la pasta en agua con sal. En horno: colocar tomates cherry, queso feta, aceite y ajo 30 minutos a 220ºC. Mezclar hasta formar salsa y unir con la pasta. En sartén: pochar tomates con poca agua, añadir aceite, ajo y queso feta, mezclar y añadir la pasta."
     },
+
     {
-      "id": "ensalada_cesar_con_pollo_y_huevo",
-      "nombre": "Ensalada César Con Pollo Y Huevo",
-      "cantidad": null,
-      "kcal": 348.7,
-      "ingredientes": [],
-      "preparacion": "Deshojar la lechuga y lavar las hojas, escurrirlas, sacarlas y cortarlas en trozos, pelar la cebolla, cortarla por la mitad y luego en juliana. Introducirla en un cuenco, cubrirla con agua y una pizca de sal y dejar reposar para que sea más suave de sabor. Abrir la pechuga de pollo en libro para que se cueza de forma más homogénea y cocinarla a la plancha un par de minutos por cada lado, salpimentar y condimentar con el aceite de oliva. Cocer el huevo en agua durante quince minutos, dejar enfriar, pelar y cortar en trozos. Mezclar en un bol la lechuga, el tomate, la cebolla, el queso parmesano, el huevo y la pechuga de pollo cortada en cuadrados, aliñarla con aceite, vinagre y sal."
+      "id": "ensalada_cesar_pollo_huevo",
+      "nombre": "Ensalada César con Pollo y Huevo",
+      "ingredientes": [
+        "Cebolla 20g",
+        "Pechuga de Pollo 60g",
+        "Lechuga 100g",
+        "Vinagre 5g",
+        "Tomate 50g",
+        "Queso Parmesano 20g",
+        "Huevo 50g",
+        "Aceite de Oliva 10g"
+      ],
+      "preparacion": "Lavar y cortar lechuga. Cocinar pollo a la plancha. Cocer huevo 15 minutos. Mezclar todos los ingredientes y aliñar con aceite y vinagre."
     },
+
     {
-      "id": "judias_verdes_con_jamon_cocido",
-      "nombre": "Judías Verdes Con Jamón Cocido",
-      "cantidad": null,
-      "kcal": 135.53,
-      "ingredientes": [],
-      "preparacion": "Limpie las habichuelas verdes, lávelas y cuézalas durante 25 minutos en una cazuela con agua y sal. Prepare un picadillo con el jamón cocido, el ajo y el perejil y sofríalo, a fuego lento, en una sartén con el aceite y el vino blanco. Escurra muy bien las habichuelas, póngalas en la sartén con el sofrito y continúe cocinando durante unos 10 minutos aproximadamente, remover cuidadosamente para que no se pegue. Salpimente, pase las habichuelas a una fuente y sírvalas muy calientes."
+      "id": "judias_verdes_jamon",
+      "nombre": "Judías Verdes con Jamón Cocido",
+      "ingredientes": [
+        "Judía Verde 150g",
+        "Jamón Cocido 30g",
+        "Ajo 2g",
+        "Perejil 2g",
+        "Aceite de Oliva 5g",
+        "Vino Blanco 20g"
+      ],
+      "preparacion": "Cocer judías 25 minutos. Sofreír jamón con ajo y perejil en aceite y vino. Añadir judías y cocinar 10 minutos."
     },
+
     {
       "id": "lenguado_encebollado",
       "nombre": "Lenguado Encebollado",
-      "cantidad": null,
-      "kcal": 325.5,
-      "ingredientes": [],
-      "preparacion": "Lavar y enharinar los filetes de lenguado sacudiéndolos bien para retirar la harina sobrante, y freírlos en el aceite lentamente hasta dorarlos. Freír las cebollas cortadas en tiras finas en el aceite de haber frito el lenguado; cuando la cebolla se torne transparente, añadir el vino blanco y el agua y dejar cocer lentamente todo hasta que se haya evaporado el líquido de la cocción, quedando una salsa. Colocar el lenguado en una cazuela de barro y salsearlo con la preparación anterior, hervirlo todo junto durante unos 10 minutos y servir enseguida."
+      "ingredientes": [
+        "Lenguado 150g",
+        "Cebolla 50g",
+        "Harina 20g",
+        "Aceite de Oliva 10g",
+        "Vino Blanco 30g",
+        "Agua 50g"
+      ],
+      "preparacion": "Enharinar lenguado y freír. Sofreír cebolla, añadir vino y agua hasta reducir. Incorporar el lenguado y hervir 10 minutos."
     },
+
     {
-      "id": "bocadillo_de_lomo_h",
-      "nombre": "Bocadillo De Lomo H",
-      "cantidad": null,
-      "kcal": 415.2,
-      "ingredientes": [],
-      "preparacion": "En una sartén ponemos el aceite a calentar en el fuego, cuando esté caliente echamos el lomo y lo pasamos por las dos caras, retiramos del fuego y lo reservamos en en un plato. Abrimos el pan por la mitad en una de las tapas colocamos el lomo, a continuación añadimos el queso y seguidamente la lechuga, y el tomate, unimos las dos partes del pan y servimos caliente."
+      "id": "bocadillo_lomo",
+      "nombre": "Bocadillo de Lomo",
+      "ingredientes": [
+        "Lomo de Cerdo Adobado 90g",
+        "Queso 20g",
+        "Lechuga 10g",
+        "Tomate 40g",
+        "Pan Integral 80g",
+        "Aceite de Oliva 5g"
+      ],
+      "preparacion": "Dorar el lomo en sartén. Abrir pan, añadir lomo, queso, lechuga y tomate. Servir caliente."
     },
+
     {
-      "id": "pollo_al_curry",
-      "nombre": "Pollo Al Curry",
-      "cantidad": null,
-      "kcal": 415.0,
-      "ingredientes": [],
-      "preparacion": "Trocee el pollo. Corte la cebolla en láminas finas y las zanahorias, en rodajas. Ponga en una cazuela todos los ingredientes, añada media cuchara de sal, dos pizcas de pimienta, el curry y cien mililitros de agua,y la leche de coco Déjelo cocer treinta minutos, tapado."
+      "id": "pollo_curry",
+      "nombre": "Pollo al Curry",
+      "ingredientes": [
+        "Pechuga de Pollo 125g",
+        "Leche de Coco 100g",
+        "Cebolla 35g",
+        "Zanahoria 100g",
+        "Curry en Polvo 5g"
+      ],
+      "preparacion": "Trocear ingredientes y cocinar todo junto 30 minutos tapado."
     },
+
     {
-      "id": "huevo_con_pisto_manchego",
-      "nombre": "Huevo Con Pisto Manchego",
-      "cantidad": null,
-      "kcal": 265.47,
-      "ingredientes": [],
-      "preparacion": "Se lavan y pican finamente el pimiento, el calabacín, la cebolla, el ajo y el tomate. En una sartén grande con diez gramos de aceite se rehogan a fuego medio hasta que todo quede pochado, se echa sal y pimienta y se reserva. Por otro lado, se fríe el huevo en cinco gramos de aceite muy caliente y se sirven en un plato, con el huevo en el centro, sobre el pisto."
+      "id": "huevo_pisto",
+      "nombre": "Huevo con Pisto Manchego",
+      "ingredientes": [
+        "Huevo 50g",
+        "Pimiento 30g",
+        "Calabacín 60g",
+        "Cebolla 30g",
+        "Ajo 2g",
+        "Tomate 60g",
+        "Aceite de Oliva 15g"
+      ],
+      "preparacion": "Pochar verduras en aceite. Freír huevo aparte y servir sobre el pisto."
     },
+
     {
       "id": "salteado_danpel",
       "nombre": "Salteado Danpel",
-      "cantidad": null,
-      "kcal": 248.5,
-      "ingredientes": [],
-      "preparacion": "Se trocean todas las verduras en cortes en juliana. En una sartén se hace un sofrito con la cebolla y el pimiento. Cuando estén bien pochadas, se añade la zanahoria cortada para que quede al dente. Si no gusta esta textura de la zanahoria se puede añadir desde el inicio para que se consiga un mayor tiempo de cocción. Se salpimienta al gusto y se sirve como guarnición."
+      "ingredientes": [
+        "Zanahoria 150g",
+        "Cebolla 100g",
+        "Pimiento 100g",
+        "Aceite de Oliva 15g"
+      ],
+      "preparacion": "Cortar verduras en juliana. Sofreír cebolla y pimiento. Añadir zanahoria y cocinar hasta al dente."
     },
+
     {
-      "id": "pizza_con_atun",
-      "nombre": "Pizza Con Atún",
-      "cantidad": null,
-      "kcal": 594.92,
-      "ingredientes": [],
-      "preparacion": "Utilizamos la base de pizza, y añadimos el tomate frito y encima el queso cortado en lonchas A continuación añadimos el jamón picado en trozos muy pequeños y el atún escurrido anteriormente y por último los champiñones (escurrir todas las verduras bien para que no humedezcan la masa), y rocíelo con el aceite de oliva. Precalentamos el horno a 220 º C y cuando esté caliente introducimos la pizza en el horno. ."
+      "id": "pizza_atun",
+      "nombre": "Pizza con Atún",
+      "ingredientes": [
+        "Base de Pizza 80g",
+        "Tomate Frito 60g",
+        "Queso 25g",
+        "Jamón Cocido 25g",
+        "Atún 40g",
+        "Champiñones 50g",
+        "Aceite de Oliva 5g"
+      ],
+      "preparacion": "Añadir tomate, queso, jamón, atún y champiñones sobre la base. Hornear a 220ºC hasta gratinar."
     },
+
     {
-      "id": "arroz_meloso_con_langostino_y_champinones",
-      "nombre": "Arroz Meloso Con Langostino Y Champiñones",
-      "cantidad": null,
-      "kcal": 413.4,
-      "ingredientes": [],
-      "preparacion": "En primer lugar se guisarán los langostinos sin pelar en abundante agua. Tras cocinarse durante veinte minutos se separa el caldo del marisco. Los langostinos se pelan y el caldo lo usaremos para cocinar el arroz . En una sartén se añade el aceite de oliva y una vez caliente se doran los ajos y los champiñones, ambos cortados en laminas. Añadimos los langostinos y el arroz (60 grs crudo). Lo mezclamos bien y se añade el caldo con el que guisamos el marisco. La cantidad de caldo que se añade es de tres coma cinco veces la de arroz para conseguir que quede meloso en lugar de caldoso. Las especias pueden usarse al gusto. En este arroz recomendamos usar pimienton dulce y tomillo."
+      "id": "arroz_langostinos",
+      "nombre": "Arroz Meloso con Langostinos y Champiñones",
+      "ingredientes": [
+        "Arroz Integral 180g",
+        "Champiñones 60g",
+        "Langostinos 80g",
+        "Vino Blanco 50g",
+        "Ajo 10g",
+        "Aceite de Oliva 10g"
+      ],
+      "preparacion": "Cocer langostinos y reservar caldo. Sofreír ajo y champiñones. Añadir arroz y caldo (3,5 veces). Cocinar hasta meloso."
     },
+
     {
       "id": "ensalada_tres_tiempos",
       "nombre": "Ensalada Tres Tiempos",
-      "cantidad": null,
-      "kcal": 283.55,
-      "ingredientes": [],
-      "preparacion": "Deshojar la lechuga y lavar las hojas, escurrirlas, secarlas y cortarlas en trozos, pelar la zanahoria cortarla en tiras, pelar la manzana y cortarla en trozos pequeñitos. Introducir todos los ingredientes en un cuenco y añadir el queso cortado en trozos, el atún, el aceite y el vinagre"
+      "ingredientes": [
+        "Manzana Roja 75g",
+        "Zanahoria 50g",
+        "Atún 40g",
+        "Lechuga 50g",
+        "Aceite de Oliva 10g",
+        "Queso Tierno 75g",
+        "Vinagre 5g"
+      ],
+      "preparacion": "Cortar y mezclar ingredientes. Aliñar con aceite y vinagre."
     },
+
     {
-      "id": "calabaza_con_tomate",
-      "nombre": "Calabaza Con Tomate",
-      "cantidad": null,
-      "kcal": 227.84,
-      "ingredientes": [],
-      "preparacion": "Pelar la calabaza, retirar las semillas, lavarla y cortarla en trocitos. Caliente el aceite en una cacerola al fuego y añádale el vino y seguidamente rehogar la cebolla durante cinco minutos, añada los tomates, el perejil, el comino en polvo, la calabaza cortada en trocitos, sal y pimienta, cubrir la preparación con agua y deje que cueza a fuego moderado durante unos cuarenta minutos o hasta que la calabaza esté tierna. Sírvala caliente."
+      "id": "calabaza_tomate",
+      "nombre": "Calabaza con Tomate",
+      "ingredientes": [
+        "Tomate 100g",
+        "Cebolla 50g",
+        "Vino Blanco 50g",
+        "Aceite de Oliva 10g",
+        "Calabaza 200g"
+      ],
+      "preparacion": "Rehogar cebolla y vino. Añadir tomate y calabaza. Cocer 40 minutos."
     },
+
     {
-      "id": "bocadillo_de_atun_h",
-      "nombre": "Bocadillo De Atún H",
-      "cantidad": null,
-      "kcal": 354.14,
-      "ingredientes": [],
-      "preparacion": "Por un lado abrimos la lata de atún en aceite y la escurrimos hasta retirar todo resto del mismo, (si somos hipertensos pasamos el atún por agua para retirar la sal que contenga). A continuación abrimos el pan y colocamos en una de las tapas el atún escurrido anteriormente, seguidamente colocamos encima del atún el tomate, la lechuga, las aceitunas y unimos las dos tapas del pan para hacer el bocadillo y lo servimos."
+      "id": "bocadillo_atun",
+      "nombre": "Bocadillo de Atún",
+      "ingredientes": [
+        "Atún 40g",
+        "Tomate 40g",
+        "Aceitunas Verdes 20g",
+        "Lechuga 20g",
+        "Aceite de Oliva 5g",
+        "Pan Integral 80g"
+      ],
+      "preparacion": "Escurrir atún. Añadir tomate, lechuga y aceitunas en el pan. Servir."
     },
+
     {
-      "id": "salteado_de_calabacin_y_champinones",
-      "nombre": "Salteado De Calabacín Y Champiñones",
-      "cantidad": null,
-      "kcal": 155.67,
-      "ingredientes": [],
-      "preparacion": "Lavar bien el calabacín y los champiñones, quitándoles a estos la parte con tierra, cortarlos luego en trozo medianos o en láminas. En una sartén grande poner el aceite y sofreír el ajo cortado en láminas, cuando se haya dorado el ajo, echar toda la verdura troceada, salar, tapar y hacer a fuego moderado durante 15 minutos, removiendo con frecuencia, corregir de sal y servir caliente."
+      "id": "salteado_calabacin",
+      "nombre": "Salteado de Calabacín y Champiñones",
+      "ingredientes": [
+        "Berenjena 75g",
+        "Calabacín 100g",
+        "Champiñones 75g",
+        "Pimiento 50g",
+        "Ajo 3g",
+        "Aceite de Oliva 10g"
+      ],
+      "preparacion": "Sofreír ajo. Añadir verduras troceadas. Cocinar 15 minutos tapado."
     },
+
     {
-      "id": "pollo_al_limon",
-      "nombre": "Pollo Al Limón",
-      "cantidad": null,
-      "kcal": 261.37,
-      "ingredientes": [],
-      "preparacion": "Vierta el aceite en la olla a presión al fuego, deje que se caliente, añada el pollo y dórelo, a continuación incorpore la cebolla picada, el zumo de limón previamente mezclado con la cáscara rallada, y los granos de pimienta y sazone con sal al gusto. Cierre la olla, póngala al fuego y cuando haya subido la presión, baje el fuego y cocine durante cinco minutos, seguidamente retire la olla del fuego y cuando haya bajado la presión, ábrala. Por último, pase el pollo a una fuente y sírvalo adornado con el perejil."
+      "id": "pollo_limon",
+      "nombre": "Pollo al Limón",
+      "ingredientes": [
+        "Pechuga de Pollo 150g",
+        "Cebolla 30g",
+        "Limón 30g",
+        "Aceite de Oliva 10g",
+        "Pimienta Negra"
+      ],
+      "preparacion": "Dorar pollo. Añadir cebolla y zumo de limón. Cocinar 5 minutos en olla a presión."
     },
+
     {
-      "id": "revuelto_de_verduras_con_gambas",
-      "nombre": "Revuelto De Verduras Con Gambas",
-      "cantidad": null,
-      "kcal": 318.75,
-      "ingredientes": [],
-      "preparacion": "Corte todas las verduras en taquitos variando el tamaño según gusto y póngalas a hervir con agua y una pizca de sal. Cuando estén al dente añada las patatas para terminar de guisar las verduras junto con ellas. Deseche el exceso de agua y añada el aceite de oliva junto con las gambas. Una vez salteadas añada el huevo y revuelva hasta dejar una textura homogénea."
+      "id": "revuelto_verduras_gambas",
+      "nombre": "Revuelto de Verduras con Gambas",
+      "ingredientes": [
+        "Zanahoria 50g",
+        "Judía Verde 50g",
+        "Gambas 50g",
+        "Coliflor 75g",
+        "Patata 75g",
+        "Huevo 50g",
+        "Aceite de Oliva 10g"
+      ],
+      "preparacion": "Hervir verduras y patata. Saltear con gambas. Añadir huevo y remover."
     }
+
   ]
 }
