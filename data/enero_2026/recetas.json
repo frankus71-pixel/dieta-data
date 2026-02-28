@@ -2,141 +2,177 @@
   "mes": "Enero 2026",
   "fuente_pdf": "ENERO 2026.pdf",
   "recetas": [
+
     {
       "id": "espaguetis_marineros",
       "nombre": "Espaguetis Marineros",
-      "cantidad": null,
+      "cantidad": 355,
       "kcal": 446.0,
-      "ingredientes": [],
-      "preparacion": "Ponga una cazuela al fuego con agua abundante, añádale sal y cuando rompa a hervir, incorpore los espaguetis dejar cocer removiéndolos de vez en cuando. Mientras tanto, calienta el aceite en una sartén y añada el vino blanco, agregue los ajos pelados y picados y dóreles ligeramente, añada el perejil y las gambas previamente peladas y saltear todo a fuego vivo. Deje cocer todo junto un par de minutos y apartar del fuego. Cuando los espaguetis estén en su punto viértalos en un colador y pasarlos por agua fría, póngalos en una fuente y por último incorpore la salsa de langostinos preparada, servir muy caliente."
+      "ingredientes": [
+        "150g Espagueti Integral Hervido",
+        "80g Vinos De Mesa",
+        "10g Perejil",
+        "5g Ajo",
+        "10g Aceite De Oliva",
+        "100g Langostinos"
+      ],
+      "preparacion": "Cocer los espaguetis en agua con sal hasta que estén al dente. En una sartén calentar el aceite, añadir el vino blanco y el ajo picado. Dorar ligeramente y agregar el perejil y los langostinos. Saltear unos minutos. Escurrir la pasta y mezclar con la salsa. Servir caliente."
     },
+
     {
       "id": "cogollo_de_lechuga_con_pavo",
       "nombre": "Cogollo De Lechuga Con Pavo",
-      "cantidad": null,
+      "cantidad": 350,
       "kcal": 294.95,
-      "ingredientes": [],
-      "preparacion": "Pasa la carne de pavo picada anteriormente y las verduras por la sartén con el aceite. Cuando estén hechas, ponlas dentro del cogollo de lechuga. Añade encima el aguacate y listo para comer"
+      "ingredientes": [
+        "100g Cogollo De Lechuga",
+        "75g Aguacate",
+        "90g Pechuga De Pavo",
+        "50g Calabacin",
+        "25g Pimiento",
+        "10g Aceite De Oliva"
+      ],
+      "preparacion": "Saltear el pavo y las verduras en aceite hasta que estén hechos. Colocar dentro del cogollo de lechuga y añadir el aguacate en láminas."
     },
+
     {
       "id": "huevo_frito",
       "nombre": "Huevo Frito",
-      "cantidad": null,
+      "cantidad": 60,
       "kcal": 168.5,
-      "ingredientes": [],
-      "preparacion": "no disponible"
+      "ingredientes": [
+        "10g Aceite De Oliva",
+        "50g Huevo De Gallina"
+      ],
+      "preparacion": "Calentar el aceite y freír el huevo hasta que la clara esté cuajada."
     },
+
     {
       "id": "ensalada_campera",
       "nombre": "Ensalada Campera",
-      "cantidad": null,
+      "cantidad": 365,
       "kcal": 281.5,
-      "ingredientes": [],
-      "preparacion": "Poner al fuego una olla con agua y llevarla a ebullición. Lava los pimientos y los tomates, córtalos en cuadrados pequeños y las cebollas tiernas cortarlas en juliana. Limpia las papas colócalas en la olla con el agua hirviendo sin pelar y cuécelas veinte minutos, cuando ya estén tiernas pélelas y después córtalas en trozos grandes. Abra la lata de atún y escurrir el aceite, monta la ensalada mezclando todos los ingredientes y aliñando con aceite, vinagre y sal."
+      "ingredientes": [
+        "125g Patata",
+        "100g Tomate Crudo",
+        "40g Atún En Aceite",
+        "5g Aceite De Oliva",
+        "30g Cebolla",
+        "5g Vinagre",
+        "20g Aceituna Verde",
+        "40g Pimiento"
+      ],
+      "preparacion": "Cocer las patatas con piel. Pelar y cortar. Mezclar con el resto de ingredientes y aliñar con aceite y vinagre."
     },
+
     {
       "id": "merluza_a_la_plancha_con_limon",
       "nombre": "Merluza A La Plancha Con Limón",
-      "cantidad": null,
+      "cantidad": 170,
       "kcal": 188.4,
-      "ingredientes": [],
-      "preparacion": "No disponible"
+      "ingredientes": [
+        "150g Merluza",
+        "10g Limón",
+        "10g Aceite De Oliva"
+      ],
+      "preparacion": "Cocinar la merluza a la plancha con aceite y añadir limón al final."
     },
-    {
-      "id": "bocadillo_de_aguacate_tomate_y_huevo_h",
-      "nombre": "Bocadillo De Aguacate, Tomate Y Huevo H.",
-      "cantidad": null,
-      "kcal": 500.43,
-      "ingredientes": [],
-      "preparacion": "Prepara el resto de ingredientes, el queso será lo primero que pongas sobre la rebanada de pan que será la base del bocata. A continuación, una vez bien lavado el tomate, córtalo en rodajas y repártelas sobre el queso. Pela el aguacate, córtalo en láminas y colócalas sobre el tomate. Pon una sartén antiadherente a calentar untada con el aceite de oliva virgen extra y haz el huevo a la plancha a fuego medio-bajo para que la clara se cuaje y la yema quede fluida, puedes ayudarle tapando la sartén. Una vez hecho el huevo, retíralo con cuidado y colócalo sobre el aguacate. Salpimenta al gusto."
-    },
+
     {
       "id": "pollo_strogonoff",
       "nombre": "Pollo Strogonoff",
-      "cantidad": null,
+      "cantidad": 294,
       "kcal": 429.05,
-      "ingredientes": [],
-      "preparacion": "Picar la cebolla en cuadritos, cortar la pechuga de pollo en tiras y los champiñones cortados a la mitad. Dorar la cebolla en la sartén junto con el ajo; posteriormente incorporar el pollo, los champiñones y la pimienta. Se mezcla y condimenta al gusto; seguidamente se echa la nata y se deja cocinar a fuego unos diez o quince minutos hasta que la nata está cocinada."
+      "ingredientes": [
+        "150g Pechuga De Pollo",
+        "50g Champiñones",
+        "50g Cebolla",
+        "3g Ajo",
+        "10g Aceite De Oliva",
+        "100g Nata"
+      ],
+      "preparacion": "Dorar cebolla y ajo, añadir pollo en tiras y champiñones. Incorporar nata y cocinar hasta espesar."
     },
+
     {
       "id": "ensalada_de_manzana_y_queso",
       "nombre": "Ensalada De Manzana Y Queso",
-      "cantidad": null,
+      "cantidad": 320,
       "kcal": 278.6,
-      "ingredientes": [],
-      "preparacion": "Cortar la manzana en cuadrados, retirarles el centro y rebanarlas en tajadas delgadas, untarlas en jugo de limón para que no se oxiden, ponerlas en la fuente y colocar encima la escarola, los tomates y las nueces, cortar el queso en trozos pequeño y en tiras lo más fina posible. Salpimentar y rociar con el aceite y el jugo de limón."
+      "ingredientes": [
+        "150g Manzana Roja",
+        "50g Escarola",
+        "40g Tomate Crudo",
+        "10g Nuez Sin Cascara",
+        "50g Queso Tierno",
+        "10g Aceite De Oliva",
+        "10g Zumo De Limon"
+      ],
+      "preparacion": "Cortar la manzana, mezclar con escarola, tomates, nueces y queso. Aliñar con aceite y limón."
     },
+
     {
       "id": "wok_de_verduras_v",
       "nombre": "Wok De Verduras V.",
-      "cantidad": null,
+      "cantidad": 300,
       "kcal": 248.5,
-      "ingredientes": [],
-      "preparacion": "Corte las cebolleta en tiras finas y separe lo blanco de lo verde. Pele el jengibre y píquelo. Corte el pimiento en tiras, trocee las espinacas y descongelo el edamame o guisantes si no encontramos el primero. Caliente el aceite en un wok y saltee la parte blanca de las cebolletas con el pimiento y el jengibre cinco minutos o hasta que estén tiernos, añada las espinacas y saltee un minuto más. Eche la salsa de soja y el edamame o guisantes en su defecto y saltee otros dos minutos más. Esparza por encima la parte verde de las cebolletas."
+      "ingredientes": [
+        "50g Cebolleta",
+        "50g Pimiento",
+        "100g Espinacas",
+        "50g Edamame",
+        "10g Salsa De Soja",
+        "5g Aceite De Oliva"
+      ],
+      "preparacion": "Saltear verduras en wok con aceite y añadir salsa de soja al final."
     },
-    {
-      "id": "bocadillo_club_con_pollo_y_huevo_h",
-      "nombre": "Bocadillo Club Con Pollo Y Huevo H",
-      "cantidad": null,
-      "kcal": 442.7,
-      "ingredientes": [],
-      "preparacion": "Cocemos el huevo durante quince minutos en agua y reservamos. Lavamos el tomate y la lechuga, la secamos y las cortamos. En una de las tapas del pan colocamos el jamón, el pollo troceado, en la otra de las tapas untamos la mayonesa y colocamos encima el tomate, la lechuga y el huevo cortado en rodajas, unimos las dos tapas y servimos."
-    },
+
     {
       "id": "arroz_con_pollo_y_mostaza",
       "nombre": "Arroz Con Pollo Y Mostaza",
-      "cantidad": null,
+      "cantidad": 380,
       "kcal": 471.05,
-      "ingredientes": [],
-      "preparacion": "Corte la cebolla en láminas finas. Caliente el aceite en una cazuela a fuego medio y sofría el pollo y la cebolla 5 minutos, removiendo. Eche el arroz y remueva 1 minuto. Añada la mostaza, la nata, la sal, dos pizcas de pimienta y 80 ml de agua. Remueva y cuézalo 20 minutos, tapado. Apártelo del fuego, remueva y déjelo reposar 10 minuto, tapado"
+      "ingredientes": [
+        "50g Arroz Blanco",
+        "150g Pechuga De Pollo",
+        "50g Cebolla",
+        "10g Aceite De Oliva",
+        "10g Mostaza",
+        "100g Nata"
+      ],
+      "preparacion": "Sofreír pollo y cebolla. Añadir arroz, mostaza y nata. Cocinar tapado hasta que el arroz esté hecho."
     },
-    {
-      "id": "ensalada_de_salmon_aguacate_y_lechuga",
-      "nombre": "Ensalada De Salmón, Aguacate Y Lechuga",
-      "cantidad": null,
-      "kcal": 195.3,
-      "ingredientes": [],
-      "preparacion": "Lavar las hojas de mezcla de lechuga y poner en el fondo del plato. Cortar el aguacate en rodajas y verter sobre la lechuga. Añadir el salmón en trocitos. Aliñar la ensalada al gusto, jugo de limón y sal."
-    },
+
     {
       "id": "calabaza_con_tomate",
       "nombre": "Calabaza Con Tomate",
-      "cantidad": null,
+      "cantidad": 412,
       "kcal": 227.84,
-      "ingredientes": [],
-      "preparacion": "Pelar la calabaza, retirar las semillas, lavarla y cortarla en trocitos. Caliente el aceite en una cacerola al fuego y añádale el vino y seguidamente rehogar la cebolla durante cinco minutos, añada los tomates, el perejil, el comino en polvo, la calabaza cortada en trocitos, sal y pimienta, cubrir la preparación con agua y deje que cueza a fuego moderado durante unos cuarenta minutos o hasta que la calabaza esté tierna. Sírvala caliente."
+      "ingredientes": [
+        "200g Calabaza",
+        "50g Tomate",
+        "50g Cebolla",
+        "10g Vino Blanco",
+        "10g Aceite De Oliva"
+      ],
+      "preparacion": "Rehogar cebolla con aceite y vino. Añadir tomate y calabaza troceada. Cocinar hasta que esté tierna."
     },
+
     {
       "id": "pizzetas_vegetales",
       "nombre": "Pizzetas Vegetales",
-      "cantidad": null,
+      "cantidad": 250,
       "kcal": 401.88,
-      "ingredientes": [],
-      "preparacion": "Lava y corta las verduras, unta el tomate y seguidamente reparte el queso en las rebanadas de pan. Seguidamente añadir la cebolla y el pimiento ya cortados, desmenuza el atún sobre las rebanadas, y espolvorea con orégano. Hornéalo hasta gratinar."
-    },
-    {
-      "id": "tortilla_francesa_con_jamon",
-      "nombre": "Tortilla Francesa Con Jamón",
-      "cantidad": null,
-      "kcal": 200.9,
-      "ingredientes": [],
-      "preparacion": "Se casca el huevo y se echa en un plato, lo batimos hasta que este bien mezclado y salpimentamos al gusto. En una sartén se pone el aceite y cuando esté se le añade el huevo batido y finalmente el jamón cocido cortado en trozos pequeños y se hace la tortilla por los dos lados. Se sirve caliente."
-    },
-    {
-      "id": "ensalada_de_millo_y_manzana",
-      "nombre": "Ensalada De Millo Y Manzana",
-      "cantidad": null,
-      "kcal": 320.6,
-      "ingredientes": [],
-      "preparacion": "Pelar la manzana y cortarla en cuadros. Lavar y cortar los tomates por la mitad, mezclar en una fuente estos ingredientes con el maíz, los espárragos y el atún desmigado. En un bol aparte se pone el aceite de oliva, el vinagre y la mostaza, se bate bien y se vierte sobre la ensalada. Se sirve a temperatura ambiente."
-    },
-    {
-      "id": "bocadillo_de_salmon_ahumado_h",
-      "nombre": "Bocadillo De Salmón Ahumado H.",
-      "cantidad": null,
-      "kcal": 387.9,
-      "ingredientes": [],
-      "preparacion": "Cortamos el pan por la mitad, lavamos la lechuga, el tomate y secamos. En una de las tapas del pan ponemos el salmón, encima colocamos el queso cortado en lonchas y seguidamente añadimos la lechuga y el tomate. En la otra mitad del pan untamos la mayonesa y unimos."
+      "ingredientes": [
+        "60g Pan Integral",
+        "90g Tomate Frito",
+        "70g Queso Tierno",
+        "30g Cebolla",
+        "40g Pimiento",
+        "40g Atún"
+      ],
+      "preparacion": "Untar tomate en el pan, añadir queso y verduras. Hornear hasta gratinar."
     }
+
   ]
 }
