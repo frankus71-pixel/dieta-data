@@ -1,236 +1,146 @@
 {
   "mes": "Diciembre 2025",
   "recetas": [
-
     {
       "id": "pasta_natali",
       "nombre": "Pasta Natali",
       "ingredientes": [
-        "Macarrones Integrales Hervidos 150g",
-        "Langostinos 75g",
-        "Aguacate 60g",
-        "Cebolleta 15g",
-        "Ajo 3g",
-        "Zumo de limón 5g",
-        "Agua 10g",
-        "Pimienta blanca 1g",
-        "Aceite de oliva 5g",
-        "Calabacín 50g"
+        "Espagueti Integral Hervido 240g",
+        "Atún En Aceite 80g",
+        "Tomate Frito 60g",
+        "Aceitunas Verdes 20g",
+        "Aceite De Oliva 10g"
       ],
-      "preparacion": "Hervir la pasta en abundante agua con sal hasta que esté al dente. Refrescar en agua fría. En una sartén calentar el aceite, añadir ajo, cebolla y pimienta. Incorporar langostinos y calabacín. Añadir la pasta y el aguacate en láminas. Agregar zumo de limón y servir."
+      "preparacion": "Hervir la pasta integral en agua con sal. En una sartén, calentar el aceite y añadir el atún escurrido y las aceitunas troceadas. Incorporar el tomate frito y cocinar 2 minutos. Mezclar con la pasta y servir."
     },
-
     {
-      "id": "ensalada_tomate_jamon",
-      "nombre": "Ensalada de Tomate y Jamón Serrano",
+      "id": "ensalada_tomate_jamon_serrano",
+      "nombre": "Ensalada De Tomate Y Jamón Serrano",
       "ingredientes": [
-        "Tomate 150g",
-        "Cebolleta 25g",
-        "Aguacate 50g",
-        "Jamón Serrano 30g",
-        "Queso Parmesano 25g",
-        "Aceite de oliva 10g",
-        "Vinagre 5g"
+        "Tomate Crudo 150g",
+        "Jamón Serrano 60g",
+        "Aceite De Oliva 10g",
+        "Ajo 2g",
+        "Pimienta Negra"
       ],
-      "preparacion": "Lavar y cortar el tomate en rodajas. Pelar y cortar el aguacate y la cebolla. Disponer el tomate, añadir aguacate, cebolla y jamón. Terminar con queso, aliñar con aceite y vinagre y servir frío."
+      "preparacion": "Cortar los tomates en rodajas. Picar el ajo muy fino y repartir sobre el tomate. Colocar las lonchas de jamón encima. Aliñar con el aceite y pimienta."
     },
-
     {
-      "id": "calabacines_wok",
-      "nombre": "Calabacines en Juliana al Wok",
+      "id": "judias_verdes_rehogadas",
+      "nombre": "Judías Verdes Rehogadas",
       "ingredientes": [
-        "Calabacín 150g",
-        "Cebolleta 50g",
-        "Tomate Cherry 20g",
-        "Salsa de soja 10g",
-        "Puerro 30g",
-        "Aceite de oliva 5g"
+        "Judía Verde 150g",
+        "Ajo 5g",
+        "Cebolla/Cebolleta 50g",
+        "Aceite De Oliva 10g",
+        "Pimentón Dulce 2g"
       ],
-      "preparacion": "Lavar y cortar las verduras en juliana. Calentar aceite en wok, añadir puerro, tomate y cebolla. Incorporar calabacín y cocinar tapado. Añadir salsa de soja y remover antes de servir."
+      "preparacion": "Cocer las judías 25 min. En una sartén con aceite, dorar ajos y cebolla. Añadir el pimentón (fuera del fuego para que no amargue), incorporar las judías escurridas y saltear 5 min."
     },
-
     {
-      "id": "merluza_riojana",
-      "nombre": "Merluza a la Riojana",
+      "id": "merluza_plancha_ajo",
+      "nombre": "Merluza A La Plancha Con Ajo Y Perejil",
       "ingredientes": [
-        "Merluza 150g",
-        "Pimiento 70g",
-        "Tomate frito 60g",
-        "Cebolleta 70g",
-        "Ajo 3g",
-        "Aceite de oliva 10g"
+        "Merluza (Lomo o rodaja) 150g",
+        "Aceite De Oliva 10g",
+        "Ajo 5g",
+        "Perejil 2g"
       ],
-      "preparacion": "Limpiar la merluza. Sofreír ajo y cebolla, añadir pimiento y tomate. Cocinar hasta espesar. Incorporar merluza y cocinar 3 minutos."
+      "preparacion": "Hacer un majado con ajo, perejil y aceite. Pintar el pescado con la mezcla. Cocinar a la plancha 3-4 minutos por cada lado hasta que esté dorado."
     },
-
-    {
-      "id": "bocadillo_cruper",
-      "nombre": "Bocadillo Cruper",
-      "ingredientes": [
-        "Aceite de oliva 10g",
-        "Queso tierno 100g",
-        "Pimiento 50g",
-        "Lomo de cerdo adobado 80g",
-        "Pan integral 80g"
-      ],
-      "preparacion": "Freír el lomo en aceite. Abrir el pan, colocar lomo, pimiento en rodajas y queso tierno."
-    },
-
     {
       "id": "pollo_ajillo",
-      "nombre": "Pollo al Ajillo",
+      "nombre": "Pollo Al Ajillo",
       "ingredientes": [
-        "Harina 10g",
-        "Vino blanco 30g",
-        "Ajo 2g",
-        "Perejil 2g",
-        "Aceite de oliva 10g",
-        "Pechuga de pollo 150g"
+        "Pechuga de Pollo 150g",
+        "Ajo 10g",
+        "Aceite De Oliva 10g",
+        "Vino Blanco 20g",
+        "Perejil Fresco"
       ],
-      "preparacion": "Sazonar pollo, rebozar en harina y freír. Sofreír ajo, añadir vino y perejil. Cocinar tapado hasta que reduzca."
+      "preparacion": "Trocear el pollo. En aceite, dorar los ajos. Añadir el pollo y sellar. Verter el vino, dejar evaporar el alcohol y cocinar 5 min más. Espolvorear perejil."
     },
-
     {
       "id": "ensalada_aguacate",
-      "nombre": "Ensalada de Aguacate",
+      "nombre": "Ensalada De Aguacate",
       "ingredientes": [
-        "Pechuga de pollo 75g",
-        "Lechuga 50g",
-        "Maíz 5g",
-        "Zanahoria 30g",
-        "Apio 20g",
         "Aguacate 75g",
-        "Yogur natural 125g"
+        "Lechuga 100g",
+        "Tomate Crudo 50g",
+        "Cebolla/Cebolleta 30g",
+        "Aceite De Oliva 5g"
       ],
-      "preparacion": "Trocear verduras y aguacate. Añadir pollo en dados. Mezclar yogur con especias para aliño y servir."
+      "preparacion": "Trocear la lechuga, el tomate y el aguacate en dados. Mezclar con la cebolla picada y aliñar con el aceite."
     },
-
     {
       "id": "ensalada_millo_manzana",
-      "nombre": "Ensalada de Millo y Manzana",
+      "nombre": "Ensalada De Millo Y Manzana",
       "ingredientes": [
-        "Mostaza 5g",
-        "Maíz 20g",
-        "Tomate 100g",
-        "Espárragos 75g",
-        "Vinagre 5g",
-        "Atún 40g",
-        "Aceite de oliva 10g",
-        "Manzana roja 100g"
+        "Maiz (Millo) 40g",
+        "Manzana Roja 100g",
+        "Lechuga 100g",
+        "Aceite De Oliva 10g",
+        "Zumo De Limon 5g"
       ],
-      "preparacion": "Pelar y cortar manzana. Mezclar con tomate, maíz, espárragos y atún. Aliñar con aceite, vinagre y mostaza."
+      "preparacion": "Mezclar la lechuga troceada con la manzana en dados y el millo. Aliñar con aceite y limón para evitar la oxidación de la manzana."
     },
-
     {
-      "id": "bocadillo_aguacate_huevo",
-      "nombre": "Bocadillo de Aguacate, Tomate y Huevo",
+      "id": "bocadillo_aguacate_tomate_h",
+      "nombre": "Bocadillo De Aguacate, Tomate Y Huevo (H)",
       "ingredientes": [
-        "Pan integral 80g",
         "Aguacate 60g",
-        "Queso tierno 70g",
-        "Tomate 60g",
-        "Huevo 50g",
-        "Aceite de oliva 10g"
+        "Tomate Crudo 40g",
+        "Huevo Cocido 50g",
+        "Pan Integral 80g"
       ],
-      "preparacion": "Colocar queso sobre pan, añadir tomate y aguacate. Hacer huevo a la plancha y añadir. Salpimentar."
+      "preparacion": "Cocer el huevo 10 min. Abrir el pan, poner el aguacate laminado, el tomate en rodajas y el huevo cocido encima."
     },
-
     {
-      "id": "arroz_meloso_langostinos",
-      "nombre": "Arroz Meloso con Langostinos y Champiñones",
+      "id": "arroz_meloso_dic",
+      "nombre": "Arroz Meloso Con Langostinos Y Champiñones",
       "ingredientes": [
-        "Arroz integral 180g",
+        "Arroz Integral 180g (hervido)",
         "Champiñones 60g",
         "Langostinos 80g",
-        "Vino blanco 50g",
+        "Vino Blanco 50g",
         "Ajo 10g",
-        "Aceite de oliva 10g"
+        "Aceite De Oliva 10g"
       ],
-      "preparacion": "Cocer langostinos y reservar caldo. Sofreír ajo y champiñones, añadir arroz y langostinos. Añadir caldo y cocinar hasta meloso."
+      "preparacion": "Cocer langostinos y reservar caldo. Sofreír ajo y champiñones. Añadir arroz, vino y luego el caldo (3.5 partes). Cocinar hasta que esté meloso. Añadir los langostinos al final."
     },
-
     {
-      "id": "ensalada_tres_tiempos",
+      "id": "ensalada_tres_tiempos_dic",
       "nombre": "Ensalada Tres Tiempos",
       "ingredientes": [
-        "Manzana roja 75g",
+        "Manzana Roja 75g",
         "Zanahoria 50g",
-        "Atún 40g",
+        "Atún En Aceite 40g",
         "Lechuga 50g",
-        "Aceite de oliva 10g",
-        "Queso tierno 75g",
+        "Aceite De Oliva 10g",
+        "Queso Tierno 75g",
         "Vinagre 5g"
       ],
-      "preparacion": "Cortar ingredientes, mezclar en bol y aliñar con aceite y vinagre."
+      "preparacion": "Cortar y mezclar todos los ingredientes. Aliñar con aceite y vinagre."
     },
-
     {
-      "id": "calabaza_tomate",
-      "nombre": "Calabaza con Tomate",
+      "id": "solomillo_ternera_dic",
+      "nombre": "Solomillo de Ternera",
       "ingredientes": [
-        "Tomate 100g",
-        "Cebolleta 50g",
-        "Vino blanco 50g",
-        "Aceite de oliva 10g",
-        "Calabaza 200g"
+        "Solomillo de Ternera 150g",
+        "Aceite de Oliva 5g",
+        "Sal y Pimienta"
       ],
-      "preparacion": "Rehogar cebolla, añadir tomate y calabaza. Cubrir con agua y cocer 40 minutos."
+      "preparacion": "Cocinar a la plancha al punto deseado con el aceite. Salpimentar al final."
     },
-
     {
-      "id": "pizzetas_vegetales",
-      "nombre": "Pizzetas Vegetales",
+      "id": "ensalada_tomate_simple",
+      "nombre": "Ensalada de Tomate",
       "ingredientes": [
-        "Pan integral 70g",
-        "Tomate frito 60g",
-        "Queso 25g",
-        "Cebolla 25g",
-        "Pimiento 30g",
-        "Atún 40g"
+        "Tomate Crudo 150g",
+        "Cebolla 30g",
+        "Aceite de Oliva 5g"
       ],
-      "preparacion": "Untar tomate en pan, añadir queso, verduras y atún. Hornear hasta gratinar."
-    },
-
-    {
-      "id": "judias_jamon",
-      "nombre": "Judías Verdes con Jamón",
-      "ingredientes": [
-        "Judías verdes 150g",
-        "Jamón cocido 30g",
-        "Ajo 2g",
-        "Aceite de oliva 5g",
-        "Vino blanco 20g"
-      ],
-      "preparacion": "Cocer judías. Sofreír jamón con ajo y vino. Mezclar y cocinar 10 minutos."
-    },
-
-    {
-      "id": "pollo_asado",
-      "nombre": "Pollo Asado",
-      "ingredientes": [
-        "Pechuga de pollo 150g",
-        "Aceite de oliva 10g",
-        "Perejil 3g",
-        "Ajo 3g",
-        "Vino blanco 30g"
-      ],
-      "preparacion": "Marinar pollo con ajo, perejil, aceite y vino. Hornear 30 minutos."
-    },
-
-    {
-      "id": "revuelto_verduras_gambas",
-      "nombre": "Revuelto de Verduras con Gambas",
-      "ingredientes": [
-        "Zanahoria 50g",
-        "Judías verdes 50g",
-        "Gambas 50g",
-        "Aceite de oliva 10g",
-        "Coliflor 75g",
-        "Huevo 50g",
-        "Patata 75g"
-      ],
-      "preparacion": "Cocer verduras y patata. Saltear con gambas y añadir huevo removiendo hasta cuajar."
+      "preparacion": "Cortar el tomate y la cebolla. Aliñar con el aceite."
     }
-
   ]
 }
