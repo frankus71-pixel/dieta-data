@@ -1,235 +1,223 @@
 {
   "mes": "Noviembre 2025",
   "recetas": [
-
     {
-      "id": "espaguetis_atun",
-      "nombre": "Espaguetis con Atún",
+      "id": "espaguetis_atun_h",
+      "nombre": "Espaguetis con Atún (H)",
       "ingredientes": [
         "Espagueti Integral Hervido 240g",
-        "Atún en Aceite 80g",
+        "Atún En Aceite 80g",
         "Tomate Frito 120g",
-        "Cebolla 50g",
+        "Cebolla/Cebolleta 50g",
         "Pimiento 50g",
-        "Aceite de Oliva 10g"
+        "Aceite De Oliva 10g"
       ],
-      "preparacion": "Cocer los espaguetis en agua con sal durante 8-10 minutos. Escurrir y pasar por agua fría. Sofreír en una sartén con aceite la cebolla y el pimiento picados. Añadir el atún escurrido y el tomate frito. Cocinar unos minutos y mezclar con la pasta. Servir caliente."
+      "preparacion": "Hervir la pasta en agua con sal de 8 a 10 min, escurrir y pasar por agua fría[cite: 119]. En una sartén, calentar aceite y sofreír cebolla y pimiento picados[cite: 120]. Añadir el atún escurrido, el tomate frito y cocinar a fuego lento unos minutos[cite: 122]. Mezclar la salsa con los espaguetis y servir caliente[cite: 123]."
     },
-
     {
       "id": "ensalada_atun_aguacate",
-      "nombre": "Ensalada de Atún y Aguacate",
+      "nombre": "Ensalada De Atún Y Aguacate",
       "ingredientes": [
         "Escarola 75g",
         "Aguacate 75g",
-        "Atún en Aceite 40g",
+        "Atún En Aceite 40g",
         "Tomate Crudo 75g",
-        "Aceite de Oliva 5g",
-        "Zumo de Limón 5g",
+        "Aceite De Oliva 5g",
+        "Zumo De Limon 5g",
         "Pimienta Negra"
       ],
-      "preparacion": "Lavar la escarola y el tomate. Cortar el aguacate en lonchas y el tomate en rodajas. Escurrir el atún. Emulsionar aceite y limón. Mezclar todos los ingredientes y aliñar."
+      "preparacion": "Lavar la escarola y cortar los tomates en rodajas[cite: 130]. Cortar el aguacate en lonchas y el atún en trozos[cite: 131, 132]. Emulsionar aceite, limón, sal y pimienta[cite: 132, 133]. Montar el plato con la escarola de base, añadir el resto de ingredientes y aliñar[cite: 133, 134]."
     },
-
     {
-      "id": "calabacines_wok",
-      "nombre": "Calabacines en Juliana al Wok",
+      "id": "calabacines_juliana_wok",
+      "nombre": "Calabacines En Juliana Al Wok",
       "ingredientes": [
-        "Calabacín 150g",
-        "Cebolla 50g",
+        "Calabacin 150g",
+        "Cebolla/Cebolleta 50g",
         "Tomate Cherry 20g",
-        "Salsa de Soja 10g",
+        "Salsa De Soja 10g",
         "Puerro 30g",
-        "Aceite de Oliva 5g"
+        "Aceite De Oliva 5g"
       ],
-      "preparacion": "Lavar y cortar las verduras en juliana. Sofreír primero puerro, tomate y cebolla. Añadir calabacín y cocinar tapado. Incorporar salsa de soja y mezclar antes de servir."
+      "preparacion": "Cortar las verduras en juliana uniforme[cite: 141, 142]. En el wok con aceite, añadir puerro, cherrys sin pelar y cebolla a fuego medio[cite: 143]. Cuando doren, añadir calabacín, tapar y salpimentar[cite: 144]. Al final, añadir la soja, revolver y emplatar[cite: 145]."
     },
-
     {
       "id": "merluza_riojana",
-      "nombre": "Merluza a la Riojana",
+      "nombre": "Merluza A La Riojana",
       "ingredientes": [
         "Merluza 150g",
         "Pimiento 70g",
         "Tomate Frito 60g",
-        "Cebolla 70g",
+        "Cebolla/Cebolleta 70g",
         "Ajo 3g",
-        "Aceite de Oliva 10g"
+        "Aceite De Oliva 10g",
+        "Pimienta Blanca"
       ],
-      "preparacion": "Sofreír ajo y cebolla. Añadir pimiento y tomate hasta formar salsa. Incorporar merluza y cocinar 3 minutos."
+      "preparacion": "Limpiar la merluza, salpimentar y reservar[cite: 147, 148]. En una sartén con aceite, freír ajos en láminas y cebolla en rodajas[cite: 149]. Añadir pimiento y tomate hasta obtener una salsa espesa[cite: 150]. Incorporar la merluza, cocer 3 minutos y servir[cite: 151]."
     },
-
     {
-      "id": "bocadillo_atun_millo",
-      "nombre": "Bocadillo de Atún y Millo",
+      "id": "bocadillo_atun_millo_h",
+      "nombre": "Bocadillo De Atún Y Millo H",
       "ingredientes": [
-        "Atún en Aceite 60g",
-        "Maíz 30g",
-        "Mayonesa Baja en Calorías 15g",
+        "Atún En Aceite 60g",
+        "Maiz (Millo) 30g",
+        "Mayonesa Baja En Calorias 15g",
         "Pan Integral 80g"
       ],
-      "preparacion": "Escurrir el atún. Untar mayonesa en el pan, añadir atún y maíz. Cerrar y servir."
+      "preparacion": "Escurrir bien el atún (lavar si hay hipertensión)[cite: 152]. Abrir el pan, poner mayonesa en una tapa y el atún en la otra[cite: 153]. Añadir el millo sobre el atún y cerrar el bocadillo[cite: 153]."
     },
-
     {
-      "id": "pollo_curry",
-      "nombre": "Pollo al Curry",
+      "id": "pollo_curry_nov",
+      "nombre": "Pollo Al Curry",
       "ingredientes": [
         "Pechuga de Pollo 125g",
-        "Leche de Coco 100g",
-        "Cebolla 35g",
+        "Leche De Coco 100g",
+        "Cebolla/Cebolleta 35g",
         "Zanahoria 100g",
-        "Curry en Polvo 5g"
+        "Curry En Polvo 5g"
       ],
-      "preparacion": "Trocear pollo y verduras. Cocinar todo junto con leche de coco y curry durante 30 minutos tapado."
+      "preparacion": "Trocear el pollo, la cebolla en láminas y la zanahoria en rodajas[cite: 155, 156]. Poner todo en una cazuela con sal, pimienta, curry, 100ml de agua y la leche de coco[cite: 157]. Cocer tapado durante 30 minutos[cite: 157]."
     },
-
     {
-      "id": "huevo_pisto",
-      "nombre": "Huevo con Pisto Manchego",
+      "id": "huevo_pisto_manchego_nov",
+      "nombre": "Huevo Con Pisto Manchego",
       "ingredientes": [
-        "Huevo 50g",
+        "Huevo De Gallina 50g",
         "Pimiento 30g",
-        "Calabacín 60g",
-        "Cebolla 30g",
+        "Calabacin 60g",
+        "Cebolla/Cebolleta 30g",
         "Ajo 2g",
-        "Tomate 60g",
-        "Aceite de Oliva 15g"
+        "Tomate Crudo 60g",
+        "Aceite De Oliva 15g"
       ],
-      "preparacion": "Sofreír las verduras hasta pochar. Freír el huevo aparte y servir encima del pisto."
+      "preparacion": "Picar finamente las verduras y rehogar con 10g de aceite hasta que pochen[cite: 159, 160]. Salpimentar y reservar[cite: 160]. Freír el huevo aparte con 5g de aceite muy caliente y servir sobre el pisto[cite: 161]."
     },
-
     {
       "id": "albondigas_guisantes",
-      "nombre": "Albóndigas con Guisantes",
+      "nombre": "Albondigas Con Guisantes",
       "ingredientes": [
-        "Carne Magra de Ternera 100g",
-        "Guisantes 40g",
-        "Tomate 40g",
+        "Carne Magra De Ternera 100g",
+        "Guisante 40g",
+        "Tomate Crudo 40g",
         "Pimiento 20g",
-        "Huevo 50g",
-        "Harina 20g",
-        "Cebolla 20g",
-        "Vino Blanco 30g",
-        "Aceite de Oliva 10g",
+        "Huevo De Gallina 50g",
+        "Ajo 2g",
+        "Harina De Trigo 20g",
+        "Cebolla/Cebolleta 20g",
+        "Vinos De Mesa 30g",
+        "Aceite De Oliva 10g",
+        "Perejil 2g",
         "Pan 20g"
       ],
-      "preparacion": "Mezclar carne con huevo, ajo y harina. Formar albóndigas y freír. Sofreír cebolla y verduras, añadir vino y guisantes. Incorporar albóndigas y cocinar 8 minutos."
+      "preparacion": "Mezclar carne, perejil, huevo, harina y ajos; formar bolitas y enharinar[cite: 163]. Freír las albóndigas en aceite y apartar[cite: 164]. En el mismo aceite, sofreír cebolla, añadir pimiento, tomates picados, vino y guisantes[cite: 165]. Añadir las albóndigas con agua y cocer a presión 8 minutos[cite: 165, 166]."
     },
-
     {
       "id": "ensalada_manzana_queso",
-      "nombre": "Ensalada de Manzana y Queso",
+      "nombre": "Ensalada De Manzana Y Queso",
       "ingredientes": [
         "Manzana Roja 150g",
-        "Nueces 10g",
-        "Zumo de Limón 10g",
-        "Aceite de Oliva 10g",
+        "Nuez Sin Cascara 10g",
+        "Zumo De Limon 10g",
+        "Aceite De Oliva 10g",
         "Escarola 50g",
         "Queso Tierno 50g",
-        "Tomate 40g"
+        "Tomate Crudo 40g"
       ],
-      "preparacion": "Cortar manzana y rociar con limón. Añadir escarola, tomate, nueces y queso. Aliñar con aceite."
+      "preparacion": "Cortar la manzana en tajadas finas y mojar con limón[cite: 168]. Disponer en una fuente con escarola, tomates, nueces y tiras de queso[cite: 168]. Salpimentar y aliñar con aceite y limón[cite: 169]."
     },
-
     {
-      "id": "arroz_langostinos",
-      "nombre": "Arroz Meloso con Langostinos y Champiñones",
+      "id": "arroz_meloso_nov",
+      "nombre": "Arroz Meloso Con Langostino Y Champiñones",
       "ingredientes": [
-        "Arroz Integral 180g",
-        "Champiñones 60g",
+        "Arroz Integral Hervido 180g (60g crudo)",
+        "Champiñon Y Seta 60g",
         "Langostinos 80g",
-        "Vino Blanco 50g",
+        "Vinos De Mesa 50g",
         "Ajo 10g",
-        "Aceite de Oliva 10g"
+        "Especias (Comino, Pimentón, etc.) 5g",
+        "Aceite De Oliva 10g"
       ],
-      "preparacion": "Cocer langostinos y reservar caldo. Sofreír ajo y champiñones. Añadir arroz y langostinos. Incorporar caldo y cocinar hasta textura melosa."
+      "preparacion": "Guisar langostinos 20 min en agua con sal; pelar y reservar el caldo[cite: 171, 172, 173]. Dorar ajos y champiñones en aceite[cite: 160]. Añadir langostinos y arroz, mezclar y añadir el caldo (3,5 veces la cantidad de arroz)[cite: 161, 162]. Cocinar hasta que quede meloso[cite: 162]."
     },
-
     {
-      "id": "ensalada_tres_tiempos",
+      "id": "ensalada_tres_tiempos_nov",
       "nombre": "Ensalada Tres Tiempos",
       "ingredientes": [
         "Manzana Roja 75g",
         "Zanahoria 50g",
-        "Atún 40g",
+        "Atún En Aceite 40g",
         "Lechuga 50g",
-        "Aceite de Oliva 10g",
+        "Aceite De Oliva 10g",
         "Queso Tierno 75g",
         "Vinagre 5g"
       ],
-      "preparacion": "Cortar todos los ingredientes, mezclar en bol y aliñar con aceite y vinagre."
+      "preparacion": "Lavar y trocear la lechuga, pelar zanahoria en tiras y manzana en trozos pequeños[cite: 64]. Mezclar todo en un cuenco con el queso, el atún escurrido, aceite y vinagre[cite: 65]."
     },
-
     {
-      "id": "calabaza_tomate",
-      "nombre": "Calabaza con Tomate",
+      "id": "calabaza_tomate_nov",
+      "nombre": "Calabaza Con Tomate",
       "ingredientes": [
-        "Tomate 100g",
-        "Cebolla 50g",
-        "Vino Blanco 50g",
-        "Aceite de Oliva 10g",
+        "Tomate Crudo 100g",
+        "Cebolla/Cebolleta 50g",
+        "Vinos De Mesa 50g",
+        "Pimienta Negra 2g",
+        "Aceite De Oliva 10g",
         "Calabaza 200g"
       ],
-      "preparacion": "Rehogar cebolla con vino. Añadir tomate y calabaza. Cubrir con agua y cocer 40 minutos."
+      "preparacion": "Rehogar cebolla en aceite con vino 5 min[cite: 67]. Añadir tomates, calabaza troceada, perejil, comino, agua y sal[cite: 67]. Cocer a fuego moderado unos 40 min hasta que la calabaza esté tierna[cite: 67]."
     },
-
     {
-      "id": "pizza_atun",
-      "nombre": "Pizza con Atún",
+      "id": "pizza_atun_nov",
+      "nombre": "Pizza Con Atún",
       "ingredientes": [
-        "Base de Pizza 80g",
+        "Base De Pizza 80g",
         "Tomate Frito 60g",
-        "Queso 25g",
+        "Queso Plato 25g",
         "Jamón Cocido 25g",
-        "Atún 40g",
-        "Champiñones 50g",
-        "Aceite de Oliva 5g"
+        "Atún En Aceite 40g",
+        "Champiñon Y Seta 50g",
+        "Aceite De Oliva 5g"
       ],
-      "preparacion": "Extender tomate sobre la base. Añadir queso, jamón, atún y champiñones. Hornear a 220ºC hasta gratinar."
+      "preparacion": "Sobre la base poner tomate frito y queso en lonchas[cite: 68]. Añadir jamón picado, atún escurrido y champiñones bien escurridos[cite: 68]. Rociar con aceite y hornear a 220ºC hasta dorar[cite: 68, 69]."
     },
-
     {
-      "id": "salteado_calabacin",
-      "nombre": "Salteado de Calabacín y Champiñones",
+      "id": "salteado_calabacin_champi_nov",
+      "nombre": "Salteado De Calabacín Y Champiñones",
       "ingredientes": [
         "Berenjena 75g",
-        "Calabacín 100g",
+        "Calabacin 100g",
         "Ajo 3g",
-        "Aceite de Oliva 10g",
-        "Champiñones 75g",
+        "Aceite De Oliva 10g",
+        "Champiñon Y Seta 75g",
         "Pimiento 50g"
       ],
-      "preparacion": "Sofreír ajo en aceite. Añadir verduras troceadas. Cocinar tapado 15 minutos removiendo."
+      "preparacion": "Cortar verdura y champiñones en trozos o láminas[cite: 70]. Sofreír el ajo en láminas con aceite[cite: 71]. Añadir el resto, salar, tapar y cocinar a fuego moderado 15 min removiendo frecuentemente[cite: 71]."
     },
-
     {
-      "id": "pollo_limon",
-      "nombre": "Pollo al Limón",
+      "id": "pollo_limon_nov",
+      "nombre": "Pollo Al Limón",
       "ingredientes": [
-        "Pechuga de Pollo 150g",
-        "Cebolla 30g",
+        "Cebolla/Cebolleta 30g",
+        "Pimienta Negra 1g",
         "Limón 30g",
-        "Aceite de Oliva 10g",
-        "Pimienta Negra"
+        "Aceite De Oliva 10g",
+        "Pechuga de Pollo 150g"
       ],
-      "preparacion": "Dorar pollo en aceite. Añadir cebolla, zumo y ralladura de limón. Cocinar 5 minutos en olla a presión."
+      "preparacion": "Dorar el pollo en aceite dentro de la olla a presión[cite: 72]. Añadir cebolla picada, zumo de limón con ralladura y pimienta[cite: 72]. Cerrar y cocinar 5 min desde que suba la presión[cite: 73]. Servir con perejil[cite: 74]."
     },
-
     {
-      "id": "revuelto_verduras_gambas",
-      "nombre": "Revuelto de Verduras con Gambas",
+      "id": "revuelto_verduras_gambas_nov",
+      "nombre": "Revuelto De Verduras Con Gambas",
       "ingredientes": [
         "Zanahoria 50g",
-        "Judía Verde 50g",
-        "Gambas 50g",
+        "Judia Verde 50g",
+        "Gambas Y Camarones 50g",
+        "Aceite De Oliva 10g",
         "Coliflor 75g",
-        "Patata 75g",
-        "Huevo 50g",
-        "Aceite de Oliva 10g"
+        "Huevo De Gallina 50g",
+        "Patata 75g"
       ],
-      "preparacion": "Hervir verduras y patata. Saltear con gambas. Añadir huevo y remover hasta cuajar."
+      "preparacion": "Hervir verduras en agua con sal; añadir patatas al final para terminar de guisarlas juntas[cite: 75, 76]. Escurrir, añadir aceite y saltear con las gambas[cite: 77]. Añadir el huevo y revolver hasta textura homogénea[cite: 78]."
     }
-
   ]
 }
