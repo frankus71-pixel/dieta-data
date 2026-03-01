@@ -104,7 +104,7 @@
         { "alimento": "Nueces Sin Piel", "gramos": 10 }
       ],
       "comida": [
-        { "receta_id": "albondigas_con_guisantes", "gramos": 350 },
+        { "receta_id": "albondigas_guisantes", "gramos": 350 },
         { "alimento": "Patata", "gramos": 150 },
         { "alimento": "Manzana Roja", "gramos": 150 }
       ],
@@ -133,7 +133,7 @@
         { "alimento": "Galleta De Trigo Espelta Integral", "gramos": 30 }
       ],
       "comida": [
-        { "receta_id": "arroz_meloso_con_langostino_y_champinones", "gramos": 395 },
+        { "receta_id": "arroz_meloso_nov", "gramos": 395 },
         { "alimento": "Sandia", "gramos": 200 }
       ],
       "merienda": [
@@ -147,6 +147,65 @@
         { "alimento": "Albaricoque", "gramos": 150 }
       ],
       "kcal": 1631.15
+    },
+    {
+      "dia": 6,
+      "desayuno": [
+        { "alimento": "Leche Desnatada Uht", "gramos": 250 },
+        { "alimento": "Café (infusión)", "gramos": 25 },
+        { "alimento": "Kiwi", "gramos": 150 },
+        { "alimento": "Pan Integral", "gramos": 60 },
+        { "alimento": "Queso Tierno", "gramos": 70 },
+        { "alimento": "Mermelada Sin Azucar", "gramos": 10 }
+      ],
+      "media_manana": [
+        { "alimento": "Manzana Roja", "gramos": 150 },
+        { "alimento": "Nueces Sin Piel", "gramos": 10 }
+      ],
+      "comida": [
+        { "receta_id": "calabaza_tomate_nov", "gramos": 412 },
+        { "alimento": "Salmón", "gramos": 150 },
+        { "alimento": "Aceite De Oliva", "gramos": 10 },
+        { "alimento": "Fresa Y Fresón", "gramos": 150 }
+      ],
+      "merienda": [
+        { "alimento": "Albaricoque", "gramos": 150 }
+      ],
+      "cena": [
+        { "receta_id": "pizza_atun_nov", "gramos": 285 },
+        { "alimento": "Sandia", "gramos": 150 }
+      ],
+      "kcal": 1846.91
+    },
+    {
+      "dia": 7,
+      "desayuno": [
+        { "alimento": "Leche Desnatada Uht", "gramos": 250 },
+        { "alimento": "Café (infusión)", "gramos": 25 },
+        { "alimento": "Pera", "gramos": 150 },
+        { "alimento": "Pan Integral", "gramos": 60 },
+        { "alimento": "Pavo. Pechuga", "gramos": 40 }
+      ],
+      "media_manana": [
+        { "alimento": "Yogur Desnatado", "gramos": 125 },
+        { "alimento": "Nueces Sin Piel", "gramos": 10 }
+      ],
+      "comida": [
+        { "receta_id": "salteado_calabacin_champi_nov", "gramos": 313 },
+        { "receta_id": "pollo_limon_nov", "gramos": 221 },
+        { "alimento": "Arroz Blanco Cocinado", "gramos": 150 },
+        { "alimento": "Sandia", "gramos": 150 }
+      ],
+      "merienda": [
+        { "alimento": "Fresa Y Fresón", "gramos": 150 },
+        { "alimento": "Yogur Desnatado", "gramos": 125 }
+      ],
+      "cena": [
+        { "receta_id": "revuelto_verduras_gambas_nov", "gramos": 360 },
+        { "alimento": "Pan Integral", "gramos": 30 },
+        { "alimento": "Sandia", "gramos": 150 }
+      ],
+      "kcal": 1663.94
     }
   ]
 }
