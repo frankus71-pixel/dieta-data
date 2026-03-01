@@ -4,40 +4,11 @@
   "dias": [
     {
       "dia": 1,
-      "desayuno": [
-        {
-          "alimento": "Leche Desnatada Uht",
-          "gramos": 250
-        },
-        {
-          "alimento": "Café (infusión)",
-          "gramos": 25
-        },
-        {
-          "alimento": "Kiwi",
-          "gramos": 150
-        },
-        {
-          "alimento": "Pan Integral",
-          "gramos": 80
-        },
-        {
-          "alimento": "Queso Tierno",
-          "gramos": 70
-        },
-        {
-          "alimento": "Pavo. Pechuga",
-          "gramos": 40
-        },
-        {
-          "alimento": "Nueces Sin Piel",
-          "gramos": 10
-        }
-      ],
+      "desayuno": [...],
       "media_manana": [],
       "comida": [
         {
-          "receta_id": "pasta_griega_con_especias_h",
+          "receta_id": "pasta_griega_especias",
           "gramos": 452
         },
         {
@@ -48,7 +19,7 @@
       "merienda": [],
       "cena": [
         {
-          "receta_id": "ensalada_cesar_con_pollo_y_huevo",
+          "receta_id": "ensalada_cesar_pollo_huevo",
           "gramos": 315
         },
         {
@@ -68,40 +39,11 @@
     },
     {
       "dia": 2,
-      "desayuno": [
-        {
-          "alimento": "Leche Desnatada Uht",
-          "gramos": 250
-        },
-        {
-          "alimento": "Café (infusión)",
-          "gramos": 25
-        },
-        {
-          "alimento": "Melocoton",
-          "gramos": 150
-        },
-        {
-          "alimento": "Pan Integral",
-          "gramos": 80
-        },
-        {
-          "alimento": "Jamón Serrano",
-          "gramos": 40
-        },
-        {
-          "alimento": "Tomate Crudo",
-          "gramos": 70
-        },
-        {
-          "alimento": "Nueces Sin Piel",
-          "gramos": 10
-        }
-      ],
+      "desayuno": [...],
       "media_manana": [],
       "comida": [
         {
-          "receta_id": "judias_verdes_con_jamon_cocido",
+          "receta_id": "judias_verdes_jamon",
           "gramos": 210
         },
         {
@@ -116,7 +58,7 @@
       "merienda": [],
       "cena": [
         {
-          "receta_id": "bocadillo_de_lomo_h",
+          "receta_id": "bocadillo_lomo",
           "gramos": 245
         },
         {
@@ -132,36 +74,11 @@
     },
     {
       "dia": 3,
-      "desayuno": [
-        {
-          "alimento": "Leche Desnatada Uht",
-          "gramos": 250
-        },
-        {
-          "alimento": "Café (infusión)",
-          "gramos": 25
-        },
-        {
-          "alimento": "Kiwi",
-          "gramos": 150
-        },
-        {
-          "alimento": "Pan Integral",
-          "gramos": 80
-        },
-        {
-          "alimento": "Pavo. Pechuga",
-          "gramos": 40
-        },
-        {
-          "alimento": "Nueces Sin Piel",
-          "gramos": 10
-        }
-      ],
+      "desayuno": [...],
       "media_manana": [],
       "comida": [
         {
-          "receta_id": "pollo_al_curry",
+          "receta_id": "pollo_curry",
           "gramos": 365
         },
         {
@@ -176,7 +93,7 @@
       "merienda": [],
       "cena": [
         {
-          "receta_id": "huevo_con_pisto_manchego",
+          "receta_id": "huevo_pisto",
           "gramos": 247
         },
         {
@@ -196,32 +113,7 @@
     },
     {
       "dia": 4,
-      "desayuno": [
-        {
-          "alimento": "Leche Desnatada Uht",
-          "gramos": 250
-        },
-        {
-          "alimento": "Café (infusión)",
-          "gramos": 25
-        },
-        {
-          "alimento": "Manzana Roja",
-          "gramos": 150
-        },
-        {
-          "alimento": "Pan Integral",
-          "gramos": 80
-        },
-        {
-          "alimento": "Queso Tierno",
-          "gramos": 70
-        },
-        {
-          "alimento": "Nueces Sin Piel",
-          "gramos": 10
-        }
-      ],
+      "desayuno": [...],
       "media_manana": [],
       "comida": [
         {
@@ -244,7 +136,7 @@
       "merienda": [],
       "cena": [
         {
-          "receta_id": "pizza_con_atun",
+          "receta_id": "pizza_atun",
           "gramos": 285
         },
         {
@@ -260,40 +152,11 @@
     },
     {
       "dia": 5,
-      "desayuno": [
-        {
-          "alimento": "Leche Desnatada Uht",
-          "gramos": 250
-        },
-        {
-          "alimento": "Café (infusión)",
-          "gramos": 25
-        },
-        {
-          "alimento": "Naranja",
-          "gramos": 150
-        },
-        {
-          "alimento": "Pan Integral",
-          "gramos": 80
-        },
-        {
-          "alimento": "Pavo. Pechuga",
-          "gramos": 40
-        },
-        {
-          "alimento": "Queso Tierno",
-          "gramos": 70
-        },
-        {
-          "alimento": "Nueces Sin Piel",
-          "gramos": 10
-        }
-      ],
+      "desayuno": [...],
       "media_manana": [],
       "comida": [
         {
-          "receta_id": "arroz_meloso_con_langostino_y_champinones",
+          "receta_id": "arroz_langostinos",
           "gramos": 395
         },
         {
@@ -328,40 +191,11 @@
     },
     {
       "dia": 6,
-      "desayuno": [
-        {
-          "alimento": "Leche Desnatada Uht",
-          "gramos": 250
-        },
-        {
-          "alimento": "Café (infusión)",
-          "gramos": 25
-        },
-        {
-          "alimento": "Kiwi",
-          "gramos": 150
-        },
-        {
-          "alimento": "Pan Integral",
-          "gramos": 80
-        },
-        {
-          "alimento": "Aceite De Oliva",
-          "gramos": 10
-        },
-        {
-          "alimento": "Tomate Crudo",
-          "gramos": 70
-        },
-        {
-          "alimento": "Nueces Sin Piel",
-          "gramos": 10
-        }
-      ],
+      "desayuno": [...],
       "media_manana": [],
       "comida": [
         {
-          "receta_id": "calabaza_con_tomate",
+          "receta_id": "calabaza_tomate",
           "gramos": 412
         },
         {
@@ -380,7 +214,7 @@
       "merienda": [],
       "cena": [
         {
-          "receta_id": "bocadillo_de_atun_h",
+          "receta_id": "bocadillo_atun",
           "gramos": 205
         },
         {
@@ -396,40 +230,15 @@
     },
     {
       "dia": 7,
-      "desayuno": [
-        {
-          "alimento": "Leche Desnatada Uht",
-          "gramos": 250
-        },
-        {
-          "alimento": "Café (infusión)",
-          "gramos": 25
-        },
-        {
-          "alimento": "Pera",
-          "gramos": 150
-        },
-        {
-          "alimento": "Pan Integral",
-          "gramos": 80
-        },
-        {
-          "alimento": "Pavo. Pechuga",
-          "gramos": 40
-        },
-        {
-          "alimento": "Nueces Sin Piel",
-          "gramos": 15
-        }
-      ],
+      "desayuno": [...],
       "media_manana": [],
       "comida": [
         {
-          "receta_id": "salteado_de_calabacin_y_champinones",
+          "receta_id": "salteado_calabacin",
           "gramos": 313
         },
         {
-          "receta_id": "pollo_al_limon",
+          "receta_id": "pollo_limon",
           "gramos": 221
         },
         {
@@ -444,7 +253,7 @@
       "merienda": [],
       "cena": [
         {
-          "receta_id": "revuelto_de_verduras_con_gambas",
+          "receta_id": "revuelto_verduras_gambas",
           "gramos": 360
         },
         {
