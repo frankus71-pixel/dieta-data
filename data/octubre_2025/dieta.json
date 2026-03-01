@@ -4,272 +4,28 @@
   "dias": [
     {
       "dia": 1,
-      "desayuno": [...],
+      "desayuno": [
+        { "alimento": "Leche Desnatada Uht", "gramos": 250 },
+        { "alimento": "Café (infusión)", "gramos": 25 },
+        { "alimento": "Kiwi", "gramos": 150 },
+        { "alimento": "Pan Integral", "gramos": 80 },
+        { "alimento": "Queso Tierno", "gramos": 70 },
+        { "alimento": "Pavo. Pechuga", "gramos": 40 },
+        { "alimento": "Nueces Sin Piel", "gramos": 10 }
+      ],
       "media_manana": [],
       "comida": [
-        {
-          "receta_id": "pasta_griega_especias",
-          "gramos": 452
-        },
-        {
-          "alimento": "Manzana Roja",
-          "gramos": 200
-        }
+        { "receta_id": "pasta_griega_especias", "gramos": 452 },
+        { "alimento": "Manzana Roja", "gramos": 200 }
       ],
       "merienda": [],
       "cena": [
-        {
-          "receta_id": "ensalada_cesar_pollo_huevo",
-          "gramos": 315
-        },
-        {
-          "alimento": "Pan Integral",
-          "gramos": 30
-        },
-        {
-          "alimento": "Papaya",
-          "gramos": 200
-        },
-        {
-          "alimento": "Yogur Desnatado",
-          "gramos": 125
-        }
+        { "receta_id": "ensalada_cesar_pollo_huevo", "gramos": 315 },
+        { "alimento": "Pan Integral", "gramos": 30 },
+        { "alimento": "Papaya", "gramos": 200 },
+        { "alimento": "Yogur Desnatado", "gramos": 125 }
       ],
       "kcal": 1612.58
-    },
-    {
-      "dia": 2,
-      "desayuno": [...],
-      "media_manana": [],
-      "comida": [
-        {
-          "receta_id": "judias_verdes_jamon",
-          "gramos": 210
-        },
-        {
-          "receta_id": "lenguado_encebollado",
-          "gramos": 310
-        },
-        {
-          "alimento": "Fresa Y Fresón",
-          "gramos": 200
-        }
-      ],
-      "merienda": [],
-      "cena": [
-        {
-          "receta_id": "bocadillo_lomo",
-          "gramos": 245
-        },
-        {
-          "alimento": "Pera",
-          "gramos": 200
-        },
-        {
-          "alimento": "Yogur Desnatado",
-          "gramos": 125
-        }
-      ],
-      "kcal": 1625.53
-    },
-    {
-      "dia": 3,
-      "desayuno": [...],
-      "media_manana": [],
-      "comida": [
-        {
-          "receta_id": "pollo_curry",
-          "gramos": 365
-        },
-        {
-          "alimento": "Patata",
-          "gramos": 200
-        },
-        {
-          "alimento": "Albaricoque",
-          "gramos": 200
-        }
-      ],
-      "merienda": [],
-      "cena": [
-        {
-          "receta_id": "huevo_pisto",
-          "gramos": 247
-        },
-        {
-          "alimento": "Pan Integral",
-          "gramos": 30
-        },
-        {
-          "alimento": "Papaya",
-          "gramos": 200
-        },
-        {
-          "alimento": "Yogur Desnatado",
-          "gramos": 125
-        }
-      ],
-      "kcal": 1570.37
-    },
-    {
-      "dia": 4,
-      "desayuno": [...],
-      "media_manana": [],
-      "comida": [
-        {
-          "receta_id": "salteado_danpel",
-          "gramos": 365
-        },
-        {
-          "alimento": "Solomillo De Ternera",
-          "gramos": 150
-        },
-        {
-          "alimento": "Aceite De Oliva",
-          "gramos": 10
-        },
-        {
-          "alimento": "Manzana Roja",
-          "gramos": 150
-        }
-      ],
-      "merienda": [],
-      "cena": [
-        {
-          "receta_id": "pizza_atun",
-          "gramos": 285
-        },
-        {
-          "alimento": "Mandarina",
-          "gramos": 150
-        },
-        {
-          "alimento": "Yogur Desnatado",
-          "gramos": 125
-        }
-      ],
-      "kcal": 1776.02
-    },
-    {
-      "dia": 5,
-      "desayuno": [...],
-      "media_manana": [],
-      "comida": [
-        {
-          "receta_id": "arroz_langostinos",
-          "gramos": 395
-        },
-        {
-          "alimento": "Sandia",
-          "gramos": 200
-        }
-      ],
-      "merienda": [],
-      "cena": [
-        {
-          "receta_id": "ensalada_tres_tiempos",
-          "gramos": 305
-        },
-        {
-          "alimento": "Huevo De Gallina",
-          "gramos": 50
-        },
-        {
-          "alimento": "Pan Integral",
-          "gramos": 30
-        },
-        {
-          "alimento": "Manzana Roja",
-          "gramos": 200
-        },
-        {
-          "alimento": "Yogur Desnatado",
-          "gramos": 125
-        }
-      ],
-      "kcal": 1549.15
-    },
-    {
-      "dia": 6,
-      "desayuno": [...],
-      "media_manana": [],
-      "comida": [
-        {
-          "receta_id": "calabaza_tomate",
-          "gramos": 412
-        },
-        {
-          "alimento": "Salmón",
-          "gramos": 150
-        },
-        {
-          "alimento": "Aceite De Oliva",
-          "gramos": 10
-        },
-        {
-          "alimento": "Fresa Y Fresón",
-          "gramos": 150
-        }
-      ],
-      "merienda": [],
-      "cena": [
-        {
-          "receta_id": "bocadillo_atun",
-          "gramos": 205
-        },
-        {
-          "alimento": "Sandia",
-          "gramos": 200
-        },
-        {
-          "alimento": "Yogur Desnatado",
-          "gramos": 125
-        }
-      ],
-      "kcal": 1653.38
-    },
-    {
-      "dia": 7,
-      "desayuno": [...],
-      "media_manana": [],
-      "comida": [
-        {
-          "receta_id": "salteado_calabacin",
-          "gramos": 313
-        },
-        {
-          "receta_id": "pollo_limon",
-          "gramos": 221
-        },
-        {
-          "alimento": "Arroz Blanco Cocinado",
-          "gramos": 100
-        },
-        {
-          "alimento": "Sandia",
-          "gramos": 200
-        }
-      ],
-      "merienda": [],
-      "cena": [
-        {
-          "receta_id": "revuelto_verduras_gambas",
-          "gramos": 360
-        },
-        {
-          "alimento": "Pan Integral",
-          "gramos": 30
-        },
-        {
-          "alimento": "Sandia",
-          "gramos": 200
-        },
-        {
-          "alimento": "Yogur Desnatado",
-          "gramos": 125
-        }
-      ],
-      "kcal": 1581.59
     }
   ]
 }
