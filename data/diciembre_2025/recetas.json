@@ -2,52 +2,58 @@
   "mes": "Diciembre",
   "recetas": [
     {
+      "id": "ensalada_millo_manzana",
+      "nombre": "Ensalada Millo Manzana",
+      "ingredientes": ["Maiz Millo 40g", "Manzana Roja 100g", "Lechuga 100g", "Aceite De Oliva 10g", "Zumo De Limon 5g"],
+      "preparacion": "Mezclar la lechuga con la manzana troceada y el millo. Alinar con aceite y limon."
+    },
+    {
       "id": "judias_verdes_rehogadas",
       "nombre": "Judias Verdes Rehogadas",
       "ingredientes": ["Judia Verde 150g", "Ajo 5g", "Cebolla 50g", "Aceite De Oliva 10g", "Pimenton Dulce 2g"],
-      "preparacion": "Cocer las judias 25 min. En una sarten con aceite, dorar ajos y cebolla. Anadir el pimenton y luego las judias escurridas. Saltear 5 min."
+      "preparacion": "Cocer las judias. En una sarten con aceite, dorar ajos y cebolla. Anadir el pimenton y las judias escurridas. Saltear."
     },
     {
       "id": "salteado_calabacin",
       "nombre": "Salteado Calabacin",
       "ingredientes": ["Calabacin 100g", "Champinones 75g", "Berenjena 75g", "Pimiento 50g", "Aceite De Oliva 10g"],
-      "preparacion": "Trocear las verduras y saltear en una sarten con aceite durante 15 minutos a fuego medio."
+      "preparacion": "Trocear las verduras y saltear en una sarten con aceite durante 15 minutos."
     },
     {
       "id": "revuelto_de_verduras",
       "nombre": "Revuelto de Verduras",
       "ingredientes": ["Huevo 50g", "Gambas 50g", "Zanahoria 50g", "Judia Verde 150g", "Patata 75g", "Aceite De Oliva 10g"],
-      "preparacion": "Hervir las verduras y la patata. Saltear con las gambas en aceite y anadir el huevo batido hasta que cuaje."
+      "preparacion": "Hervir verduras y patata. Saltear con las gambas y anadir el huevo batido hasta que cuaje."
     },
     {
       "id": "bocadillo_aguacate",
       "nombre": "Bocadillo Aguacate",
       "ingredientes": ["Pan Integral 80g", "Aguacate 60g", "Tomate Crudo 40g", "Huevo Cocido 50g"],
-      "preparacion": "Cocer el huevo 10 min. Abrir el pan, poner el aguacate laminado, el tomate en rodajas y el huevo cocido encima."
+      "preparacion": "Cocer el huevo. En el pan, poner el aguacate laminado, el tomate y el huevo cocido encima."
     },
     {
       "id": "arroz_meloso",
       "nombre": "Arroz Meloso con Langostinos",
       "ingredientes": ["Arroz Integral 180g", "Champinones 60g", "Langostinos 80g", "Vino Blanco 50g", "Aceite De Oliva 10g"],
-      "preparacion": "Sofreir ajo y champinones. Anadir el arroz y el vino blanco. Ir anadiendo caldo poco a poco removiendo hasta que este meloso."
+      "preparacion": "Sofreir ajo y champinones. Anadir arroz y vino. Ir anadiendo caldo removiendo hasta que este meloso."
     },
     {
       "id": "merluza_plancha",
       "nombre": "Merluza Plancha",
       "ingredientes": ["Merluza 150g", "Aceite De Oliva 10g", "Ajo 5g", "Perejil 2g"],
-      "preparacion": "Hacer un majado con ajo, perejil y aceite. Pintar el pescado y cocinar a la plancha 3-4 minutos por lado."
+      "preparacion": "Hacer un majado con ajo, perejil y aceite. Pintar el pescado y cocinar a la plancha."
     },
     {
       "id": "pollo_ajillo",
       "nombre": "Pollo Ajillo",
       "ingredientes": ["Pechuga de Pollo 150g", "Ajo 10g", "Aceite De Oliva 10g", "Vino Blanco 20g"],
-      "preparacion": "Trocear el pollo. En aceite, dorar los ajos. Anadir el pollo y sellar. Verter el vino y cocinar 5 min mas."
+      "preparacion": "Trocear el pollo. Dorar ajos, sellar el pollo y cocinar con el vino blanco."
     },
     {
       "id": "pollo_limon",
       "nombre": "Pollo Limon",
       "ingredientes": ["Pechuga de Pollo 150g", "Cebolla 30g", "Zumo de Limon 30g", "Aceite De Oliva 10g"],
-      "preparacion": "Dorar el pollo. Anadir la cebolla picada y el zumo de limon. Cocinar 5 minutos mas."
+      "preparacion": "Dorar el pollo. Anadir la cebolla picada y el zumo de limon. Cocinar 5 min mas."
     },
     {
       "id": "pizza_navidad",
@@ -59,25 +65,25 @@
       "id": "ensalada_tomate_jamon",
       "nombre": "Ensalada de Tomate y Jamon Serrano",
       "ingredientes": ["Tomate Crudo 150g", "Jamon Serrano 60g", "Aceite De Oliva 10g", "Ajo 2g"],
-      "preparacion": "Cortar tomates en rodajas con ajo picado. Colocar jamon encima y alinar con aceite."
+      "preparacion": "Tomate en rodajas con ajo picado. Poner el jamon encima y alinar con aceite."
     },
     {
       "id": "ensalada_aguacate",
       "nombre": "Ensalada de Aguacate",
       "ingredientes": ["Aguacate 75g", "Lechuga 100g", "Tomate Crudo 50g", "Cebolla 30g"],
-      "preparacion": "Trocear lechuga, tomate y aguacate en dados. Mezclar con la cebolla y alinar."
+      "preparacion": "Trocear lechuga, tomate y aguacate. Mezclar con la cebolla y alinar."
     },
     {
       "id": "pasta_natali",
       "nombre": "Pasta Natali",
       "ingredientes": ["Espagueti Integral 240g", "Atun En Aceite 80g", "Tomate Frito 60g", "Aceitunas Verdes 20g"],
-      "preparacion": "Hervir la pasta. En sarten calentar atun, aceitunas y tomate frito. Mezclar con la pasta."
+      "preparacion": "Hervir pasta. Calentar atun, aceitunas y tomate. Mezclar con la pasta."
     },
     {
       "id": "solomillo_ternera",
       "nombre": "Solomillo Ternera",
       "ingredientes": ["Solomillo de Ternera 150g", "Aceite De Oliva 5g", "Sal"],
-      "preparacion": "Cocinar a la plancha al punto deseado con el aceite. Salar al final."
+      "preparacion": "Cocinar a la plancha al punto deseado. Salar al final."
     },
     {
       "id": "ensalada_tomate",
