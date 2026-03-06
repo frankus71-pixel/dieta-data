@@ -4,211 +4,98 @@
     {
       "id": "pasta_griega_especias",
       "nombre": "Pasta Griega con Especias",
-      "ingredientes": [
-        "Macarrones Integrales Hervidos 240g",
-        "Queso Feta 50g",
-        "Tomate Cherry 150g",
-        "Aceite de Oliva 10g",
-        "Ajo 2g"
-      ],
-      "preparacion": "Hervir la pasta en agua con sal. Preparación en Horno: En un recipiente colocar los tomates cherry, el queso feta, aceite y ajo. Hornear 30 minutos a 220ºC. Mezclar hasta formar una salsa y unir con la pasta. Preparación en Sartén: Pochar los tomates con un poco de agua 10 min. Añadir aceite, ajo y queso feta en dados. Mezclar hasta que sea uniforme y añadir la pasta."
+      "ingredientes": ["Macarrones Integrales 240g", "Queso Feta 50g", "Tomate Cherry 150g", "Aceite de Oliva 10g", "Ajo 2g"],
+      "preparacion": "Hervir pasta. Hornear tomates, feta, aceite y ajo 30 min a 220 grados. Mezclar con la pasta hasta formar salsa."
     },
     {
       "id": "ensalada_cesar_pollo_huevo",
       "nombre": "Ensalada Cesar con Pollo y Huevo",
-      "ingredientes": [
-        "Cebolla/Cebolleta 20g",
-        "Pechuga de Pollo 60g",
-        "Lechuga 100g",
-        "Vinagre 5g",
-        "Tomate Crudo 50g",
-        "Queso Parmesano 20g",
-        "Huevo 50g",
-        "Aceite de Oliva 10g"
-      ],
-      "preparacion": "Lavar y trocear la lechuga. Cortar la cebolla en juliana (se puede dejar en agua con sal para suavizar). Cocinar el pollo a la plancha. Cocer el huevo 15 minutos. Mezclar todos los ingredientes en un bol y aliñar con aceite, vinagre y sal."
+      "ingredientes": ["Pechuga de Pollo 60g", "Lechuga 100g", "Huevo 50g", "Queso Parmesano 20g", "Tomate 50g", "Cebolla 20g", "Aceite de Oliva 10g"],
+      "preparacion": "Trocear lechuga y cebolla. Pollo a la plancha y huevo cocido. Mezclar todo y alinar con aceite y vinagre."
     },
     {
       "id": "judias_verdes_jamon",
       "nombre": "Judias Verdes con Jamon Cocido",
-      "ingredientes": [
-        "Judía Verde 150g",
-        "Jamón Cocido 30g",
-        "Ajo 2g",
-        "Perejil 2g",
-        "Aceite de Oliva 5g",
-        "Vino Blanco 20g",
-        "Pimienta Negra 1g"
-      ],
-      "preparacion": "Cocer las judías 25 minutos en agua con sal. Realizar un sofrito con el jamón, ajo y perejil en aceite y vino a fuego lento. Añadir las judías escurridas al sofrito y cocinar 10 minutos más."
+      "ingredientes": ["Judia Verde 150g", "Jamon Cocido 30g", "Ajo 2g", "Vino Blanco 20g", "Aceite de Oliva 5g"],
+      "preparacion": "Cocer judias 25 min. Sofreir jamon y ajo en aceite y vino. Anadir judias y cocinar 10 min mas."
     },
     {
       "id": "lenguado_encebollado",
       "nombre": "Lenguado Encebollado",
-      "ingredientes": [
-        "Lenguado 150g",
-        "Cebolla/Cebolleta 50g",
-        "Harina de Trigo 20g",
-        "Aceite de Oliva 10g",
-        "Vino Blanco 30g",
-        "Agua 50g"
-      ],
-      "preparacion": "Enharinar el lenguado y freír en aceite. En el mismo aceite, sofreír la cebolla en tiras. Añadir vino y agua hasta reducir a salsa. Incorporar el pescado a la cazuela con la salsa y hervir 10 minutos."
+      "ingredientes": ["Lenguado 150g", "Cebolla 50g", "Harina 20g", "Vino Blanco 30g", "Aceite de Oliva 10g"],
+      "preparacion": "Enharinar y freir pescado. Sofreir cebolla, anadir vino y agua. Juntar con el pescado y hervir 10 min."
     },
     {
       "id": "bocadillo_lomo",
       "nombre": "Bocadillo de Lomo",
-      "ingredientes": [
-        "Lomo de Cerdo Adobado 90g",
-        "Queso 20g",
-        "Lechuga 10g",
-        "Tomate Crudo 40g",
-        "Pan Integral 80g",
-        "Aceite de Oliva 5g"
-      ],
-      "preparacion": "Cocinar el lomo en la sartén por ambas caras. Abrir el pan integral y rellenar con el lomo, el queso, la lechuga y el tomate. Servir caliente."
+      "ingredientes": ["Lomo de Cerdo 90g", "Pan Integral 80g", "Queso 20g", "Tomate 40g", "Lechuga 10g", "Aceite de Oliva 5g"],
+      "preparacion": "Cocinar lomo a la sarten. Rellenar el pan con lomo, queso, lechuga y tomate. Servir caliente."
     },
     {
       "id": "pollo_curry",
       "nombre": "Pollo al Curry",
-      "ingredientes": [
-        "Pechuga de Pollo 125g",
-        "Leche de Coco 100g",
-        "Cebolla/Cebolleta 35g",
-        "Zanahoria 100g",
-        "Curry en Polvo 5g"
-      ],
-      "preparacion": "Trocear el pollo, la cebolla en láminas y la zanahoria en rodajas. Colocar todo en una cazuela con sal, pimienta, curry, 100ml de agua y la leche de coco. Cocinar tapado durante 30 minutos."
+      "ingredientes": ["Pechuga de Pollo 125g", "Leche de Coco 100g", "Zanahoria 100g", "Cebolla 35g", "Curry 5g"],
+      "preparacion": "Trocear pollo y verduras. Cocinar en cazuela con leche de coco y curry durante 30 min."
     },
     {
       "id": "huevo_pisto",
       "nombre": "Huevo con Pisto Manchego",
-      "ingredientes": [
-        "Huevo 50g",
-        "Pimiento 30g",
-        "Calabacín 60g",
-        "Cebolla/Cebolleta 30g",
-        "Ajo 2g",
-        "Tomate Crudo 60g",
-        "Aceite de Oliva 15g"
-      ],
-      "preparacion": "Picar finamente todas las verduras y rehogar con 10g de aceite hasta que pochen; salpimentar. Freír el huevo aparte con los 5g de aceite restantes y servir sobre el pisto."
+      "ingredientes": ["Huevo 50g", "Calabacin 60g", "Tomate 60g", "Pimiento 30g", "Cebolla 30g", "Aceite de Oliva 15g"],
+      "preparacion": "Picar y rehogar verduras en aceite hasta pochar. Freir el huevo aparte y servir sobre el pisto."
     },
     {
       "id": "salteado_danpel",
       "nombre": "Salteado Danpel",
-      "ingredientes": [
-        "Zanahoria 150g",
-        "Cebolla/Cebolleta 100g",
-        "Pimiento 100g",
-        "Aceite de Oliva 15g"
-      ],
-      "preparacion": "Cortar las verduras en juliana. Sofreír la cebolla y el pimiento. Cuando estén pochados, añadir la zanahoria y cocinar hasta que esté al dente."
+      "ingredientes": ["Zanahoria 150g", "Cebolla 100g", "Pimiento 100g", "Aceite de Oliva 15g"],
+      "preparacion": "Cortar verduras en juliana. Sofreir cebolla y pimiento. Anadir zanahoria y cocinar al dente."
     },
     {
       "id": "pizza_atun",
       "nombre": "Pizza con Atun",
-      "ingredientes": [
-        "Base de Pizza 80g",
-        "Tomate Frito 60g",
-        "Queso 25g",
-        "Jamón Cocido 25g",
-        "Atún en Aceite 40g",
-        "Champiñones/Setas 50g",
-        "Aceite de Oliva 5g"
-      ],
-      "preparacion": "Sobre la base de pizza, extender el tomate frito. Añadir el queso, jamón picado, atún (bien escurrido) y champiñones. Rociar con el aceite y hornear a 220ºC hasta que esté dorada."
+      "ingredientes": ["Base de Pizza 80g", "Atun 40g", "Champinones 50g", "Queso 25g", "Tomate Frito 60g", "Aceite de Oliva 5g"],
+      "preparacion": "Extender tomate en la base. Anadir queso, atun escurrido y champinones. Hornear a 220 grados."
     },
     {
       "id": "arroz_langostinos",
-      "nombre": "Arroz Meloso con Langostinos y Champiñones",
-      "ingredientes": [
-        "Arroz Integral 60g",
-        "Champiñones/Setas 60g",
-        "Langostinos 80g",
-        "Vino Blanco 50g",
-        "Ajo 10g",
-        "Aceite de Oliva 10g"
-      ],
-      "preparacion": "Cocer langostinos 20 min; reservar caldo y pelar. Dorar ajos y champiñones, añadir langostinos y arroz. Añadir caldo y cocinar hasta que quede meloso."
+      "nombre": "Arroz Meloso con Langostinos",
+      "ingredientes": ["Arroz Integral 60g", "Langostinos 80g", "Champinones 60g", "Vino Blanco 50g", "Aceite de Oliva 10g"],
+      "preparacion": "Cocer langostinos y reservar caldo. Dorar champinones, anadir langostinos, arroz y el caldo. Cocinar hasta que este meloso."
     },
     {
       "id": "ensalada_tres_tiempos",
       "nombre": "Ensalada Tres Tiempos",
-      "ingredientes": [
-        "Manzana Roja 75g",
-        "Zanahoria 50g",
-        "Atún en Aceite 40g",
-        "Lechuga 50g",
-        "Aceite de Oliva 10g",
-        "Queso Tierno 75g",
-        "Vinagre 5g"
-      ],
-      "preparacion": "Lavar y trocear la lechuga. Cortar la zanahoria en tiras y la manzana en trozos pequeños. Mezclar con el queso troceado, el atún escurrido, aceite y vinagre."
+      "ingredientes": ["Manzana Roja 75g", "Queso Tierno 75g", "Atun 40g", "Lechuga 50g", "Zanahoria 50g", "Aceite de Oliva 10g"],
+      "preparacion": "Trocear lechuga, zanahoria y manzana. Mezclar con queso y atun. Alinar con aceite y vinagre."
     },
     {
       "id": "calabaza_tomate",
       "nombre": "Calabaza con Tomate",
-      "ingredientes": [
-        "Tomate Crudo 100g",
-        "Cebolla/Cebolleta 50g",
-        "Vino Blanco 50g",
-        "Aceite de Oliva 10g",
-        "Calabaza 200g"
-      ],
-      "preparacion": "Rehogar la cebolla en aceite con vino durante 5 min. Añadir tomates, calabaza en trozos, perejil, comino y agua. Cocer a fuego moderado 40 min."
+      "ingredientes": ["Calabaza 200g", "Tomate 100g", "Cebolla 50g", "Vino Blanco 50g", "Aceite de Oliva 10g"],
+      "preparacion": "Rehogar cebolla en aceite y vino. Anadir tomates y calabaza. Cocer con agua 40 min."
     },
     {
       "id": "bocadillo_atun",
       "nombre": "Bocadillo de Atun",
-      "ingredientes": [
-        "Atún en Aceite 40g",
-        "Tomate Crudo 40g",
-        "Aceitunas Verdes 20g",
-        "Lechuga 20g",
-        "Aceite de Oliva 5g",
-        "Pan Integral 80g"
-      ],
-      "preparacion": "Escurrir bien el atún. Abrir el pan integral y rellenar con el atún, rodajas de tomate, lechuga y aceitunas. Añadir el aceite."
+      "ingredientes": ["Pan Integral 80g", "Atun 40g", "Tomate 40g", "Aceitunas 20g", "Lechuga 20g", "Aceite de Oliva 5g"],
+      "preparacion": "Escurrir atun. Rellenar el pan con atun, tomate, lechuga y aceitunas. Anadir aceite."
     },
     {
       "id": "salteado_calabacin",
-      "nombre": "Salteado de Calabacin y Champiñones",
-      "ingredientes": [
-        "Berenjena 75g",
-        "Calabacín 100g",
-        "Champiñones/Setas 75g",
-        "Pimiento 50g",
-        "Ajo 3g",
-        "Aceite de Oliva 10g"
-      ],
-      "preparacion": "Sofreír el ajo en láminas. Añadir el resto de verduras troceadas, salar y cocinar tapado a fuego moderado durante 15 minutos."
+      "nombre": "Salteado de Calabacin",
+      "ingredientes": ["Calabacin 100g", "Champinones 75g", "Berenjena 75g", "Pimiento 50g", "Aceite de Oliva 10g"],
+      "preparacion": "Sofreir ajo. Anadir verduras troceadas y cocinar tapado a fuego medio 15 min."
     },
     {
       "id": "pollo_limon",
       "nombre": "Pollo al Limon",
-      "ingredientes": [
-        "Pechuga de Pollo 150g",
-        "Cebolla/Cebolleta 30g",
-        "Limón 30g",
-        "Aceite de Oliva 10g",
-        "Pimienta Negra 1g"
-      ],
-      "preparacion": "Dorar el pollo. Añadir la cebolla picada, el zumo/ralladura de limón y la pimienta. Cocinar 5 minutos en olla a presión."
+      "ingredientes": ["Pechuga de Pollo 150g", "Cebolla 30g", "Zumo de Limon 30g", "Aceite de Oliva 10g"],
+      "preparacion": "Dorar el pollo. Anadir cebolla picada y zumo de limon. Cocinar 5 min mas."
     },
     {
       "id": "revuelto_verduras_gambas",
       "nombre": "Revuelto de Verduras con Gambas",
-      "ingredientes": [
-        "Zanahoria 50g",
-        "Judía Verde 50g",
-        "Gambas/Camarones 50g",
-        "Coliflor 75g",
-        "Patata 75g",
-        "Huevo 50g",
-        "Aceite de Oliva 10g"
-      ],
-      "preparacion": "Hervir verduras y patatas. Escurrir, añadir aceite y saltear con las gambas. Añadir el huevo batido y remover hasta que cuaje."
+      "ingredientes": ["Gambas 50g", "Patata 75g", "Huevo 50g", "Judia Verde 50g", "Coliflor 75g", "Aceite de Oliva 10g"],
+      "preparacion": "Hervir verduras y patata. Saltear con las gambas en aceite. Anadir huevo batido y remover hasta cuajar."
     }
   ]
 }
