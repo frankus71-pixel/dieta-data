@@ -89,22 +89,22 @@
       "preparacion": "Trocear pollo. Añadir verduras y curry. Cocer 30 minutos tapado."
     },
     {
-      "id": "huevo_pesto_manchego",
-      "nombre": "Huevo Pesto Manchego",
-      "gramos_totales": 247,
-      "kcal": 285.5,
-      "ingredientes": [
-        "Huevo 50g",
-        "Salsa Pesto 15g",
-        "Queso Manchego 20g",
-        "Pimiento 30g",
-        "Calabacin 60g",
-        "Cebolla 30g",
-        "Tomate 60g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Rehogar verduras del pisto. Cocinar huevo, añadir pesto y queso manchego al final. Servir sobre el pisto."
-    },
+  "id": "huevo_pisto_manchego",
+  "nombre": "Huevo Pisto Manchego",
+  "gramos_totales": 247,
+  "kcal": 285.5,
+  "ingredientes": [
+    "Huevo 50g",
+    "Salsa Pesto 15g",
+    "Queso Manchego 20g",
+    "Pimiento 30g",
+    "Calabacin 60g",
+    "Cebolla 30g",
+    "Tomate 60g",
+    "Aceite De Oliva 10g"
+  ],
+  "preparacion": "Rehogar verduras del pisto. Cocinar huevo, añadir pesto y queso manchego al final. Servir sobre el pisto."
+}
     {
       "id": "albondigas_guisantes",
       "nombre": "Albondigas con Guisantes",
