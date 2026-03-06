@@ -1,8 +1,9 @@
 {
+  "mes": "Noviembre",
   "recetas": [
     {
       "id": "espaguetis_atun",
-      "nombre": "Espaguetis Con Atún",
+      "nombre": "Espaguetis con Atun",
       "gramos_totales": 550,
       "kcal": 684.0,
       "ingredientes": [
@@ -17,7 +18,7 @@
     },
     {
       "id": "ensalada_atun_aguacate",
-      "nombre": "Ensalada De Atún Y Aguacate",
+      "nombre": "Ensalada de Atun y Aguacate",
       "gramos_totales": 275,
       "kcal": 253.74,
       "ingredientes": [
@@ -31,8 +32,8 @@
       "preparacion": "Lavar escarola. Cortar tomate y aguacate. Añadir atún. Aliñar con aceite y limón."
     },
     {
-      "id": "calabacines_wok",
-      "nombre": "Calabacines En Juliana Al Wok",
+      "id": "calabacines_juliana",
+      "nombre": "Calabacines en Juliana al Wok",
       "gramos_totales": 265,
       "kcal": 136.2,
       "ingredientes": [
@@ -47,7 +48,7 @@
     },
     {
       "id": "merluza_riojana",
-      "nombre": "Merluza A La Riojana",
+      "nombre": "Merluza a la Riojana",
       "gramos_totales": 363,
       "kcal": 279.57,
       "ingredientes": [
@@ -62,7 +63,7 @@
     },
     {
       "id": "bocadillo_atun_millo",
-      "nombre": "Bocadillo De Atún Y Millo",
+      "nombre": "Bocadillo de Atun y Millo",
       "gramos_totales": 185,
       "kcal": 469.8,
       "ingredientes": [
@@ -75,7 +76,7 @@
     },
     {
       "id": "pollo_curry",
-      "nombre": "Pollo Al Curry",
+      "nombre": "Pollo al Curry",
       "gramos_totales": 365,
       "kcal": 415.0,
       "ingredientes": [
@@ -88,8 +89,8 @@
       "preparacion": "Trocear pollo. Añadir verduras y curry. Cocer 30 minutos tapado."
     },
     {
-      "id": "huevo_pisto",
-      "nombre": "Huevo Con Pisto Manchego",
+      "id": "huevo_pesto_manchego",
+      "nombre": "Huevo con Pisto Manchego",
       "gramos_totales": 247,
       "kcal": 265.47,
       "ingredientes": [
@@ -104,7 +105,7 @@
     },
     {
       "id": "albondigas_guisantes",
-      "nombre": "Albóndigas Con Guisantes",
+      "nombre": "Albondigas con Guisantes",
       "gramos_totales": 354,
       "kcal": 492.16,
       "ingredientes": [
@@ -121,23 +122,8 @@
       "preparacion": "Mezclar carne con huevo y harina. Formar albóndigas. Freír y guisar con verduras y guisantes."
     },
     {
-      "id": "ensalada_manzana_queso",
-      "nombre": "Ensalada De Manzana Y Queso",
-      "gramos_totales": 320,
-      "kcal": 278.6,
-      "ingredientes": [
-        "Manzana Roja 150g",
-        "Nueces 10g",
-        "Escarola 50g",
-        "Queso Tierno 50g",
-        "Tomate 40g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Cortar manzana. Añadir escarola, tomate, queso y nueces. Aliñar."
-    },
-    {
-      "id": "arroz_meloso_langostinos",
-      "nombre": "Arroz Meloso Con Langostino Y Champiñones",
+      "id": "arroz_meloso",
+      "nombre": "Arroz Meloso con Langostino y Champiñones",
       "gramos_totales": 395,
       "kcal": 413.4,
       "ingredientes": [
@@ -150,37 +136,8 @@
       "preparacion": "Cocer langostinos y reservar caldo. Sofreír ajo y champiñones. Añadir arroz y caldo."
     },
     {
-      "id": "ensalada_tres_tiempos",
-      "nombre": "Ensalada Tres Tiempos",
-      "gramos_totales": 305,
-      "kcal": 283.55,
-      "ingredientes": [
-        "Manzana Roja 75g",
-        "Zanahoria 50g",
-        "Atún 40g",
-        "Lechuga 50g",
-        "Queso Tierno 75g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Mezclar todos los ingredientes en un bol y aliñar."
-    },
-    {
-      "id": "calabaza_tomate",
-      "nombre": "Calabaza Con Tomate",
-      "gramos_totales": 412,
-      "kcal": 227.84,
-      "ingredientes": [
-        "Calabaza 200g",
-        "Tomate 100g",
-        "Cebolla 50g",
-        "Vino Blanco 50g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Rehogar cebolla, añadir tomate y calabaza. Cocer 40 minutos."
-    },
-    {
       "id": "pizza_atun",
-      "nombre": "Pizza Con Atún",
+      "nombre": "Pizza con Atun",
       "gramos_totales": 285,
       "kcal": 594.92,
       "ingredientes": [
@@ -193,49 +150,6 @@
         "Aceite De Oliva 5g"
       ],
       "preparacion": "Montar pizza y hornear a 220ºC hasta dorar."
-    },
-    {
-      "id": "salteado_calabacin_champi",
-      "nombre": "Salteado De Calabacín Y Champiñones",
-      "gramos_totales": 313,
-      "kcal": 155.67,
-      "ingredientes": [
-        "Berenjena 75g",
-        "Calabacín 100g",
-        "Champiñones 75g",
-        "Pimiento 50g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Saltear verduras en aceite durante 15 minutos."
-    },
-    {
-      "id": "pollo_limon",
-      "nombre": "Pollo Al Limón",
-      "gramos_totales": 221,
-      "kcal": 261.37,
-      "ingredientes": [
-        "Pechuga De Pollo 150g",
-        "Cebolla 30g",
-        "Limón 30g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Dorar pollo. Añadir cebolla y limón. Cocer 5 minutos."
-    },
-    {
-      "id": "revuelto_verduras_gambas",
-      "nombre": "Revuelto De Verduras Con Gambas",
-      "gramos_totales": 360,
-      "kcal": 318.75,
-      "ingredientes": [
-        "Zanahoria 50g",
-        "Judía Verde 50g",
-        "Gambas 50g",
-        "Coliflor 75g",
-        "Patata 75g",
-        "Huevo 50g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Hervir verduras. Saltear con gambas y añadir huevo hasta cuajar."
     }
   ]
 }
