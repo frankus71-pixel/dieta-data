@@ -4,132 +4,80 @@
     {
       "id": "salteado_calabacin",
       "nombre": "Salteado Calabacin",
-      "ingredientes": [
-        "Calabacin 100g",
-        "Champiñones 75g",
-        "Berenjena 75g",
-        "Pimiento 50g",
-        "Aceite De Oliva 10g"
-      ],
+      "ingredientes": ["Calabacin 100g", "Champinones 75g", "Berenjena 75g", "Pimiento 50g", "Aceite De Oliva 10g"],
       "preparacion": "Trocear las verduras y saltear en una sarten con aceite durante 15 minutos a fuego medio."
     },
     {
       "id": "revuelto_de_verduras",
       "nombre": "Revuelto de Verduras",
-      "ingredientes": [
-        "Huevo 50g",
-        "Gambas 50g",
-        "Zanahoria 50g",
-        "Judia Verde 150g",
-        "Patata 75g",
-        "Aceite De Oliva 10g"
-      ],
+      "ingredientes": ["Huevo 50g", "Gambas 50g", "Zanahoria 50g", "Judia Verde 150g", "Patata 75g", "Aceite De Oliva 10g"],
       "preparacion": "Hervir las verduras y la patata. Saltear con las gambas en aceite y añadir el huevo batido hasta que cuaje."
     },
     {
       "id": "bocadillo_aguacate",
       "nombre": "Bocadillo Aguacate",
-      "ingredientes": [
-        "Pan Integral 80g",
-        "Aguacate 60g",
-        "Tomate Crudo 40g",
-        "Huevo Cocido 50g"
-      ],
+      "ingredientes": ["Pan Integral 80g", "Aguacate 60g", "Tomate Crudo 40g", "Huevo Cocido 50g"],
       "preparacion": "Cocer el huevo 10 min. Abrir el pan, poner el aguacate laminado, el tomate en rodajas y el huevo cocido encima."
     },
     {
       "id": "arroz_meloso",
       "nombre": "Arroz Meloso con Langostinos",
-      "ingredientes": [
-        "Arroz Integral 180g",
-        "Champiñones 60g",
-        "Langostinos 80g",
-        "Vino Blanco 50g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Sofreír ajo y champiñones. Añadir el arroz y el vino blanco. Ir añadiendo caldo de los langostinos poco a poco removiendo hasta que este meloso."
+      "ingredientes": ["Arroz Integral 180g", "Champinones 60g", "Langostinos 80g", "Vino Blanco 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Sofreir ajo y champinones. Añadir el arroz y el vino blanco. Ir añadiendo caldo de los langostinos poco a poco removiendo hasta que este meloso."
     },
     {
       "id": "merluza_plancha",
       "nombre": "Merluza Plancha",
-      "ingredientes": [
-        "Merluza 150g",
-        "Aceite De Oliva 10g",
-        "Ajo 5g",
-        "Perejil 2g"
-      ],
+      "ingredientes": ["Merluza 150g", "Aceite De Oliva 10g", "Ajo 5g", "Perejil 2g"],
       "preparacion": "Hacer un majado con ajo, perejil y aceite. Pintar el pescado con la mezcla. Cocinar a la plancha 3-4 minutos por cada lado."
     },
     {
       "id": "pollo_ajillo",
       "nombre": "Pollo Ajillo",
-      "ingredientes": [
-        "Pechuga de Pollo 150g",
-        "Ajo 10g",
-        "Aceite De Oliva 10g",
-        "Vino Blanco 20g"
-      ],
+      "ingredientes": ["Pechuga de Pollo 150g", "Ajo 10g", "Aceite De Oliva 10g", "Vino Blanco 20g"],
       "preparacion": "Trocear el pollo. En aceite, dorar los ajos. Añadir el pollo y sellar. Verter el vino y cocinar 5 min mas."
     },
     {
       "id": "pollo_limon",
       "nombre": "Pollo Limon",
-      "ingredientes": [
-        "Pechuga de Pollo 150g",
-        "Cebolla 30g",
-        "Zumo de Limon 30g",
-        "Aceite De Oliva 10g"
-      ],
+      "ingredientes": ["Pechuga de Pollo 150g", "Cebolla 30g", "Zumo de Limon 30g", "Aceite De Oliva 10g"],
       "preparacion": "Dorar el pollo. Añadir la cebolla picada y el zumo de limon. Cocinar 5 minutos mas."
     },
     {
       "id": "pizza_navidad",
       "nombre": "Pizza Navidad",
-      "ingredientes": [
-        "Base de Pizza 80g",
-        "Tomate Frito 60g",
-        "Queso 25g",
-        "Atun 40g",
-        "Champiñones 50g"
-      ],
+      "ingredientes": ["Base de Pizza 80g", "Tomate Frito 60g", "Queso 25g", "Atun 40g", "Champinones 50g"],
       "preparacion": "Montar la pizza con los ingredientes y hornear a 220 grados hasta que este dorada."
     },
     {
       "id": "ensalada_tomate_jamon",
       "nombre": "Ensalada de Tomate y Jamon Serrano",
-      "ingredientes": [
-        "Tomate Crudo 150g",
-        "Jamon Serrano 60g",
-        "Aceite De Oliva 10g",
-        "Ajo 2g"
-      ],
-      "preparacion": "Cortar los tomates en rodajas. Picar el ajo muy fino. Colocar las lonchas de jamon encima y aliñar con el aceite."
+      "ingredientes": ["Tomate Crudo 150g", "Jamon Serrano 60g", "Aceite De Oliva 10g", "Ajo 2g"],
+      "preparacion": "Cortar los tomates en rodajas. Picar el ajo muy fino. Colocar las lonchas de jamon encima y alinar con el aceite."
     },
     {
       "id": "ensalada_aguacate",
       "nombre": "Ensalada de Aguacate",
-      "ingredientes": [
-        "Aguacate 75g",
-        "Lechuga 100g",
-        "Tomate Crudo 50g",
-        "Cebolla 30g",
-        "Aceite De Oliva 5g"
-      ],
-      "preparacion": "Trocear la lechuga, el tomate y el aguacate en dados. Mezclar con la cebolla picada y aliñar."
+      "ingredientes": ["Aguacate 75g", "Lechuga 100g", "Tomate Crudo 50g", "Cebolla 30g", "Aceite De Oliva 5g"],
+      "preparacion": "Trocear la lechuga, el tomate y el aguacate en dados. Mezclar con la cebolla picada y alinar."
     },
     {
       "id": "pasta_natali",
       "nombre": "Pasta Natali",
-      "ingredientes": [
-        "Espagueti Integral 240g",
-        "Atun En Aceite 80g",
-        "Tomate Frito 60g",
-        "Aceitunas Verdes 20g"
-      ],
+      "ingredientes": ["Espagueti Integral 240g", "Atun En Aceite 80g", "Tomate Frito 60g", "Aceitunas Verdes 20g"],
       "preparacion": "Hervir la pasta integral. En una sarten, calentar el atun y las aceitunas. Añadir el tomate frito y mezclar con la pasta."
     },
     {
       "id": "solomillo_ternera",
       "nombre": "Solomillo Ternera",
-      "ingredientes": [
-        "Solomillo de Ternera 150g",
+      "ingredientes": ["Solomillo de Ternera 150g", "Aceite De Oliva 5g", "Sal"],
+      "preparacion": "Cocinar a la plancha al punto deseado con el aceite. Salar al final."
+    },
+    {
+      "id": "ensalada_tomate",
+      "nombre": "Ensalada de Tomate",
+      "ingredientes": ["Tomate Crudo 150g", "Cebolla 30g", "Aceite De Oliva 5g"],
+      "preparacion": "Cortar el tomate y la cebolla. Alinar con el aceite."
+    }
+  ]
+}
