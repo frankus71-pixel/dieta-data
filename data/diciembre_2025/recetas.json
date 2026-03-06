@@ -5,7 +5,7 @@
       "id": "pizza_navidad",
       "nombre": "Pizza Navidad",
       "ingredientes": ["Base de Pizza 80g", "Tomate Frito 60g", "Queso 25g", "Atun 40g", "Champiñones 50g", "Aceite De Oliva 5g"],
-      "preparacion": "Montar la pizza con los ingredientes y hornear a 220 grados hasta que esté dorada."
+      "preparacion": "Montar la pizza con los ingredientes y hornear a 220 grados hasta que este dorada."
     },
     {
       "id": "ensalada_aguacate",
@@ -71,7 +71,7 @@
       "id": "ensalada_millo_manzana",
       "nombre": "Ensalada de Millo y Manzana",
       "ingredientes": ["Maiz Millo 40g", "Manzana Roja 100g", "Lechuga 100g", "Aceite De Oliva 10g", "Zumo De Limon 5g"],
-      "preparacion": "Mezclar la lechuga con la manzana y el millo. Aliñar con aceite y limon para evitar la oxidacion."
+      "preparacion": "Mezclar la lechuga con la manzana y el millo. Aliñar con aceite y limon."
     },
     {
       "id": "ensalada_tres_tiempos",
