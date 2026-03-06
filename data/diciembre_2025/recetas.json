@@ -6,11 +6,11 @@
       "nombre": "Merluza Plancha",
       "ingredientes": [
         "Merluza 150g",
-        "Aceite de Oliva 10g",
+        "Aceite De Oliva 10g",
         "Ajo 5g",
         "Perejil 2g"
       ],
-      "preparacion": "Cocinar el pescado a la plancha con el ajo y el perejil."
+      "preparacion": "Hacer un majado con ajo, perejil y aceite. Pintar el pescado con la mezcla. Cocinar a la plancha 3-4 minutos por cada lado."
     },
     {
       "id": "pollo_ajillo",
@@ -18,10 +18,11 @@
       "ingredientes": [
         "Pechuga de Pollo 150g",
         "Ajo 10g",
-        "Aceite de Oliva 10g",
-        "Vino Blanco 20g"
+        "Aceite De Oliva 10g",
+        "Vino Blanco 20g",
+        "Perejil Fresco"
       ],
-      "preparacion": "Dorar ajos, añadir pollo y vino blanco. Cocinar hasta reducir."
+      "preparacion": "Trocear el pollo. En aceite, dorar los ajos. Añadir el pollo y sellar. Verter el vino y cocinar 5 min más. Espolvorear perejil."
     },
     {
       "id": "bocadillo_aguacate",
@@ -29,10 +30,10 @@
       "ingredientes": [
         "Pan Integral 80g",
         "Aguacate 60g",
-        "Tomate 40g",
+        "Tomate Crudo 40g",
         "Huevo Cocido 50g"
       ],
-      "preparacion": "Rellenar el pan con aguacate, tomate y el huevo."
+      "preparacion": "Cocer el huevo 10 min. Abrir el pan, poner el aguacate laminado, el tomate en rodajas y el huevo cocido encima."
     },
     {
       "id": "revuelto",
@@ -41,23 +42,23 @@
         "Huevo 50g",
         "Gambas 50g",
         "Zanahoria 50g",
-        "Judia Verde 50g",
+        "Judía Verde 50g",
         "Patata 75g",
-        "Aceite de Oliva 10g"
+        "Aceite De Oliva 10g"
       ],
-      "preparacion": "Saltear verduras y gambas. Añadir huevo batido y cuajar."
+      "preparacion": "Hervir las verduras y la patata. Saltear con las gambas en aceite y añadir el huevo batido hasta que cuaje."
     },
     {
       "id": "salteado",
       "nombre": "Salteado",
       "ingredientes": [
-        "Calabacin 100g",
+        "Calabacín 100g",
         "Champiñones 75g",
         "Berenjena 75g",
         "Pimiento 50g",
-        "Aceite de Oliva 10g"
+        "Aceite De Oliva 10g"
       ],
-      "preparacion": "Trocear verduras y saltear en sarten con aceite."
+      "preparacion": "Trocear las verduras y saltear en una sartén con aceite durante 15 minutos a fuego medio."
     },
     {
       "id": "pizza_navidad",
@@ -66,10 +67,11 @@
         "Base de Pizza 80g",
         "Tomate Frito 60g",
         "Queso 25g",
-        "Atun 40g",
-        "Champiñones 50g"
+        "Atún 40g",
+        "Champiñones 50g",
+        "Aceite De Oliva 5g"
       ],
-      "preparacion": "Montar la pizza y hornear a 220 grados."
+      "preparacion": "Montar la pizza con los ingredientes y hornear a 220 grados hasta que esté dorada."
     },
     {
       "id": "pollo_limon",
@@ -78,30 +80,31 @@
         "Pechuga de Pollo 150g",
         "Cebolla 30g",
         "Zumo de Limon 30g",
-        "Aceite de Oliva 10g"
+        "Aceite De Oliva 10g"
       ],
-      "preparacion": "Saltear pollo con cebolla y añadir zumo de limon."
+      "preparacion": "Dorar el pollo. Añadir la cebolla picada y el zumo de limón. Cocinar 5 minutos más."
     },
     {
       "id": "pasta_natali",
       "nombre": "Pasta Natali",
       "ingredientes": [
         "Espagueti Integral 240g",
-        "Atun 80g",
+        "Atún En Aceite 80g",
         "Tomate Frito 60g",
-        "Aceitunas 20g"
+        "Aceitunas Verdes 20g",
+        "Aceite De Oliva 10g"
       ],
-      "preparacion": "Mezclar pasta con atun, aceitunas y tomate."
+      "preparacion": "Hervir la pasta integral en agua con sal. En una sartén, calentar el aceite y añadir el atún escurrido y las aceitunas troceadas. Incorporar el tomate frito y cocinar 2 minutos. Mezclar con la pasta y servir."
     },
     {
       "id": "solomillo_ternera",
       "nombre": "Solomillo Ternera",
       "ingredientes": [
         "Solomillo de Ternera 150g",
-        "Aceite de Oliva 5g",
-        "Sal"
+        "Aceite De Oliva 5g",
+        "Sal y Pimienta"
       ],
-      "preparacion": "Cocinar a la plancha al gusto."
+      "preparacion": "Cocinar a la plancha al punto deseado con el aceite. Salpimentar al final."
     }
   ]
 }
