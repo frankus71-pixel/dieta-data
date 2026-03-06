@@ -2,6 +2,12 @@
   "mes": "Diciembre",
   "recetas": [
     {
+      "id": "judias_verdes_rehogadas",
+      "nombre": "Judias Verdes Rehogadas",
+      "ingredientes": ["Judia Verde 150g", "Ajo 5g", "Cebolla 50g", "Aceite De Oliva 10g", "Pimenton Dulce 2g"],
+      "preparacion": "Cocer las judias 25 min. En una sarten con aceite, dorar ajos y cebolla. Anadir el pimenton y luego las judias escurridas. Saltear 5 min."
+    },
+    {
       "id": "salteado_calabacin",
       "nombre": "Salteado Calabacin",
       "ingredientes": ["Calabacin 100g", "Champinones 75g", "Berenjena 75g", "Pimiento 50g", "Aceite De Oliva 10g"],
@@ -11,7 +17,7 @@
       "id": "revuelto_de_verduras",
       "nombre": "Revuelto de Verduras",
       "ingredientes": ["Huevo 50g", "Gambas 50g", "Zanahoria 50g", "Judia Verde 150g", "Patata 75g", "Aceite De Oliva 10g"],
-      "preparacion": "Hervir las verduras y la patata. Saltear con las gambas en aceite y añadir el huevo batido hasta que cuaje."
+      "preparacion": "Hervir las verduras y la patata. Saltear con las gambas en aceite y anadir el huevo batido hasta que cuaje."
     },
     {
       "id": "bocadillo_aguacate",
@@ -23,25 +29,25 @@
       "id": "arroz_meloso",
       "nombre": "Arroz Meloso con Langostinos",
       "ingredientes": ["Arroz Integral 180g", "Champinones 60g", "Langostinos 80g", "Vino Blanco 50g", "Aceite De Oliva 10g"],
-      "preparacion": "Sofreir ajo y champinones. Añadir el arroz y el vino blanco. Ir añadiendo caldo de los langostinos poco a poco removiendo hasta que este meloso."
+      "preparacion": "Sofreir ajo y champinones. Anadir el arroz y el vino blanco. Ir anadiendo caldo poco a poco removiendo hasta que este meloso."
     },
     {
       "id": "merluza_plancha",
       "nombre": "Merluza Plancha",
       "ingredientes": ["Merluza 150g", "Aceite De Oliva 10g", "Ajo 5g", "Perejil 2g"],
-      "preparacion": "Hacer un majado con ajo, perejil y aceite. Pintar el pescado con la mezcla. Cocinar a la plancha 3-4 minutos por cada lado."
+      "preparacion": "Hacer un majado con ajo, perejil y aceite. Pintar el pescado y cocinar a la plancha 3-4 minutos por lado."
     },
     {
       "id": "pollo_ajillo",
       "nombre": "Pollo Ajillo",
       "ingredientes": ["Pechuga de Pollo 150g", "Ajo 10g", "Aceite De Oliva 10g", "Vino Blanco 20g"],
-      "preparacion": "Trocear el pollo. En aceite, dorar los ajos. Añadir el pollo y sellar. Verter el vino y cocinar 5 min mas."
+      "preparacion": "Trocear el pollo. En aceite, dorar los ajos. Anadir el pollo y sellar. Verter el vino y cocinar 5 min mas."
     },
     {
       "id": "pollo_limon",
       "nombre": "Pollo Limon",
       "ingredientes": ["Pechuga de Pollo 150g", "Cebolla 30g", "Zumo de Limon 30g", "Aceite De Oliva 10g"],
-      "preparacion": "Dorar el pollo. Añadir la cebolla picada y el zumo de limon. Cocinar 5 minutos mas."
+      "preparacion": "Dorar el pollo. Anadir la cebolla picada y el zumo de limon. Cocinar 5 minutos mas."
     },
     {
       "id": "pizza_navidad",
@@ -53,19 +59,19 @@
       "id": "ensalada_tomate_jamon",
       "nombre": "Ensalada de Tomate y Jamon Serrano",
       "ingredientes": ["Tomate Crudo 150g", "Jamon Serrano 60g", "Aceite De Oliva 10g", "Ajo 2g"],
-      "preparacion": "Cortar los tomates en rodajas. Picar el ajo muy fino. Colocar las lonchas de jamon encima y alinar con el aceite."
+      "preparacion": "Cortar tomates en rodajas con ajo picado. Colocar jamon encima y alinar con aceite."
     },
     {
       "id": "ensalada_aguacate",
       "nombre": "Ensalada de Aguacate",
-      "ingredientes": ["Aguacate 75g", "Lechuga 100g", "Tomate Crudo 50g", "Cebolla 30g", "Aceite De Oliva 5g"],
-      "preparacion": "Trocear la lechuga, el tomate y el aguacate en dados. Mezclar con la cebolla picada y alinar."
+      "ingredientes": ["Aguacate 75g", "Lechuga 100g", "Tomate Crudo 50g", "Cebolla 30g"],
+      "preparacion": "Trocear lechuga, tomate y aguacate en dados. Mezclar con la cebolla y alinar."
     },
     {
       "id": "pasta_natali",
       "nombre": "Pasta Natali",
       "ingredientes": ["Espagueti Integral 240g", "Atun En Aceite 80g", "Tomate Frito 60g", "Aceitunas Verdes 20g"],
-      "preparacion": "Hervir la pasta integral. En una sarten, calentar el atun y las aceitunas. Añadir el tomate frito y mezclar con la pasta."
+      "preparacion": "Hervir la pasta. En sarten calentar atun, aceitunas y tomate frito. Mezclar con la pasta."
     },
     {
       "id": "solomillo_ternera",
