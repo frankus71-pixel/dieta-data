@@ -26,7 +26,7 @@
       "preparacion": "Abrir el pan y rellenar con laminas de aguacate, rodajas de tomate y el huevo cocido."
     },
     {
-      "id": "revuelto_verduras_gambas",
+      "id": "revuelto",
       "nombre": "Revuelto",
       "ingredientes": [
         "Huevo 50g",
@@ -39,7 +39,7 @@
       "preparacion": "Hervir las verduras y la patata. Saltear con las gambas en aceite y añadir el huevo batido hasta que cuaje."
     },
     {
-      "id": "salteado_calabacin_champi",
+      "id": "salteado",
       "nombre": "Salteado",
       "ingredientes": [
         "Calabacin 100g",
@@ -68,21 +68,112 @@
         "Espagueti Integral 240g",
         "Atun 80g",
         "Tomate Frito 60g",
-        "Aceitunas 20g"
+        "Aceitunas 20g",
+        "Aceite de Oliva 10g"
       ],
       "preparacion": "Mezclar la pasta hervida con el atun, las aceitunas y el tomate frito caliente."
     },
     {
       "id": "ensalada_tomate_jamon",
       "nombre": "Ensalada de Tomate y Jamon Serrano",
-      "ingredientes": ["Tomate 150g", "Jamon Serrano 60g", "Aceite 10g", "Ajo 2g"],
-      "preparacion": "Cortar tomates, añadir ajo picado, jamon y aliñar."
+      "ingredientes": [
+        "Tomate Crudo 150g",
+        "Jamon Serrano 60g",
+        "Aceite de Oliva 10g",
+        "Ajo 2g"
+      ],
+      "preparacion": "Cortar los tomates en rodajas. Picar el ajo muy fino. Colocar el jamon encima y aliñar."
+    },
+    {
+      "id": "judias_verdes_rehogadas",
+      "nombre": "Judias Verdes Rehogadas",
+      "ingredientes": [
+        "Judia Verde 150g",
+        "Ajo 5g",
+        "Cebolla 50g",
+        "Aceite de Oliva 10g",
+        "Pimenton Dulce 2g"
+      ],
+      "preparacion": "Cocer las judias. En una sarten dorar ajos y cebolla. Añadir pimenton y las judias para saltear."
+    },
+    {
+      "id": "merluza_plancha_ajo",
+      "nombre": "Merluza a la Plancha con Ajo y Perejil",
+      "ingredientes": [
+        "Merluza 150g",
+        "Aceite de Oliva 10g",
+        "Ajo 5g",
+        "Perejil 2g"
+      ],
+      "preparacion": "Hacer un majado con ajo, perejil y aceite. Cocinar el pescado a la plancha con la mezcla."
+    },
+    {
+      "id": "ensalada_aguacate",
+      "nombre": "Ensalada de Aguacate",
+      "ingredientes": [
+        "Aguacate 75g",
+        "Lechuga 100g",
+        "Tomate 50g",
+        "Cebolla 30g",
+        "Aceite de Oliva 5g"
+      ],
+      "preparacion": "Trocear lechuga, tomate y aguacate. Mezclar y aliñar."
+    },
+    {
+      "id": "ensalada_millo_manzana",
+      "nombre": "Ensalada de Millo y Manzana",
+      "ingredientes": [
+        "Maiz Millo 40g",
+        "Manzana Roja 100g",
+        "Lechuga 100g",
+        "Aceite de Oliva 10g"
+      ],
+      "preparacion": "Mezclar lechuga, manzana en dados y millo. Aliñar con aceite."
+    },
+    {
+      "id": "arroz_meloso",
+      "nombre": "Arroz Meloso con Langostinos",
+      "ingredientes": [
+        "Arroz Integral 180g",
+        "Champiñones 60g",
+        "Langostinos 80g",
+        "Vino Blanco 50g",
+        "Aceite de Oliva 10g"
+      ],
+      "preparacion": "Sofreir ajo y champiñones. Añadir arroz, vino y caldo de langostinos hasta que este meloso."
+    },
+    {
+      "id": "ensalada_tres_tiempos",
+      "nombre": "Ensalada Tres Tiempos",
+      "ingredientes": [
+        "Manzana 75g",
+        "Zanahoria 50g",
+        "Atun 40g",
+        "Lechuga 50g",
+        "Queso Tierno 75g",
+        "Aceite 10g"
+      ],
+      "preparacion": "Mezclar todos los ingredientes picados y aliñar con aceite."
     },
     {
       "id": "solomillo_ternera",
       "nombre": "Solomillo de Ternera",
-      "ingredientes": ["Solomillo 150g", "Aceite 5g", "Sal"],
-      "preparacion": "Cocinar a la plancha al gusto."
+      "ingredientes": [
+        "Solomillo 150g",
+        "Aceite de Oliva 5g",
+        "Sal"
+      ],
+      "preparacion": "Cocinar el solomillo a la plancha al punto deseado."
+    },
+    {
+      "id": "ensalada_tomate",
+      "nombre": "Ensalada de Tomate",
+      "ingredientes": [
+        "Tomate 150g",
+        "Cebolla 30g",
+        "Aceite de Oliva 5g"
+      ],
+      "preparacion": "Cortar tomate y cebolla y aliñar con el aceite."
     }
   ]
 }
