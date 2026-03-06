@@ -1,5 +1,5 @@
 {
-  "mes": "Diciembre 2025",
+  "mes": "Diciembre",
   "recetas": [
     {
       "id": "pasta_natali",
@@ -14,8 +14,8 @@
       "preparacion": "Hervir la pasta integral en agua con sal. En una sartén, calentar el aceite y añadir el atún escurrido y las aceitunas troceadas. Incorporar el tomate frito y cocinar 2 minutos. Mezclar con la pasta y servir."
     },
     {
-      "id": "ensalada_tomate_jamon_serrano",
-      "nombre": "Ensalada De Tomate Y Jamón Serrano",
+      "id": "ensalada_tomate_jamon",
+      "nombre": "Ensalada de Tomate y Jamon Serrano",
       "ingredientes": [
         "Tomate Crudo 150g",
         "Jamón Serrano 60g",
@@ -27,7 +27,7 @@
     },
     {
       "id": "judias_verdes_rehogadas",
-      "nombre": "Judías Verdes Rehogadas",
+      "nombre": "Judias Verdes Rehogadas",
       "ingredientes": [
         "Judía Verde 150g",
         "Ajo 5g",
@@ -35,22 +35,22 @@
         "Aceite De Oliva 10g",
         "Pimentón Dulce 2g"
       ],
-      "preparacion": "Cocer las judías 25 min. En una sartén con aceite, dorar ajos y cebolla. Añadir el pimentón (fuera del fuego para que no amargue), incorporar las judías escurridas y saltear 5 min."
+      "preparacion": "Cocer las judías 25 min. En una sartén con aceite, dorar ajos y cebolla. Añadir el pimentón (fuera del fuego), incorporar las judías escurridas y saltear 5 min."
     },
     {
       "id": "merluza_plancha_ajo",
-      "nombre": "Merluza A La Plancha Con Ajo Y Perejil",
+      "nombre": "Merluza a la Plancha con Ajo y Perejil",
       "ingredientes": [
-        "Merluza (Lomo o rodaja) 150g",
+        "Merluza 150g",
         "Aceite De Oliva 10g",
         "Ajo 5g",
         "Perejil 2g"
       ],
-      "preparacion": "Hacer un majado con ajo, perejil y aceite. Pintar el pescado con la mezcla. Cocinar a la plancha 3-4 minutos por cada lado hasta que esté dorado."
+      "preparacion": "Hacer un majado con ajo, perejil y aceite. Pintar el pescado con la mezcla. Cocinar a la plancha 3-4 minutos por cada lado."
     },
     {
       "id": "pollo_ajillo",
-      "nombre": "Pollo Al Ajillo",
+      "nombre": "Pollo al Ajillo",
       "ingredientes": [
         "Pechuga de Pollo 150g",
         "Ajo 10g",
@@ -58,11 +58,11 @@
         "Vino Blanco 20g",
         "Perejil Fresco"
       ],
-      "preparacion": "Trocear el pollo. En aceite, dorar los ajos. Añadir el pollo y sellar. Verter el vino, dejar evaporar el alcohol y cocinar 5 min más. Espolvorear perejil."
+      "preparacion": "Trocear el pollo. En aceite, dorar los ajos. Añadir el pollo y sellar. Verter el vino y cocinar 5 min más. Espolvorear perejil."
     },
     {
       "id": "ensalada_aguacate",
-      "nombre": "Ensalada De Aguacate",
+      "nombre": "Ensalada de Aguacate",
       "ingredientes": [
         "Aguacate 75g",
         "Lechuga 100g",
@@ -70,11 +70,11 @@
         "Cebolla/Cebolleta 30g",
         "Aceite De Oliva 5g"
       ],
-      "preparacion": "Trocear la lechuga, el tomate y el aguacate en dados. Mezclar con la cebolla picada y aliñar con el aceite."
+      "preparacion": "Trocear la lechuga, el tomate y el aguacate en dados. Mezclar con la cebolla picada y aliñar."
     },
     {
       "id": "ensalada_millo_manzana",
-      "nombre": "Ensalada De Millo Y Manzana",
+      "nombre": "Ensalada de Millo y Manzana",
       "ingredientes": [
         "Maiz (Millo) 40g",
         "Manzana Roja 100g",
@@ -82,11 +82,11 @@
         "Aceite De Oliva 10g",
         "Zumo De Limon 5g"
       ],
-      "preparacion": "Mezclar la lechuga troceada con la manzana en dados y el millo. Aliñar con aceite y limón para evitar la oxidación de la manzana."
+      "preparacion": "Mezclar la lechuga con la manzana y el millo. Aliñar con aceite y limón para evitar la oxidación."
     },
     {
-      "id": "bocadillo_aguacate_tomate_h",
-      "nombre": "Bocadillo De Aguacate, Tomate Y Huevo (H)",
+      "id": "bocadillo_aguacate_tomate_huevo",
+      "nombre": "Bocadillo de Aguacate Tomate y Huevo",
       "ingredientes": [
         "Aguacate 60g",
         "Tomate Crudo 40g",
@@ -96,20 +96,20 @@
       "preparacion": "Cocer el huevo 10 min. Abrir el pan, poner el aguacate laminado, el tomate en rodajas y el huevo cocido encima."
     },
     {
-      "id": "arroz_meloso_dic",
-      "nombre": "Arroz Meloso Con Langostinos Y Champiñones",
+      "id": "arroz_meloso",
+      "nombre": "Arroz Meloso con Langostinos y Champiñones",
       "ingredientes": [
-        "Arroz Integral 180g (hervido)",
+        "Arroz Integral 180g",
         "Champiñones 60g",
         "Langostinos 80g",
         "Vino Blanco 50g",
         "Ajo 10g",
         "Aceite De Oliva 10g"
       ],
-      "preparacion": "Cocer langostinos y reservar caldo. Sofreír ajo y champiñones. Añadir arroz, vino y luego el caldo (3.5 partes). Cocinar hasta que esté meloso. Añadir los langostinos al final."
+      "preparacion": "Cocer langostinos y reservar caldo. Sofreír ajo y champiñones. Añadir arroz, vino y caldo. Cocinar hasta que esté meloso."
     },
     {
-      "id": "ensalada_tres_tiempos_dic",
+      "id": "ensalada_tres_tiempos",
       "nombre": "Ensalada Tres Tiempos",
       "ingredientes": [
         "Manzana Roja 75g",
@@ -123,7 +123,7 @@
       "preparacion": "Cortar y mezclar todos los ingredientes. Aliñar con aceite y vinagre."
     },
     {
-      "id": "solomillo_ternera_dic",
+      "id": "solomillo_ternera",
       "nombre": "Solomillo de Ternera",
       "ingredientes": [
         "Solomillo de Ternera 150g",
@@ -133,7 +133,7 @@
       "preparacion": "Cocinar a la plancha al punto deseado con el aceite. Salpimentar al final."
     },
     {
-      "id": "ensalada_tomate_simple",
+      "id": "ensalada_tomate",
       "nombre": "Ensalada de Tomate",
       "ingredientes": [
         "Tomate Crudo 150g",
