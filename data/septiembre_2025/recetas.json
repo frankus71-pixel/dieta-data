@@ -4,272 +4,128 @@
     {
       "id": "macarrones_con_carne",
       "nombre": "Macarrones con Carne (H)",
-      "ingredientes": [
-        "240g Macarrones Integrales Hervidos",
-        "130g Carne Molida De Ternera",
-        "50g Cebolla. Cebolleta",
-        "90g Tomate Frito",
-        "50g Pimiento",
-        "1g Pimienta Blanca",
-        "3g Ajo",
-        "10g Aceite De Oliva"
-      ],
-      "preparacion": "Se cuecen los macarrones en agua con sal, se escurre y se pasa por agua fría inmediatamente, se reservan. Mientras en una sartén se rehoga la cebolla, el ajo picado, el pimiento y se añade la carne sazonada con sal y pimienta al gusto. Se agrega la salsa de tomate y el perejil picado, se deja hervir a fuego lento unos minutos, se le añade la carne con el resto de los ingredientes y se vuelcan en los macarrones ya cocidos. Se sirve caliente."
+      "ingredientes": ["240g Macarrones Integrales", "130g Carne Molida Ternera", "50g Cebolla", "90g Tomate Frito", "50g Pimiento", "3g Ajo", "10g Aceite"],
+      "preparacion": "Cocer macarrones. Rehogar cebolla, ajo, pimiento y carne. Anadir tomate y mezclar con la pasta. Servir caliente."
     },
     {
       "id": "ensalada_de_manzana_y_queso",
       "nombre": "Ensalada De Manzana Y Queso",
-      "ingredientes": [
-        "150g Manzana Roja",
-        "10g Nuez Sin Cascara",
-        "10g Zumo De Limon (natural)",
-        "10g Aceite De Oliva",
-        "50g Escarola",
-        "50g Queso Tierno",
-        "40g Tomate Crudo"
-      ],
-      "preparacion": "Cortar la manzana en cuadrados, retirarles el centro y rebanarlas en tajadas delgadas, untarlas en jugo de limón para que no se oxiden, ponerlas en la fuente y colocar encima la escarola, los tomates y las nueces, cortar el queso en trozos pequeño y en tiras lo más fina posible. Salpimentar y rociar con el aceite y el jugo de limón."
+      "ingredientes": ["150g Manzana Roja", "10g Nuez", "10g Zumo De Limon", "10g Aceite", "50g Escarola", "50g Queso Tierno", "40g Tomate"],
+      "preparacion": "Cortar manzana en tajadas con limon. Mezclar con escarola, tomates, nueces y queso. Alinar con aceite y limon."
     },
     {
       "id": "tortilla_francesa_con_jamon",
-      "nombre": "Tortilla Francesa Con Jamón",
-      "ingredientes": [
-        "50g Huevo De Gallina",
-        "30g Jamón Cocido",
-        "10g Aceite De Oliva"
-      ],
-      "preparacion": "Se casca el huevo y se echa en un plato, lo batimos hasta que este bien mezclado y salpimentamos al gusto. En una sartén se pone el aceite y cuando esté se le añade el huevo batido y finalmente el jamón cocido cortado en trozos pequeños y se hace la tortilla por los dos lados. Se sirve caliente."
+      "nombre": "Tortilla Francesa Con Jamon",
+      "ingredientes": ["50g Huevo", "30g Jamon Cocido", "10g Aceite"],
+      "preparacion": "Batir huevo. En sarten con aceite, cuajar el huevo con el jamon picado. Hacer por ambos lados."
     },
     {
       "id": "ensalada_variada",
       "nombre": "Ensalada Variada",
-      "ingredientes": [
-        "50g Tomate Crudo",
-        "75g Lechuga",
-        "30g Zanahoria",
-        "30g Cebolla. Cebolleta",
-        "55g Esparrago De Lata",
-        "5g Aceite De Oliva",
-        "5g Vinagre",
-        "35g Aceituna Verde"
-      ],
-      "preparacion": "Lavamos todas las verduras en abundante agua, las dejamos escurrir completamente y las secamos con papel absorbente, a continuación picamos en trozos pequeños todas las verduras, excepto las aceitunas que dejamos a parte en un plato hasta que vayamos a utilizarlas, mezclamos todo en una fuente y al final adornamos con las aceitunas, rociamos con vinagre y aceite. Removemos y servimos fría."
+      "ingredientes": ["50g Tomate", "75g Lechuga", "30g Zanahoria", "30g Cebolla", "55g Esparrago", "5g Aceite", "5g Vinagre", "35g Aceituna"],
+      "preparacion": "Lavar y picar verduras. Mezclar en fuente, anadir aceitunas y alinar con aceite y vinagre."
     },
     {
       "id": "pescado_al_horno",
       "nombre": "Pescado Al Horno",
-      "ingredientes": [
-        "30g Pimiento",
-        "3g Ajo",
-        "5g Limón",
-        "1g Pimienta Negra",
-        "75g Cebolla. Cebolleta",
-        "10g Aceite De Oliva",
-        "150g Patata",
-        "150g Merluza",
-        "75g Vinos De Mesa"
-      ],
-      "preparacion": "Caliente el aceite con el vino blanco (no todo), en una sartén al fuego, añada la cebolla y los ajos picados y rehogue durante unos minutos hasta que estén dorados, agregue los pimientos sin semillas y cortados en tiras y rehóguelos durante 20-30 minutos, sálelos, añada los granos de pimienta negra y el laurel y reserve. A continuación, sale el pescado y póngalo en una fuente de horno untada con el resto del vino blanco, rocíe con el zumo de limón y el aceite restante e introduzca en el horno, previamente calentado a temperatura media, durante 10 minutos, incorpore el resto de los ingredientes que tenía reservados y cocine durante 5 minutos más. Sirva en la misma fuente de cocción, acompañada con las papas sancochadas."
+      "ingredientes": ["150g Merluza", "150g Patata", "75g Cebolla", "30g Pimiento", "10g Aceite", "75g Vino Blanco", "3g Ajo"],
+      "preparacion": "Rehogar cebolla, ajo y pimiento. Poner pescado en fuente con vino y limon. Hornear 10 min, anadir verduras y cocinar 5 min mas. Acompanar con papas."
     },
     {
       "id": "bocadillo_de_caballa",
       "nombre": "Bocadillo De Caballa H",
-      "ingredientes": [
-        "5g Aceite De Oliva",
-        "20g Aceituna Verde",
-        "30g Tomate Crudo",
-        "100g Caballa En Aceite",
-        "80g Pan Integral"
-      ],
-      "preparacion": "Se corta el pan por la mitad y se le añade el aceite en la base, seguidamente el tomate en rodajas, se escurre la caballa en conserva y se pone sobre el tomate junto con las aceitunas. Se cierra con la otra tapa de pan y se sirve."
+      "ingredientes": ["80g Pan Integral", "100g Caballa En Aceite", "30g Tomate", "20g Aceituna", "5g Aceite"],
+      "preparacion": "Abrir pan, poner aceite, tomate en rodajas, caballa escurrida y aceitunas. Cerrar."
     },
     {
       "id": "ensalada_de_tomate",
       "nombre": "Ensalada De Tomate",
-      "ingredientes": [
-        "150g Tomate Crudo",
-        "10g Aceite De Oliva",
-        "2g Ajo"
-      ],
-      "preparacion": "Lavar el tomate en abundante agua, escurrirlo y secarlo. Cortar el tomate en rodajas y colocar en una fuente. Pelar el ajo y picarlo en trozos muy pequeños. Por último aliñar la ensalada con el aceite, el ajo y la sal al gusto."
+      "ingredientes": ["150g Tomate", "10g Aceite", "2g Ajo"],
+      "preparacion": "Cortar tomate en rodajas. Picar ajo muy fino y repartir. Alinar con aceite y sal."
     },
     {
       "id": "pollo_al_horno_con_calabaza",
       "nombre": "Pollo Al Horno Con Calabaza",
-      "ingredientes": [
-        "30g Vinos De Mesa",
-        "50g Cebolla. Cebolleta",
-        "3g Pimienta Negra",
-        "10g Aceite De Oliva",
-        "150g Patata",
-        "150g Pollo Pechuga",
-        "100g Calabaza"
-      ],
-      "preparacion": "Pelar y cortar la calabaza en trozos medianos, pelar la patata y cortar en rodajas y cortar la cebolla en juliana. Colocar todo en una fuente de horno, añadir el vino blanco, aceite de oliva, sal y la pimienta, hornear a 180º durante 25 minutos. A continuación incorporar el pollo salpimentado y hornear hasta que el pollo esté dorado y hecho."
+      "ingredientes": ["150g Pollo Pechuga", "150g Patata", "100g Calabaza", "50g Cebolla", "30g Vino Blanco", "10g Aceite"],
+      "preparacion": "Cortar calabaza, patata y cebolla. Hornear con vino y aceite 25 min a 180 grados. Anadir pollo y hornear hasta dorar."
     },
     {
       "id": "ensalada_de_millo_y_manzana",
       "nombre": "Ensalada De Millo Y Manzana",
-      "ingredientes": [
-        "5g Mostaza",
-        "20g Maiz",
-        "100g Tomate Crudo",
-        "75g Esparrago De Lata",
-        "5g Vinagre",
-        "40g Atún En Aceite",
-        "10g Aceite De Oliva",
-        "100g Manzana Roja"
-      ],
-      "preparacion": "Pelar la manzana y cortarla en cuadros. Lavar y cortar los tomates por la mitad, mezclar en una fuente estos ingredientes con el maíz, los espárragos y el atún desmigado. En un bol aparte se pone el aceite de oliva, el vinagre y la mostaza, se bate bien y se vierte sobre la ensalada. Se sirve a temperatura ambiente."
+      "ingredientes": ["100g Manzana", "20g Maiz", "100g Tomate", "75g Esparrago", "40g Atun", "10g Aceite", "5g Mostaza"],
+      "preparacion": "Mezclar manzana, tomate, maiz, esparragos y atun. Alinar con mezcla de aceite, vinagre y mostaza."
     },
     {
       "id": "revuelto_de_champinones_o_setas",
-      "nombre": "Revuelto De Champiñones O Setas",
-      "ingredientes": [
-        "1g Pimienta Negra",
-        "10g Aceite De Oliva",
-        "10g Limón",
-        "150g Champiñones",
-        "50g Jamón Cocido",
-        "50g Huevo De Gallina"
-      ],
-      "preparacion": "Lavar los champiñones o setas y cortarlos en láminas. Poner al fuego una sartén con aceite de oliva y dorar los champiñones, rociarlos con jugo de limón, salpimiente al gusto y cocine unos minutos. Cascar los huevos y batirlos. Añadirlos a la sartén junto con el jamón cocido en tiras finas. Remover durante 1-2 minutos, hasta que el huevo cuaje. Servir caliente."
+      "nombre": "Revuelto De Champinones O Setas",
+      "ingredientes": ["150g Champinones", "50g Huevo", "50g Jamon Cocido", "10g Aceite", "10g Limon"],
+      "preparacion": "Dorar champinones con limon en aceite. Anadir huevos batidos y jamon. Remover hasta cuajar."
     },
     {
       "id": "salteado_danpel",
       "nombre": "Salteado Danpel",
-      "ingredientes": [
-        "150g Zanahoria",
-        "100g Cebolla. Cebolleta",
-        "100g Pimiento",
-        "15g Aceite De Oliva"
-      ],
-      "preparacion": "Pelar la zanahoria y cortar en tiras finas, cortar cebolla y pimiento en juliana, calentar el aceite en una sartén y saltear primero la cebolla y el pimiento, luego añadir la zanahoria. Cocinar removiendo hasta que quede al dente."
+      "ingredientes": ["150g Zanahoria", "100g Cebolla", "100g Pimiento", "15g Aceite"],
+      "preparacion": "Cortar verduras en tiras. Saltear en sarten con aceite: primero cebolla y pimiento, luego zanahoria hasta que este al dente."
     },
     {
       "id": "pizza_reina",
       "nombre": "Pizza Reina",
-      "ingredientes": [
-        "80g Base De Pizza",
-        "60g Tomate Frito",
-        "25g Queso Plato",
-        "25g Jamón Cocido",
-        "50g Champiñones",
-        "5g Aceite De Oliva"
-      ],
-      "preparacion": "Precalentar el horno a 220ºC. Colocar la base de pizza en la bandeja, extender el tomate frito, añadir el queso, el jamón cocido y los champiñones en láminas. Rociar con un poco de aceite de oliva. Hornear hasta que el queso se funda y la base quede crujiente."
+      "ingredientes": ["80g Base De Pizza", "60g Tomate Frito", "25g Queso", "25g Jamon Cocido", "50g Champinones", "5g Aceite"],
+      "preparacion": "Montar pizza con ingredientes sobre la base. Hornear a 220 grados hasta fundir queso."
     },
     {
       "id": "ensalada_de_tomate_y_queso_tierno",
       "nombre": "Ensalada De Tomate Y Queso Tierno",
-      "ingredientes": [
-        "150g Tomate Crudo",
-        "10g Piñones",
-        "50g Queso Tierno",
-        "10g Aceite De Oliva",
-        "5g Vinagre"
-      ],
-      "preparacion": "Lavar los tomates, escurrirlos y secarlos. Cortar los tomates en rodajas y colocarlos en una fuente. Cortar el queso en láminas o dados y distribuirlo sobre el tomate. Espolvorear los piñones por encima. Aliñar con aceite, vinagre y sal al gusto. Servir frío."
+      "ingredientes": ["150g Tomate", "50g Queso Tierno", "10g Pinones", "10g Aceite", "5g Vinagre"],
+      "preparacion": "Rodajas de tomate con queso en dados y pinones. Alinar con aceite y vinagre."
     },
     {
       "id": "arroz_con_pollo",
       "nombre": "Arroz Con Pollo",
-      "ingredientes": [
-        "150g Arroz Integral Hervido",
-        "100g Pollo Pechuga",
-        "20g Pimiento",
-        "20g Cebolla. Cebolleta",
-        "20g Zanahoria",
-        "2g Ajo",
-        "20g Apio",
-        "10g Aceite De Oliva",
-        "1g Pimienta Blanca"
-      ],
-      "preparacion": "Cocer el arroz integral y reservar. Cortar el pollo en dados. Picar las verduras (pimiento, cebolla, zanahoria, apio y ajo). En una sartén con aceite, saltear el pollo con las verduras hasta que esté hecho. Añadir el arroz, mezclar todo y salpimentar. Cocinar unos minutos más y servir caliente."
+      "ingredientes": ["150g Arroz Integral", "100g Pollo", "20g Pimiento", "20g Cebolla", "20g Zanahoria", "10g Aceite"],
+      "preparacion": "Cocer arroz. Saltear pollo con verduras picadas. Mezclar con el arroz y calentar."
     },
     {
       "id": "ensalada_de_lechuga_y_pollo",
       "nombre": "Ensalada De Lechuga Y Pollo",
-      "ingredientes": [
-        "60g Lechuga",
-        "60g Pollo Pechuga",
-        "50g Queso Tierno",
-        "5g Mayonesa Baja En Calorías",
-        "10g Mostaza",
-        "10g Aceite De Oliva"
-      ],
-      "preparacion": "Lavar la lechuga, escurrirla y cortarla. Cocinar el pollo a la plancha y cortarlo en tiras. Añadir el queso en dados. Mezclar en un bol la mayonesa con la mostaza para hacer el aliño. Incorporar el aliño a la ensalada y mezclar. Servir."
+      "ingredientes": ["60g Lechuga", "60g Pollo", "50g Queso Tierno", "10g Aceite", "10g Mostaza", "5g Mayonesa Light"],
+      "preparacion": "Pollo a la plancha en tiras. Mezclar con lechuga y queso. Alinar con salsa de mostaza y mayonesa."
     },
     {
       "id": "revuelto_de_calabacin",
-      "nombre": "Revuelto De Calabacín",
-      "ingredientes": [
-        "140g Calabacin",
-        "10g Aceite De Oliva",
-        "40g Cebolla. Cebolleta",
-        "50g Huevo De Gallina"
-      ],
-      "preparacion": "Lavar el calabacín y cortarlo en dados pequeños. Picar la cebolla. En una sartén con aceite, pochar la cebolla y añadir el calabacín. Cocinar hasta que esté tierno. Batir el huevo, verterlo sobre las verduras y remover hasta que cuaje. Servir caliente."
+      "nombre": "Revuelto De Calabacin",
+      "ingredientes": ["140g Calabacin", "50g Huevo", "40g Cebolla", "10g Aceite"],
+      "preparacion": "Pochar cebolla y calabacin en dados. Anadir huevo batido y remover hasta cuajar."
     },
     {
       "id": "calabaza_con_tomate",
       "nombre": "Calabaza Con Tomate",
-      "ingredientes": [
-        "100g Tomate Crudo",
-        "50g Cebolla. Cebolleta",
-        "50g Vinos De Mesa",
-        "10g Aceite De Oliva",
-        "200g Calabaza"
-      ],
-      "preparacion": "Pelar la calabaza, retirar las semillas, lavarla y cortarla en trocitos. Caliente el aceite en una cacerola al fuego y añádale el vino y seguidamente rehogar la cebolla durante cinco minutos, añada los tomates, el perejil, el comino en polvo, la calabaza cortada en trocitos, sal y pimienta, cubrir la preparación con agua y deje que cueza a fuego moderado durante unos cuarenta minutos o hasta que la calabaza esté tierna. Sírvala caliente."
+      "ingredientes": ["200g Calabaza", "100g Tomate", "50g Cebolla", "50g Vino Blanco", "10g Aceite"],
+      "preparacion": "Rehogar cebolla en aceite con vino. Anadir tomate y calabaza en trozos. Cubrir con agua y cocer 40 min."
     },
     {
       "id": "bocadillo_de_jamon_serrano_con_queso_tierno",
-      "nombre": "Bocadillo De Jamón Serrano Con Queso Tierno. H.",
-      "ingredientes": [
-        "80g Pan Integral",
-        "50g Jamón Serrano",
-        "50g Queso Tierno",
-        "5g Aceite De Oliva"
-      ],
-      "preparacion": "Abrir el pan por la mitad. Rociar con el aceite. Colocar el jamón serrano y el queso tierno. Cerrar y servir."
+      "nombre": "Bocadillo De Jamon Serrano Con Queso Tierno H",
+      "ingredientes": ["80g Pan Integral", "50g Jamon Serrano", "50g Queso Tierno", "5g Aceite"],
+      "preparacion": "Abrir pan, poner aceite, jamon y queso. Servir."
     },
     {
       "id": "bowl_de_garbanzos_con_langostinos",
       "nombre": "Bowl de Garbanzos con Langostinos",
-      "ingredientes": [
-        "90g Garbanzo Cocido",
-        "30g Lechuga",
-        "60g Champiñones",
-        "50g Tomate Cherry",
-        "80g Langostinos",
-        "15g Aceite De Oliva",
-        "10g Vinagre",
-        "10g Limón"
-      ],
-      "preparacion": "Escurrir los garbanzos. Lavar la lechuga y los tomates. Lavar los champiñones y cortarlos. Cocer o saltear los langostinos. Montar el bowl con lechuga como base, añadir garbanzos, champiñones y tomates. Colocar los langostinos por encima. Aliñar con aceite, vinagre, limón y sal al gusto."
+      "ingredientes": ["90g Garbanzo Cocido", "80g Langostinos", "60g Champinones", "50g Tomate Cherry", "30g Lechuga", "15g Aceite"],
+      "preparacion": "Base de lechuga con garbanzos, champinones y tomates. Anadir langostinos salteados. Alinar con aceite, vinagre y limon."
     },
     {
       "id": "calabacines_en_juliana_al_wok",
       "nombre": "Calabacines En Juliana Al Wok",
-      "ingredientes": [
-        "150g Calabacin",
-        "50g Cebolla. Cebolleta",
-        "20g Tomate Cherry",
-        "10g Salsa De Soja",
-        "30g Puerro",
-        "5g Aceite De Oliva"
-      ],
-      "preparacion": "Lavar el calabacín y cortarlo en juliana. Cortar la cebolla y el puerro en tiras finas. Calentar el aceite en un wok y saltear primero el puerro y la cebolla. Añadir el tomate cherry y el calabacín, cocinar unos minutos. Incorporar la salsa de soja, saltear un poco más y servir."
+      "ingredientes": ["150g Calabacin", "50g Cebolla", "30g Puerro", "20g Tomate Cherry", "10g Salsa Soja", "5g Aceite"],
+      "preparacion": "Saltear puerro y cebolla en wok. Anadir calabacin en juliana y tomates. Terminar con salsa de soja."
     },
     {
       "id": "huevo_frito",
       "nombre": "Huevo Frito",
-      "ingredientes": [
-        "10g Aceite De Oliva",
-        "50g Huevo De Gallina"
-      ],
-      "preparacion": "no disponible"
+      "ingredientes": ["50g Huevo", "10g Aceite"],
+      "preparacion": "Freir el huevo en aceite caliente hasta que la clara este cuajada."
     }
   ]
 }
