@@ -8,13 +8,13 @@
       "kcal": 684.0,
       "ingredientes": [
         "Espagueti Integral Hervido 240g",
-        "Atún En Aceite 80g",
+        "Atun En Aceite 80g",
         "Tomate Frito 120g",
         "Cebolla 50g",
         "Pimiento 50g",
         "Aceite De Oliva 10g"
       ],
-      "preparacion": "Cocer espaguetis 8-10 minutos. Sofreír cebolla y pimiento en aceite. Añadir atún escurrido y tomate. Mezclar con pasta y servir caliente."
+      "preparacion": "Cocer espaguetis 8-10 minutos. Sofreir cebolla y pimiento en aceite. Añadir atun escurrido y tomate. Mezclar con pasta."
     },
     {
       "id": "ensalada_atun_aguacate",
@@ -24,12 +24,12 @@
       "ingredientes": [
         "Escarola 75g",
         "Aguacate 75g",
-        "Atún En Aceite 40g",
+        "Atun En Aceite 40g",
         "Tomate Crudo 75g",
         "Aceite De Oliva 5g",
-        "Zumo De Limón 5g"
+        "Zumo De Limon 5g"
       ],
-      "preparacion": "Lavar escarola. Cortar tomate y aguacate. Añadir atún. Aliñar con aceite y limón."
+      "preparacion": "Lavar escarola. Cortar tomate y aguacate. Añadir atun. Aliñar con aceite y limon."
     },
     {
       "id": "calabacines_juliana",
@@ -37,7 +37,7 @@
       "gramos_totales": 265,
       "kcal": 136.2,
       "ingredientes": [
-        "Calabacín 150g",
+        "Calabacin 150g",
         "Cebolla 50g",
         "Tomate Cherry 20g",
         "Salsa De Soja 10g",
@@ -59,7 +59,7 @@
         "Ajo 3g",
         "Aceite De Oliva 10g"
       ],
-      "preparacion": "Sofreír ajo y cebolla. Añadir pimiento y tomate. Incorporar merluza y cocinar 3 minutos."
+      "preparacion": "Sofreir ajo y cebolla. Añadir pimiento y tomate. Incorporar merluza y cocinar 3 minutos."
     },
     {
       "id": "bocadillo_atun_millo",
@@ -67,12 +67,12 @@
       "gramos_totales": 185,
       "kcal": 469.8,
       "ingredientes": [
-        "Atún En Aceite 60g",
-        "Maíz 30g",
-        "Mayonesa Baja En Calorías 15g",
+        "Atun En Aceite 60g",
+        "Maiz 30g",
+        "Mayonesa Baja En Calorias 15g",
         "Pan Integral 80g"
       ],
-      "preparacion": "Escurrir atún. Mezclar con maíz y mayonesa. Rellenar pan."
+      "preparacion": "Escurrir atun. Mezclar con maiz y mayonesa. Rellenar pan."
     },
     {
       "id": "pollo_curry",
@@ -89,22 +89,22 @@
       "preparacion": "Trocear pollo. Añadir verduras y curry. Cocer 30 minutos tapado."
     },
     {
-  "id": "huevo_pesto_manchego",
-  "nombre": "Huevo Pesto Manchego",
-  "gramos_totales": 247,
-  "kcal": 285.5,
-  "ingredientes": [
-    "Huevo 50g",
-    "Salsa Pesto 15g",
-    "Queso Manchego 20g",
-    "Pimiento 30g",
-    "Calabacin 60g",
-    "Cebolla 30g",
-    "Tomate 60g",
-    "Aceite De Oliva 10g"
-  ],
-  "preparacion": "Rehogar las verduras del pisto. Cocinar el huevo y añadir el pesto y el queso manchego al final para que funda. Servir sobre el pisto."
-}
+      "id": "huevo_pesto_manchego",
+      "nombre": "Huevo Pesto Manchego",
+      "gramos_totales": 247,
+      "kcal": 285.5,
+      "ingredientes": [
+        "Huevo 50g",
+        "Salsa Pesto 15g",
+        "Queso Manchego 20g",
+        "Pimiento 30g",
+        "Calabacin 60g",
+        "Cebolla 30g",
+        "Tomate 60g",
+        "Aceite De Oliva 10g"
+      ],
+      "preparacion": "Rehogar verduras del pisto. Cocinar huevo, añadir pesto y queso manchego al final. Servir sobre el pisto."
+    },
     {
       "id": "albondigas_guisantes",
       "nombre": "Albondigas con Guisantes",
@@ -121,7 +121,7 @@
         "Vino Blanco 30g",
         "Aceite De Oliva 10g"
       ],
-      "preparacion": "Mezclar carne con huevo y harina. Formar albóndigas. Freír y guisar con verduras y guisantes."
+      "preparacion": "Mezclar carne con huevo y harina. Formar albondigas. Freir y guisar con verduras."
     },
     {
       "id": "arroz_meloso",
@@ -135,7 +135,7 @@
         "Ajo 10g",
         "Aceite De Oliva 10g"
       ],
-      "preparacion": "Cocer langostinos y reservar caldo. Sofreír ajo y champiñones. Añadir arroz y caldo."
+      "preparacion": "Cocer langostinos. Sofreir ajo y champiñones. Añadir arroz y caldo. Cocinar meloso."
     },
     {
       "id": "pizza_atun",
@@ -146,8 +146,8 @@
         "Base De Pizza 80g",
         "Tomate Frito 60g",
         "Queso 25g",
-        "Jamón Cocido 25g",
-        "Atún 40g",
+        "Jamon Cocido 25g",
+        "Atun 40g",
         "Champiñones 50g",
         "Aceite De Oliva 5g"
       ],
