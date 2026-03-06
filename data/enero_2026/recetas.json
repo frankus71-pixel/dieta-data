@@ -4,161 +4,74 @@
     {
       "id": "espaguetis_marineros",
       "nombre": "Espaguetis Marineros",
-      "ingredientes": [
-        "Espagueti Integral 150g",
-        "Langostinos 100g",
-        "Ajo 5g",
-        "Perejil 10g",
-        "Vino Blanco 80g",
-        "Aceite De Oliva 10g",
-        "Sal"
-      ],
-      "preparacion": "Hervir los espaguetis en agua con sal. En una sarten con aceite dorar el ajo, añadir el vino y reducir. Incorporar langostinos y perejil, saltear 2-3 minutos. Mezclar con la pasta."
+      "ingredientes": ["Espagueti Integral 150g", "Langostinos 100g", "Ajo 5g", "Perejil 10g", "Vino Blanco 80g", "Aceite De Oliva 10g"],
+      "preparacion": "Hervir pasta. En sarten con aceite dorar ajo, anadir vino y reducir. Incorporar langostinos y perejil, saltear y mezclar con la pasta."
     },
     {
       "id": "cogollo_lechuga_pavo",
       "nombre": "Cogollo De Lechuga Con Pavo",
-      "ingredientes": [
-        "Cogollo De Lechuga 100g",
-        "Pechuga De Pavo 90g",
-        "Calabacin 50g",
-        "Pimiento 25g",
-        "Aguacate 75g",
-        "Aceite De Oliva 10g",
-        "Sal"
-      ],
-      "preparacion": "Picar pavo y verduras. Saltear en una sarten con aceite. Rellenar las hojas del cogollo con la mezcla y colocar aguacate por encima."
+      "ingredientes": ["Cogollo De Lechuga 100g", "Pechuga De Pavo 90g", "Calabacin 50g", "Pimiento 25g", "Aguacate 75g", "Aceite De Oliva 10g"],
+      "preparacion": "Picar pavo y verduras. Saltear en sarten con aceite. Rellenar hojas del cogollo y poner aguacate encima."
     },
     {
       "id": "huevo_frito",
       "nombre": "Huevo Frito",
-      "ingredientes": [
-        "Huevo 60g",
-        "Aceite De Oliva 10g",
-        "Sal"
-      ],
-      "preparacion": "Calentar aceite en una sarten. Freir el huevo hasta que la clara este cocinada. Retirar y añadir sal."
+      "ingredientes": ["Huevo 60g", "Aceite De Oliva 10g"],
+      "preparacion": "Calentar aceite en sarten. Freir el huevo hasta que la clara este cocinada. Retirar y anadir sal."
     },
     {
       "id": "ensalada_campera",
       "nombre": "Ensalada Campera",
-      "ingredientes": [
-        "Patata 125g",
-        "Tomate 100g",
-        "Pimiento 40g",
-        "Cebolla 30g",
-        "Atun 40g",
-        "Aceitunas 20g",
-        "Aceite De Oliva 5g",
-        "Vinagre 5g",
-        "Sal"
-      ],
-      "preparacion": "Cocer patatas, pelar y cortar. Picar verduras. Mezclar todo con el atun y aceitunas. Aliñar con aceite, vinagre y sal."
+      "ingredientes": ["Patata 125g", "Tomate 100g", "Pimiento 40g", "Cebolla 30g", "Atun 40g", "Aceitunas 20g", "Aceite De Oliva 5g"],
+      "preparacion": "Cocer patatas y trocear. Picar verduras. Mezclar con atun y aceitunas. Alinar con aceite y vinagre."
     },
     {
       "id": "merluza_plancha_limon",
       "nombre": "Merluza A La Plancha Con Limon",
-      "ingredientes": [
-        "Merluza 150g",
-        "Limon 10g",
-        "Aceite De Oliva 5g",
-        "Sal"
-      ],
-      "preparacion": "Cocinar la merluza en plancha con aceite por ambos lados. Añadir sal y limon antes de servir."
+      "ingredientes": ["Merluza 150g", "Limon 10g", "Aceite De Oliva 5g"],
+      "preparacion": "Cocinar merluza en plancha con aceite por ambos lados. Anadir sal y limon al servir."
     },
     {
       "id": "bocadillo_aguacate_tomate_huevo",
       "nombre": "Bocadillo De Aguacate Tomate y Huevo",
-      "ingredientes": [
-        "Pan Integral 80g",
-        "Queso Tierno 70g",
-        "Tomate 60g",
-        "Aguacate 60g",
-        "Huevo 50g",
-        "Aceite De Oliva 10g",
-        "Sal"
-      ],
-      "preparacion": "Hacer el huevo a la plancha. Abrir el pan, colocar queso, tomate, aguacate y el huevo encima."
+      "ingredientes": ["Pan Integral 80g", "Queso Tierno 70g", "Tomate 60g", "Aguacate 60g", "Huevo 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Hacer huevo a la plancha. Abrir pan, colocar queso, tomate, aguacate y el huevo encima."
     },
     {
       "id": "pollo_strogonoff",
       "nombre": "Pollo Strogonoff",
-      "ingredientes": [
-        "Pechuga De Pollo 140g",
-        "Champiñones 75g",
-        "Cebolla 25g",
-        "Ajo 3g",
-        "Nata 40g",
-        "Aceite De Oliva 10g",
-        "Pimienta"
-      ],
-      "preparacion": "Dorar cebolla y ajo. Añadir pollo y champiñones. Incorporar nata y cocinar hasta que espese."
+      "ingredientes": ["Pechuga De Pollo 140g", "Champinones 75g", "Cebolla 25g", "Ajo 3g", "Nata 40g", "Aceite De Oliva 10g"],
+      "preparacion": "Dorar cebolla y ajo. Anadir pollo y champinones. Incorporar nata y cocinar hasta que espese."
     },
     {
       "id": "ensalada_manzana_queso",
       "nombre": "Ensalada De Manzana Y Queso",
-      "ingredientes": [
-        "Manzana 150g",
-        "Escarola 50g",
-        "Tomate 40g",
-        "Queso 50g",
-        "Nueces 10g",
-        "Aceite De Oliva 10g",
-        "Limon 10g"
-      ],
-      "preparacion": "Cortar manzana y rociar con limon. Mezclar con escarola, tomate y nueces. Añadir queso y aliñar."
+      "ingredientes": ["Manzana 150g", "Escarola 50g", "Tomate 40g", "Queso 50g", "Nueces 10g", "Aceite De Oliva 10g"],
+      "preparacion": "Cortar manzana con limon. Mezclar con escarola, tomate y nueces. Anadir queso y alinar."
     },
     {
       "id": "wok_verduras",
       "nombre": "Wok De Verduras",
-      "ingredientes": [
-        "Espinaca 100g",
-        "Pimiento 75g",
-        "Edamame 50g",
-        "Cebolla 40g",
-        "Jengibre 10g",
-        "Salsa De Soja 15g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Saltear cebolla, pimiento y jengibre. Añadir espinaca y edamame. Incorporar soja y cocinar 2 minutos."
+      "ingredientes": ["Espinaca 100g", "Pimiento 75g", "Edamame 50g", "Cebolla 40g", "Jengibre 10g", "Salsa De Soja 15g", "Aceite De Oliva 10g"],
+      "preparacion": "Saltear cebolla, pimiento y jengibre. Anadir espinaca y edamame. Incorporar soja y cocinar 2 min."
     },
     {
       "id": "arroz_pollo_mostaza",
       "nombre": "Arroz Con Pollo Y Mostaza",
-      "ingredientes": [
-        "Arroz Integral 150g",
-        "Pollo 140g",
-        "Cebolla 50g",
-        "Mostaza 10g",
-        "Nata 25g",
-        "Aceite De Oliva 5g"
-      ],
-      "preparacion": "Sofreir pollo y cebolla. Añadir arroz, mostaza y nata. Cocinar con un poco de agua 20 minutos."
+      "ingredientes": ["Arroz Integral 150g", "Pollo 140g", "Cebolla 50g", "Mostaza 10g", "Nata 25g", "Aceite De Oliva 5g"],
+      "preparacion": "Sofreir pollo y cebolla. Anadir arroz, mostaza y nata. Cocinar con un poco de agua 20 min."
     },
     {
       "id": "calabaza_tomate",
       "nombre": "Calabaza Con Tomate",
-      "ingredientes": [
-        "Calabaza 200g",
-        "Tomate 100g",
-        "Cebolla 50g",
-        "Vino Blanco 50g",
-        "Aceite De Oliva 10g",
-        "Comino",
-        "Perejil"
-      ],
-      "preparacion": "Rehogar cebolla en aceite y vino. Añadir tomate y calabaza. Cocinar 40 minutos hasta que ablande."
+      "ingredientes": ["Calabaza 200g", "Tomate 100g", "Cebolla 50g", "Vino Blanco 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Rehogar cebolla en aceite y vino. Anadir tomate y calabaza. Cocinar 40 min hasta que ablande."
     },
     {
       "id": "tortilla_francesa_jamon",
       "nombre": "Tortilla Francesa Con Jamon",
-      "ingredientes": [
-        "Huevo 60g",
-        "Jamon Cocido 40g",
-        "Aceite De Oliva 5g",
-        "Sal"
-      ],
-      "preparacion": "Batir huevo con sal. Añadir a sarten con aceite. Incorporar jamon y cuajar por ambos lados."
+      "ingredientes": ["Huevo 60g", "Jamon Cocido 40g", "Aceite De Oliva 5g"],
+      "preparacion": "Batir huevo. Anadir a sarten con aceite. Incorporar jamon y cuajar por ambos lados."
     }
   ]
 }
