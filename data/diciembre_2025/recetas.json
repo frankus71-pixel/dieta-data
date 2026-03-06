@@ -75,7 +75,7 @@
     },
     {
       "id": "ensalada_tomate_jamon",
-      "nombre": "Ensalada de Tomate y Jamon Serrano",
+      "nombre": "Ensalada Tomate y Jamon",
       "ingredientes": [
         "Tomate Crudo 150g",
         "Jamon Serrano 60g",
@@ -97,8 +97,8 @@
       "preparacion": "Cocer las judias. En una sarten dorar ajos y cebolla. Añadir pimenton y las judias para saltear."
     },
     {
-      "id": "merluza_plancha_ajo",
-      "nombre": "Merluza a la Plancha con Ajo y Perejil",
+      "id": "merluza_ajo_perejil",
+      "nombre": "Merluza Ajo y Perejil",
       "ingredientes": [
         "Merluza 150g",
         "Aceite de Oliva 10g",
@@ -109,7 +109,7 @@
     },
     {
       "id": "ensalada_aguacate",
-      "nombre": "Ensalada de Aguacate",
+      "nombre": "Ensalada Aguacate",
       "ingredientes": [
         "Aguacate 75g",
         "Lechuga 100g",
@@ -121,7 +121,7 @@
     },
     {
       "id": "ensalada_millo_manzana",
-      "nombre": "Ensalada de Millo y Manzana",
+      "nombre": "Ensalada Millo y Manzana",
       "ingredientes": [
         "Maiz Millo 40g",
         "Manzana Roja 100g",
@@ -132,7 +132,7 @@
     },
     {
       "id": "arroz_meloso",
-      "nombre": "Arroz Meloso con Langostinos",
+      "nombre": "Arroz Meloso Langostinos",
       "ingredientes": [
         "Arroz Integral 180g",
         "Champiñones 60g",
@@ -157,7 +157,7 @@
     },
     {
       "id": "solomillo_ternera",
-      "nombre": "Solomillo de Ternera",
+      "nombre": "Solomillo Ternera",
       "ingredientes": [
         "Solomillo 150g",
         "Aceite de Oliva 5g",
@@ -167,7 +167,7 @@
     },
     {
       "id": "ensalada_tomate",
-      "nombre": "Ensalada de Tomate",
+      "nombre": "Ensalada Tomate",
       "ingredientes": [
         "Tomate 150g",
         "Cebolla 30g",
