@@ -6,36 +6,36 @@
       "nombre": "Pasta Natali",
       "ingredientes": [
         "Espagueti Integral Hervido 240g",
-        "Atún En Aceite 80g",
+        "Atun En Aceite 80g",
         "Tomate Frito 60g",
         "Aceitunas Verdes 20g",
         "Aceite De Oliva 10g"
       ],
-      "preparacion": "Hervir la pasta integral en agua con sal. En una sartén, calentar el aceite y añadir el atún escurrido y las aceitunas troceadas. Incorporar el tomate frito y cocinar 2 minutos. Mezclar con la pasta y servir."
+      "preparacion": "Hervir la pasta integral en agua con sal. En una sarten, calentar el aceite y añadir el atun escurrido y las aceitunas troceadas. Incorporar el tomate frito y cocinar 2 minutos. Mezclar con la pasta y servir."
     },
     {
       "id": "ensalada_tomate_jamon",
       "nombre": "Ensalada de Tomate y Jamon Serrano",
       "ingredientes": [
         "Tomate Crudo 150g",
-        "Jamón Serrano 60g",
+        "Jamon Serrano 60g",
         "Aceite De Oliva 10g",
         "Ajo 2g",
         "Pimienta Negra"
       ],
-      "preparacion": "Cortar los tomates en rodajas. Picar el ajo muy fino y repartir sobre el tomate. Colocar las lonchas de jamón encima. Aliñar con el aceite y pimienta."
+      "preparacion": "Cortar los tomates en rodajas. Picar el ajo muy fino y repartir sobre el tomate. Colocar las lonchas de jamon encima. Aliñar con el aceite y pimienta."
     },
     {
       "id": "judias_verdes_rehogadas",
       "nombre": "Judias Verdes Rehogadas",
       "ingredientes": [
-        "Judía Verde 150g",
+        "Judia Verde 150g",
         "Ajo 5g",
-        "Cebolla/Cebolleta 50g",
+        "Cebolla 50g",
         "Aceite De Oliva 10g",
-        "Pimentón Dulce 2g"
+        "Pimenton Dulce 2g"
       ],
-      "preparacion": "Cocer las judías 25 min. En una sartén con aceite, dorar ajos y cebolla. Añadir el pimentón (fuera del fuego), incorporar las judías escurridas y saltear 5 min."
+      "preparacion": "Cocer las judias 25 min. En una sarten con aceite, dorar ajos y cebolla. Añadir el pimenton (fuera del fuego), incorporar las judias escurridas y saltear 5 min."
     },
     {
       "id": "merluza_plancha_ajo",
@@ -58,7 +58,7 @@
         "Vino Blanco 20g",
         "Perejil Fresco"
       ],
-      "preparacion": "Trocear el pollo. En aceite, dorar los ajos. Añadir el pollo y sellar. Verter el vino y cocinar 5 min más. Espolvorear perejil."
+      "preparacion": "Trocear el pollo. En aceite, dorar los ajos. Añadir el pollo y sellar. Verter el vino y cocinar 5 min mas. Espolvorear perejil."
     },
     {
       "id": "ensalada_aguacate",
@@ -67,7 +67,7 @@
         "Aguacate 75g",
         "Lechuga 100g",
         "Tomate Crudo 50g",
-        "Cebolla/Cebolleta 30g",
+        "Cebolla 30g",
         "Aceite De Oliva 5g"
       ],
       "preparacion": "Trocear la lechuga, el tomate y el aguacate en dados. Mezclar con la cebolla picada y aliñar."
@@ -76,13 +76,13 @@
       "id": "ensalada_millo_manzana",
       "nombre": "Ensalada de Millo y Manzana",
       "ingredientes": [
-        "Maiz (Millo) 40g",
+        "Maiz Millo 40g",
         "Manzana Roja 100g",
         "Lechuga 100g",
         "Aceite De Oliva 10g",
         "Zumo De Limon 5g"
       ],
-      "preparacion": "Mezclar la lechuga con la manzana y el millo. Aliñar con aceite y limón para evitar la oxidación."
+      "preparacion": "Mezclar la lechuga con la manzana y el millo. Aliñar con aceite y limon para evitar la oxidacion."
     },
     {
       "id": "bocadillo_aguacate_tomate_huevo",
@@ -97,7 +97,7 @@
     },
     {
       "id": "arroz_meloso",
-      "nombre": "Arroz Meloso con Langostinos y Champiñones",
+      "nombre": "Arroz Meloso con Langostinos y Champíñones",
       "ingredientes": [
         "Arroz Integral 180g",
         "Champiñones 60g",
@@ -106,7 +106,7 @@
         "Ajo 10g",
         "Aceite De Oliva 10g"
       ],
-      "preparacion": "Cocer langostinos y reservar caldo. Sofreír ajo y champiñones. Añadir arroz, vino y caldo. Cocinar hasta que esté meloso."
+      "preparacion": "Cocer langostinos y reservar caldo. Sofreir ajo y champiñones. Añadir arroz, vino y caldo. Cocinar hasta que este meloso."
     },
     {
       "id": "ensalada_tres_tiempos",
@@ -114,7 +114,7 @@
       "ingredientes": [
         "Manzana Roja 75g",
         "Zanahoria 50g",
-        "Atún En Aceite 40g",
+        "Atun En Aceite 40g",
         "Lechuga 50g",
         "Aceite De Oliva 10g",
         "Queso Tierno 75g",
