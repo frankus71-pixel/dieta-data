@@ -6,11 +6,11 @@
       "nombre": "Merluza Plancha",
       "ingredientes": [
         "Merluza 150g",
-        "Aceite De Oliva 10g",
+        "Aceite de Oliva 10g",
         "Ajo 5g",
         "Perejil 2g"
       ],
-      "preparacion": "Pintar el pescado con un majado de ajo, perejil y aceite. Cocinar a la plancha 3-4 minutos por cada lado."
+      "preparacion": "Cocinar el pescado a la plancha con el ajo y el perejil."
     },
     {
       "id": "pollo_ajillo",
@@ -18,10 +18,10 @@
       "ingredientes": [
         "Pechuga de Pollo 150g",
         "Ajo 10g",
-        "Aceite De Oliva 10g",
+        "Aceite de Oliva 10g",
         "Vino Blanco 20g"
       ],
-      "preparacion": "Dorar los ajos en aceite. Añadir el pollo troceado, sellar y verter el vino. Cocinar 5 min mas."
+      "preparacion": "Dorar ajos, añadir pollo y vino blanco. Cocinar hasta reducir."
     },
     {
       "id": "bocadillo_aguacate",
@@ -29,10 +29,10 @@
       "ingredientes": [
         "Pan Integral 80g",
         "Aguacate 60g",
-        "Tomate Crudo 40g",
+        "Tomate 40g",
         "Huevo Cocido 50g"
       ],
-      "preparacion": "Abrir el pan y rellenar con el aguacate laminado, rodajas de tomate y el huevo cocido encima."
+      "preparacion": "Rellenar el pan con aguacate, tomate y el huevo."
     },
     {
       "id": "revuelto",
@@ -43,9 +43,9 @@
         "Zanahoria 50g",
         "Judia Verde 50g",
         "Patata 75g",
-        "Aceite De Oliva 10g"
+        "Aceite de Oliva 10g"
       ],
-      "preparacion": "Hervir verduras y patata. Saltear con las gambas en aceite y añadir el huevo batido hasta que cuaje."
+      "preparacion": "Saltear verduras y gambas. Añadir huevo batido y cuajar."
     },
     {
       "id": "salteado",
@@ -55,9 +55,9 @@
         "Champiñones 75g",
         "Berenjena 75g",
         "Pimiento 50g",
-        "Aceite De Oliva 10g"
+        "Aceite de Oliva 10g"
       ],
-      "preparacion": "Cortar las verduras en dados y saltear en una sarten con aceite durante 15 minutos."
+      "preparacion": "Trocear verduras y saltear en sarten con aceite."
     },
     {
       "id": "pizza_navidad",
@@ -69,7 +69,7 @@
         "Atun 40g",
         "Champiñones 50g"
       ],
-      "preparacion": "Montar la pizza con los ingredientes y hornear a 220 grados hasta que este dorada."
+      "preparacion": "Montar la pizza y hornear a 220 grados."
     },
     {
       "id": "pollo_limon",
@@ -78,9 +78,9 @@
         "Pechuga de Pollo 150g",
         "Cebolla 30g",
         "Zumo de Limon 30g",
-        "Aceite De Oliva 10g"
+        "Aceite de Oliva 10g"
       ],
-      "preparacion": "Cocinar el pollo con cebolla y añadir el zumo de limon al final del salteado."
+      "preparacion": "Saltear pollo con cebolla y añadir zumo de limon."
     },
     {
       "id": "pasta_natali",
@@ -91,17 +91,17 @@
         "Tomate Frito 60g",
         "Aceitunas 20g"
       ],
-      "preparacion": "Hervir la pasta y mezclar con el sofrito de atun, aceitunas y tomate frito."
+      "preparacion": "Mezclar pasta con atun, aceitunas y tomate."
     },
     {
       "id": "solomillo_ternera",
       "nombre": "Solomillo Ternera",
       "ingredientes": [
         "Solomillo de Ternera 150g",
-        "Aceite De Oliva 5g",
+        "Aceite de Oliva 5g",
         "Sal"
       ],
-      "preparacion": "Hacer a la plancha al punto deseado."
+      "preparacion": "Cocinar a la plancha al gusto."
     }
   ]
 }
