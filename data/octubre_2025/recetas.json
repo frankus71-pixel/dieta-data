@@ -1,9 +1,9 @@
 {
-  "mes": "Octubre 2025",
+  "mes": "Octubre",
   "recetas": [
     {
       "id": "pasta_griega_especias",
-      "nombre": "Pasta Griega con Especias (H)",
+      "nombre": "Pasta Griega con Especias",
       "ingredientes": [
         "Macarrones Integrales Hervidos 240g",
         "Queso Feta 50g",
@@ -15,7 +15,7 @@
     },
     {
       "id": "ensalada_cesar_pollo_huevo",
-      "nombre": "Ensalada César con Pollo y Huevo",
+      "nombre": "Ensalada Cesar con Pollo y Huevo",
       "ingredientes": [
         "Cebolla/Cebolleta 20g",
         "Pechuga de Pollo 60g",
@@ -30,7 +30,7 @@
     },
     {
       "id": "judias_verdes_jamon",
-      "nombre": "Judías Verdes con Jamón Cocido",
+      "nombre": "Judias Verdes con Jamon Cocido",
       "ingredientes": [
         "Judía Verde 150g",
         "Jamón Cocido 30g",
@@ -57,7 +57,7 @@
     },
     {
       "id": "bocadillo_lomo",
-      "nombre": "Bocadillo de Lomo H",
+      "nombre": "Bocadillo de Lomo",
       "ingredientes": [
         "Lomo de Cerdo Adobado 90g",
         "Queso 20g",
@@ -107,7 +107,7 @@
     },
     {
       "id": "pizza_atun",
-      "nombre": "Pizza con Atún",
+      "nombre": "Pizza con Atun",
       "ingredientes": [
         "Base de Pizza 80g",
         "Tomate Frito 60g",
@@ -123,14 +123,14 @@
       "id": "arroz_langostinos",
       "nombre": "Arroz Meloso con Langostinos y Champiñones",
       "ingredientes": [
-        "Arroz Integral (pesado en crudo para hervir) 60g (180g hervido)",
+        "Arroz Integral 60g",
         "Champiñones/Setas 60g",
         "Langostinos 80g",
         "Vino Blanco 50g",
         "Ajo 10g",
         "Aceite de Oliva 10g"
       ],
-      "preparacion": "Cocer langostinos 20 min en agua con sal; reservar caldo y pelar. Dorar ajos y champiñones en aceite, añadir langostinos y arroz. Añadir caldo (3.5 veces la cantidad de arroz) y cocinar hasta que quede meloso."
+      "preparacion": "Cocer langostinos 20 min; reservar caldo y pelar. Dorar ajos y champiñones, añadir langostinos y arroz. Añadir caldo y cocinar hasta que quede meloso."
     },
     {
       "id": "ensalada_tres_tiempos",
@@ -156,11 +156,11 @@
         "Aceite de Oliva 10g",
         "Calabaza 200g"
       ],
-      "preparacion": "Rehogar la cebolla en aceite con vino durante 5 min. Añadir tomates, calabaza en trozos, perejil, comino y agua. Cocer a fuego moderado 40 min hasta que la calabaza esté tierna."
+      "preparacion": "Rehogar la cebolla en aceite con vino durante 5 min. Añadir tomates, calabaza en trozos, perejil, comino y agua. Cocer a fuego moderado 40 min."
     },
     {
       "id": "bocadillo_atun",
-      "nombre": "Bocadillo de Atún",
+      "nombre": "Bocadillo de Atun",
       "ingredientes": [
         "Atún en Aceite 40g",
         "Tomate Crudo 40g",
@@ -173,7 +173,7 @@
     },
     {
       "id": "salteado_calabacin",
-      "nombre": "Salteado de Calabacín y Champiñones",
+      "nombre": "Salteado de Calabacin y Champiñones",
       "ingredientes": [
         "Berenjena 75g",
         "Calabacín 100g",
@@ -182,19 +182,19 @@
         "Ajo 3g",
         "Aceite de Oliva 10g"
       ],
-      "preparacion": "Sofreír el ajo en láminas. Añadir el resto de verduras troceadas, salar y cocinar tapado a fuego moderado durante 15 minutos, removiendo frecuentemente."
+      "preparacion": "Sofreír el ajo en láminas. Añadir el resto de verduras troceadas, salar y cocinar tapado a fuego moderado durante 15 minutos."
     },
     {
       "id": "pollo_limon",
-      "nombre": "Pollo al Limón",
+      "nombre": "Pollo al Limon",
       "ingredientes": [
         "Pechuga de Pollo 150g",
         "Cebolla/Cebolleta 30g",
-        "Limón (Zumo y Ralladura) 30g",
+        "Limón 30g",
         "Aceite de Oliva 10g",
         "Pimienta Negra 1g"
       ],
-      "preparacion": "Dorar el pollo en una olla con aceite. Añadir la cebolla picada, el zumo/ralladura de limón y la pimienta. Cocinar 5 minutos en olla a presión."
+      "preparacion": "Dorar el pollo. Añadir la cebolla picada, el zumo/ralladura de limón y la pimienta. Cocinar 5 minutos en olla a presión."
     },
     {
       "id": "revuelto_verduras_gambas",
@@ -208,7 +208,7 @@
         "Huevo 50g",
         "Aceite de Oliva 10g"
       ],
-      "preparacion": "Hervir las verduras y las patatas en agua con sal. Escurrir, añadir el aceite y saltear con las gambas. Añadir el huevo batido y remover hasta que cuaje al gusto."
+      "preparacion": "Hervir verduras y patatas. Escurrir, añadir aceite y saltear con las gambas. Añadir el huevo batido y remover hasta que cuaje."
     }
   ]
 }
