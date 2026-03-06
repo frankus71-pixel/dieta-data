@@ -2,6 +2,12 @@
   "mes": "Diciembre",
   "recetas": [
     {
+      "id": "ensalada_tres_tiempos",
+      "nombre": "Ensalada Tres Tiempos",
+      "ingredientes": ["Manzana Roja 75g", "Zanahoria 50g", "Atun En Aceite 40g", "Lechuga 50g", "Aceite De Oliva 10g", "Queso Tierno 75g", "Vinagre 5g"],
+      "preparacion": "Cortar y mezclar todos los ingredientes. Alinar con aceite y vinagre."
+    },
+    {
       "id": "ensalada_millo_manzana",
       "nombre": "Ensalada Millo Manzana",
       "ingredientes": ["Maiz Millo 40g", "Manzana Roja 100g", "Lechuga 100g", "Aceite De Oliva 10g", "Zumo De Limon 5g"],
