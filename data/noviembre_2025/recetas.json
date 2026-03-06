@@ -4,154 +4,98 @@
     {
       "id": "espaguetis_atun",
       "nombre": "Espaguetis con Atun",
-      "gramos_totales": 550,
-      "kcal": 684.0,
-      "ingredientes": [
-        "Espagueti Integral Hervido 240g",
-        "Atun En Aceite 80g",
-        "Tomate Frito 120g",
-        "Cebolla 50g",
-        "Pimiento 50g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Cocer espaguetis 8-10 minutos. Sofreir cebolla y pimiento en aceite. Añadir atun escurrido y tomate. Mezclar con pasta."
+      "ingredientes": ["Espagueti Integral 240g", "Atun En Aceite 80g", "Tomate Frito 120g", "Cebolla 50g", "Pimiento 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Cocer espaguetis 8-10 min. Sofreir cebolla y pimiento en aceite. Anadir atun y tomate frito. Mezclar con la pasta."
     },
     {
       "id": "ensalada_atun_aguacate",
       "nombre": "Ensalada de Atun y Aguacate",
-      "gramos_totales": 275,
-      "kcal": 253.74,
-      "ingredientes": [
-        "Escarola 75g",
-        "Aguacate 75g",
-        "Atun En Aceite 40g",
-        "Tomate Crudo 75g",
-        "Aceite De Oliva 5g",
-        "Zumo De Limon 5g"
-      ],
-      "preparacion": "Lavar escarola. Cortar tomate y aguacate. Añadir atun. Aliñar con aceite y limon."
+      "ingredientes": ["Escarola 75g", "Aguacate 75g", "Atun En Aceite 40g", "Tomate Crudo 75g", "Aceite De Oliva 5g", "Zumo De Limon 5g"],
+      "preparacion": "Lavar escarola y trocear tomate y aguacate. Anadir atun. Alinar con emulsion de aceite y limon."
     },
     {
       "id": "calabacines_juliana",
       "nombre": "Calabacines en Juliana al Wok",
-      "gramos_totales": 265,
-      "kcal": 136.2,
-      "ingredientes": [
-        "Calabacin 150g",
-        "Cebolla 50g",
-        "Tomate Cherry 20g",
-        "Salsa De Soja 10g",
-        "Puerro 30g",
-        "Aceite De Oliva 5g"
-      ],
-      "preparacion": "Cortar verduras en juliana. Saltear en aceite. Añadir soja al final."
+      "ingredientes": ["Calabacin 150g", "Cebolla 50g", "Tomate Cherry 20g", "Salsa De Soja 10g", "Puerro 30g", "Aceite De Oliva 5g"],
+      "preparacion": "Cortar verduras en juliana. Saltear puerro, tomate y cebolla. Anadir calabacin y terminar con salsa de soja."
     },
     {
       "id": "merluza_riojana",
       "nombre": "Merluza a la Riojana",
-      "gramos_totales": 363,
-      "kcal": 279.57,
-      "ingredientes": [
-        "Merluza 150g",
-        "Pimiento 70g",
-        "Tomate Frito 60g",
-        "Cebolla 70g",
-        "Ajo 3g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Sofreir ajo y cebolla. Añadir pimiento y tomate. Incorporar merluza y cocinar 3 minutos."
+      "ingredientes": ["Merluza 150g", "Pimiento 70g", "Tomate Frito 60g", "Cebolla 70g", "Ajo 3g", "Aceite De Oliva 10g"],
+      "preparacion": "Sofreir ajo y cebolla. Anadir pimiento y tomate hasta espesar. Incorporar merluza y cocer 3 min."
     },
     {
       "id": "bocadillo_atun_millo",
       "nombre": "Bocadillo de Atun y Millo",
-      "gramos_totales": 185,
-      "kcal": 469.8,
-      "ingredientes": [
-        "Atun En Aceite 60g",
-        "Maiz 30g",
-        "Mayonesa Baja En Calorias 15g",
-        "Pan Integral 80g"
-      ],
-      "preparacion": "Escurrir atun. Mezclar con maiz y mayonesa. Rellenar pan."
+      "ingredientes": ["Atun En Aceite 60g", "Maiz 30g", "Mayonesa Light 15g", "Pan Integral 80g"],
+      "preparacion": "Escurrir atun. Rellenar el pan con el atun, la mayonesa y el millo (maiz)."
     },
     {
       "id": "pollo_curry",
       "nombre": "Pollo al Curry",
-      "gramos_totales": 365,
-      "kcal": 415.0,
-      "ingredientes": [
-        "Pechuga De Pollo 125g",
-        "Leche De Coco 100g",
-        "Cebolla 35g",
-        "Zanahoria 100g",
-        "Curry 5g"
-      ],
-      "preparacion": "Trocear pollo. Añadir verduras y curry. Cocer 30 minutos tapado."
+      "ingredientes": ["Pechuga De Pollo 125g", "Leche De Coco 100g", "Cebolla 35g", "Zanahoria 100g", "Curry 5g"],
+      "preparacion": "Trocear pollo y verduras. Cocinar todo en una cazuela con leche de coco y curry 30 min tapado."
     },
     {
-  "id": "huevo_pisto_manchego",
-  "nombre": "Huevo Pisto Manchego",
-  "gramos_totales": 247,
-  "kcal": 285.5,
-  "ingredientes": [
-    "Huevo 50g",
-    "Salsa Pesto 15g",
-    "Queso Manchego 20g",
-    "Pimiento 30g",
-    "Calabacin 60g",
-    "Cebolla 30g",
-    "Tomate 60g",
-    "Aceite De Oliva 10g"
-  ],
-  "preparacion": "Rehogar verduras del pisto. Cocinar huevo, añadir pesto y queso manchego al final. Servir sobre el pisto."
-},
+      "id": "huevo_pisto_manchego",
+      "nombre": "Huevo con Pisto Manchego",
+      "ingredientes": ["Huevo 50g", "Pimiento 30g", "Calabacin 60g", "Cebolla 30g", "Ajo 2g", "Tomate Crudo 60g", "Aceite De Oliva 15g"],
+      "preparacion": "Picar y rehogar verduras en aceite hasta pochar. Freir el huevo y servirlo sobre el pisto."
+    },
     {
       "id": "albondigas_guisantes",
       "nombre": "Albondigas con Guisantes",
-      "gramos_totales": 354,
-      "kcal": 492.16,
-      "ingredientes": [
-        "Carne Magra De Ternera 100g",
-        "Guisantes 40g",
-        "Tomate 40g",
-        "Pimiento 20g",
-        "Huevo 50g",
-        "Harina 20g",
-        "Cebolla 20g",
-        "Vino Blanco 30g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Mezclar carne con huevo y harina. Formar albondigas. Freir y guisar con verduras."
+      "ingredientes": ["Carne Ternera 100g", "Guisantes 40g", "Tomate 40g", "Pimiento 20g", "Huevo 50g", "Harina 20g", "Vino Blanco 30g", "Aceite De Oliva 10g"],
+      "preparacion": "Formar albondigas con carne, huevo y harina. Freir y luego guisar con verduras y vino 8 min a presion."
     },
     {
-      "id": "arroz_meloso",
-      "nombre": "Arroz Meloso con Langostino y Champiñones",
-      "gramos_totales": 395,
-      "kcal": 413.4,
-      "ingredientes": [
-        "Arroz Integral Hervido 180g",
-        "Champiñones 60g",
-        "Langostinos 80g",
-        "Ajo 10g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Cocer langostinos. Sofreir ajo y champiñones. Añadir arroz y caldo. Cocinar meloso."
+      "id": "ensalada_manzana_queso",
+      "nombre": "Ensalada de Manzana y Queso",
+      "ingredientes": ["Manzana Roja 150g", "Queso Tierno 50g", "Escarola 50g", "Nueces 10g", "Tomate 40g", "Aceite De Oliva 10g"],
+      "preparacion": "Trocear manzana y mojar en limon. Mezclar con escarola, tomate, nueces y queso. Alinar con aceite."
+    },
+    {
+      "id": "arroz_meloso_langostinos",
+      "nombre": "Arroz Meloso con Langostinos",
+      "ingredientes": ["Arroz Integral 180g", "Langostinos 80g", "Champinones 60g", "Vino Blanco 50g", "Ajo 10g", "Aceite De Oliva 10g"],
+      "preparacion": "Cocer langostinos y usar su caldo. Saltear ajos y champinones, anadir arroz y caldo hasta que quede meloso."
+    },
+    {
+      "id": "ensalada_tres_tiempos",
+      "nombre": "Ensalada Tres Tiempos",
+      "ingredientes": ["Manzana Roja 75g", "Zanahoria 50g", "Atun En Aceite 40g", "Lechuga 50g", "Queso Tierno 75g", "Aceite De Oliva 10g"],
+      "preparacion": "Mezclar lechuga, tiras de zanahoria y trozos de manzana con queso y atun. Alinar con aceite y vinagre."
+    },
+    {
+      "id": "calabaza_tomate",
+      "nombre": "Calabaza con Tomate",
+      "ingredientes": ["Calabaza 200g", "Tomate 100g", "Cebolla 50g", "Vino Blanco 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Sofreir cebolla en aceite y vino. Anadir tomate y calabaza. Cubrir con agua y cocer 40 min."
     },
     {
       "id": "pizza_atun",
       "nombre": "Pizza con Atun",
-      "gramos_totales": 285,
-      "kcal": 594.92,
-      "ingredientes": [
-        "Base De Pizza 80g",
-        "Tomate Frito 60g",
-        "Queso 25g",
-        "Jamon Cocido 25g",
-        "Atun 40g",
-        "Champiñones 50g",
-        "Aceite De Oliva 5g"
-      ],
-      "preparacion": "Montar pizza y hornear a 220ºC hasta dorar."
+      "ingredientes": ["Base De Pizza 80g", "Atun 40g", "Champinones 50g", "Queso 25g", "Tomate Frito 60g", "Aceite De Oliva 5g"],
+      "preparacion": "Extender tomate en la base. Anadir queso, atun, jamon y champinones. Hornear a 220 grados."
+    },
+    {
+      "id": "salteado_calabacin_champinones",
+      "nombre": "Salteado de Calabacin y Champinones",
+      "ingredientes": ["Calabacin 100g", "Champinones 75g", "Berenjena 75g", "Pimiento 50g", "Ajo 3g", "Aceite De Oliva 10g"],
+      "preparacion": "Dorar ajos. Anadir resto de verduras troceadas y cocinar tapado a fuego medio 15 min."
+    },
+    {
+      "id": "pollo_limon",
+      "nombre": "Pollo al Limon",
+      "ingredientes": ["Pechuga De Pollo 150g", "Cebolla 30g", "Zumo De Limon 30g", "Aceite De Oliva 10g"],
+      "preparacion": "Dorar pollo en aceite. Anadir cebolla y zumo de limon con ralladura. Cocinar 5 min a presion."
+    },
+    {
+      "id": "revuelto_verduras_gambas",
+      "nombre": "Revuelto de Verduras con Gambas",
+      "ingredientes": ["Gambas 50g", "Patata 75g", "Huevo 50g", "Judia Verde 50g", "Coliflor 75g", "Zanahoria 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Hervir verduras y patata. Saltear con gambas en aceite y anadir el huevo hasta cuajar."
     }
   ]
 }
