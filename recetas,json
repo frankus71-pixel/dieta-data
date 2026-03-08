@@ -1,0 +1,524 @@
+{
+  "mes": "Septiembre 2025",
+  "recetas": [
+    {
+      "id": "macarrones_con_carne",
+      "nombre": "Macarrones con Carne (H)",
+      "ingredientes": ["240g Macarrones Integrales", "130g Carne Molida Ternera", "50g Cebolla", "90g Tomate Frito", "50g Pimiento", "3g Ajo", "10g Aceite"],
+      "preparacion": "Cocer macarrones. Rehogar cebolla, ajo, pimiento y carne. Anadir tomate y mezclar con la pasta. Servir caliente."
+    },
+    {
+      "id": "ensalada_de_manzana_y_queso",
+      "nombre": "Ensalada De Manzana Y Queso",
+      "ingredientes": ["150g Manzana Roja", "10g Nuez", "10g Zumo De Limon", "10g Aceite", "50g Escarola", "50g Queso Tierno", "40g Tomate"],
+      "preparacion": "Cortar manzana en tajadas con limon. Mezclar con escarola, tomates, nueces y queso. Alinar con aceite y limon."
+    },
+    {
+      "id": "tortilla_francesa_con_jamon",
+      "nombre": "Tortilla Francesa Con Jamon",
+      "ingredientes": ["50g Huevo", "30g Jamon Cocido", "10g Aceite"],
+      "preparacion": "Batir huevo. En sarten con aceite, cuajar el huevo con el jamon picado. Hacer por ambos lados."
+    },
+    {
+      "id": "ensalada_variada",
+      "nombre": "Ensalada Variada",
+      "ingredientes": ["50g Tomate", "75g Lechuga", "30g Zanahoria", "30g Cebolla", "55g Esparrago", "5g Aceite", "5g Vinagre", "35g Aceituna"],
+      "preparacion": "Lavar y picar verduras. Mezclar en fuente, anadir aceitunas y alinar con aceite y vinagre."
+    },
+    {
+      "id": "pescado_al_horno",
+      "nombre": "Pescado Al Horno",
+      "ingredientes": ["150g Merluza", "150g Patata", "75g Cebolla", "30g Pimiento", "10g Aceite", "75g Vino Blanco", "3g Ajo"],
+      "preparacion": "Rehogar cebolla, ajo y pimiento. Poner pescado en fuente con vino y limon. Hornear 10 min, anadir verduras y cocinar 5 min mas. Acompanar con papas."
+    },
+    {
+      "id": "bocadillo_de_caballa",
+      "nombre": "Bocadillo De Caballa H",
+      "ingredientes": ["80g Pan Integral", "100g Caballa En Aceite", "30g Tomate", "20g Aceituna", "5g Aceite"],
+      "preparacion": "Abrir pan, poner aceite, tomate en rodajas, caballa escurrida y aceitunas. Cerrar."
+    },
+    {
+      "id": "ensalada_de_tomate",
+      "nombre": "Ensalada De Tomate",
+      "ingredientes": ["150g Tomate", "10g Aceite", "2g Ajo"],
+      "preparacion": "Cortar tomate en rodajas. Picar ajo muy fino y repartir. Alinar con aceite y sal."
+    },
+    {
+      "id": "pollo_al_horno_con_calabaza",
+      "nombre": "Pollo Al Horno Con Calabaza",
+      "ingredientes": ["150g Pollo Pechuga", "150g Patata", "100g Calabaza", "50g Cebolla", "30g Vino Blanco", "10g Aceite"],
+      "preparacion": "Cortar calabaza, patata y cebolla. Hornear con vino y aceite 25 min a 180 grados. Anadir pollo y hornear hasta dorar."
+    },
+    {
+      "id": "ensalada_de_millo_y_manzana",
+      "nombre": "Ensalada De Millo Y Manzana",
+      "ingredientes": ["100g Manzana", "20g Maiz", "100g Tomate", "75g Esparrago", "40g Atun", "10g Aceite", "5g Mostaza"],
+      "preparacion": "Mezclar manzana, tomate, maiz, esparragos y atun. Alinar con mezcla de aceite, vinagre y mostaza."
+    },
+    {
+      "id": "revuelto_de_champinones_o_setas",
+      "nombre": "Revuelto De Champinones O Setas",
+      "ingredientes": ["150g Champinones", "50g Huevo", "50g Jamon Cocido", "10g Aceite", "10g Limon"],
+      "preparacion": "Dorar champinones con limon en aceite. Anadir huevos batidos y jamon. Remover hasta cuajar."
+    },
+    {
+      "id": "salteado_danpel",
+      "nombre": "Salteado Danpel",
+      "ingredientes": ["150g Zanahoria", "100g Cebolla", "100g Pimiento", "15g Aceite"],
+      "preparacion": "Cortar verduras en tiras. Saltear en sarten con aceite: primero cebolla y pimiento, luego zanahoria hasta que este al dente."
+    },
+    {
+      "id": "pizza_reina",
+      "nombre": "Pizza Reina",
+      "ingredientes": ["80g Base De Pizza", "60g Tomate Frito", "25g Queso", "25g Jamon Cocido", "50g Champinones", "5g Aceite"],
+      "preparacion": "Montar pizza con ingredientes sobre la base. Hornear a 220 grados hasta fundir queso."
+    },
+    {
+      "id": "ensalada_de_tomate_y_queso_tierno",
+      "nombre": "Ensalada De Tomate Y Queso Tierno",
+      "ingredientes": ["150g Tomate", "50g Queso Tierno", "10g Pinones", "10g Aceite", "5g Vinagre"],
+      "preparacion": "Rodajas de tomate con queso en dados y pinones. Alinar con aceite y vinagre."
+    },
+    {
+      "id": "arroz_con_pollo",
+      "nombre": "Arroz Con Pollo",
+      "ingredientes": ["150g Arroz Integral", "100g Pollo", "20g Pimiento", "20g Cebolla", "20g Zanahoria", "10g Aceite"],
+      "preparacion": "Cocer arroz. Saltear pollo con verduras picadas. Mezclar con el arroz y calentar."
+    },
+    {
+      "id": "ensalada_de_lechuga_y_pollo",
+      "nombre": "Ensalada De Lechuga Y Pollo",
+      "ingredientes": ["60g Lechuga", "60g Pollo", "50g Queso Tierno", "10g Aceite", "10g Mostaza", "5g Mayonesa Light"],
+      "preparacion": "Pollo a la plancha en tiras. Mezclar con lechuga y queso. Alinar con salsa de mostaza y mayonesa."
+    },
+    {
+      "id": "revuelto_de_calabacin",
+      "nombre": "Revuelto De Calabacin",
+      "ingredientes": ["140g Calabacin", "50g Huevo", "40g Cebolla", "10g Aceite"],
+      "preparacion": "Pochar cebolla y calabacin en dados. Anadir huevo batido y remover hasta cuajar."
+    },
+    {
+      "id": "calabaza_con_tomate",
+      "nombre": "Calabaza Con Tomate",
+      "ingredientes": ["200g Calabaza", "100g Tomate", "50g Cebolla", "50g Vino Blanco", "10g Aceite"],
+      "preparacion": "Rehogar cebolla en aceite con vino. Anadir tomate y calabaza en trozos. Cubrir con agua y cocer 40 min."
+    },
+    {
+      "id": "bocadillo_de_jamon_serrano_con_queso_tierno",
+      "nombre": "Bocadillo De Jamon Serrano Con Queso Tierno H",
+      "ingredientes": ["80g Pan Integral", "50g Jamon Serrano", "50g Queso Tierno", "5g Aceite"],
+      "preparacion": "Abrir pan, poner aceite, jamon y queso. Servir."
+    },
+    {
+      "id": "bowl_de_garbanzos_con_langostinos",
+      "nombre": "Bowl de Garbanzos con Langostinos",
+      "ingredientes": ["90g Garbanzo Cocido", "80g Langostinos", "60g Champinones", "50g Tomate Cherry", "30g Lechuga", "15g Aceite"],
+      "preparacion": "Base de lechuga con garbanzos, champinones y tomates. Anadir langostinos salteados. Alinar con aceite, vinagre y limon."
+    },
+    {
+      "id": "calabacines_en_juliana_al_wok",
+      "nombre": "Calabacines En Juliana Al Wok",
+      "ingredientes": ["150g Calabacin", "50g Cebolla", "30g Puerro", "20g Tomate Cherry", "10g Salsa Soja", "5g Aceite"],
+      "preparacion": "Saltear puerro y cebolla en wok. Anadir calabacin en juliana y tomates. Terminar con salsa de soja."
+    },
+    {
+      "id": "huevo_frito",
+      "nombre": "Huevo Frito",
+      "ingredientes": ["50g Huevo", "10g Aceite"],
+      "preparacion": "Freir el huevo en aceite caliente hasta que la clara este cuajada."
+    }
+  ]
+}
+{
+  "mes": "Octubre",
+  "recetas": [
+    {
+      "id": "pasta_griega_especias",
+      "nombre": "Pasta Griega con Especias",
+      "ingredientes": ["Macarrones Integrales 240g", "Queso Feta 50g", "Tomate Cherry 150g", "Aceite de Oliva 10g", "Ajo 2g"],
+      "preparacion": "Hervir pasta. Hornear tomates, feta, aceite y ajo 30 min a 220 grados. Mezclar con la pasta hasta formar salsa."
+    },
+    {
+      "id": "ensalada_cesar_pollo_huevo",
+      "nombre": "Ensalada Cesar con Pollo y Huevo",
+      "ingredientes": ["Pechuga de Pollo 60g", "Lechuga 100g", "Huevo 50g", "Queso Parmesano 20g", "Tomate 50g", "Cebolla 20g", "Aceite de Oliva 10g"],
+      "preparacion": "Trocear lechuga y cebolla. Pollo a la plancha y huevo cocido. Mezclar todo y alinar con aceite y vinagre."
+    },
+    {
+      "id": "judias_verdes_jamon",
+      "nombre": "Judias Verdes con Jamon Cocido",
+      "ingredientes": ["Judia Verde 150g", "Jamon Cocido 30g", "Ajo 2g", "Vino Blanco 20g", "Aceite de Oliva 5g"],
+      "preparacion": "Cocer judias 25 min. Sofreir jamon y ajo en aceite y vino. Anadir judias y cocinar 10 min mas."
+    },
+    {
+      "id": "lenguado_encebollado",
+      "nombre": "Lenguado Encebollado",
+      "ingredientes": ["Lenguado 150g", "Cebolla 50g", "Harina 20g", "Vino Blanco 30g", "Aceite de Oliva 10g"],
+      "preparacion": "Enharinar y freir pescado. Sofreir cebolla, anadir vino y agua. Juntar con el pescado y hervir 10 min."
+    },
+    {
+      "id": "bocadillo_lomo",
+      "nombre": "Bocadillo de Lomo",
+      "ingredientes": ["Lomo de Cerdo 90g", "Pan Integral 80g", "Queso 20g", "Tomate 40g", "Lechuga 10g", "Aceite de Oliva 5g"],
+      "preparacion": "Cocinar lomo a la sarten. Rellenar el pan con lomo, queso, lechuga y tomate. Servir caliente."
+    },
+    {
+      "id": "pollo_curry",
+      "nombre": "Pollo al Curry",
+      "ingredientes": ["Pechuga de Pollo 125g", "Leche de Coco 100g", "Zanahoria 100g", "Cebolla 35g", "Curry 5g"],
+      "preparacion": "Trocear pollo y verduras. Cocinar en cazuela con leche de coco y curry durante 30 min."
+    },
+    {
+      "id": "huevo_pisto",
+      "nombre": "Huevo con Pisto Manchego",
+      "ingredientes": ["Huevo 50g", "Calabacin 60g", "Tomate 60g", "Pimiento 30g", "Cebolla 30g", "Aceite de Oliva 15g"],
+      "preparacion": "Picar y rehogar verduras en aceite hasta pochar. Freir el huevo aparte y servir sobre el pisto."
+    },
+    {
+      "id": "salteado_danpel",
+      "nombre": "Salteado Danpel",
+      "ingredientes": ["Zanahoria 150g", "Cebolla 100g", "Pimiento 100g", "Aceite de Oliva 15g"],
+      "preparacion": "Cortar verduras en juliana. Sofreir cebolla y pimiento. Anadir zanahoria y cocinar al dente."
+    },
+    {
+      "id": "pizza_atun",
+      "nombre": "Pizza con Atun",
+      "ingredientes": ["Base de Pizza 80g", "Atun 40g", "Champinones 50g", "Queso 25g", "Tomate Frito 60g", "Aceite de Oliva 5g"],
+      "preparacion": "Extender tomate en la base. Anadir queso, atun escurrido y champinones. Hornear a 220 grados."
+    },
+    {
+      "id": "arroz_langostinos",
+      "nombre": "Arroz Meloso con Langostinos",
+      "ingredientes": ["Arroz Integral 60g", "Langostinos 80g", "Champinones 60g", "Vino Blanco 50g", "Aceite de Oliva 10g"],
+      "preparacion": "Cocer langostinos y reservar caldo. Dorar champinones, anadir langostinos, arroz y el caldo. Cocinar hasta que este meloso."
+    },
+    {
+      "id": "ensalada_tres_tiempos",
+      "nombre": "Ensalada Tres Tiempos",
+      "ingredientes": ["Manzana Roja 75g", "Queso Tierno 75g", "Atun 40g", "Lechuga 50g", "Zanahoria 50g", "Aceite de Oliva 10g"],
+      "preparacion": "Trocear lechuga, zanahoria y manzana. Mezclar con queso y atun. Alinar con aceite y vinagre."
+    },
+    {
+      "id": "calabaza_tomate",
+      "nombre": "Calabaza con Tomate",
+      "ingredientes": ["Calabaza 200g", "Tomate 100g", "Cebolla 50g", "Vino Blanco 50g", "Aceite de Oliva 10g"],
+      "preparacion": "Rehogar cebolla en aceite y vino. Anadir tomates y calabaza. Cocer con agua 40 min."
+    },
+    {
+      "id": "bocadillo_atun",
+      "nombre": "Bocadillo de Atun",
+      "ingredientes": ["Pan Integral 80g", "Atun 40g", "Tomate 40g", "Aceitunas 20g", "Lechuga 20g", "Aceite de Oliva 5g"],
+      "preparacion": "Escurrir atun. Rellenar el pan con atun, tomate, lechuga y aceitunas. Anadir aceite."
+    },
+    {
+      "id": "salteado_calabacin",
+      "nombre": "Salteado de Calabacin",
+      "ingredientes": ["Calabacin 100g", "Champinones 75g", "Berenjena 75g", "Pimiento 50g", "Aceite de Oliva 10g"],
+      "preparacion": "Sofreir ajo. Anadir verduras troceadas y cocinar tapado a fuego medio 15 min."
+    },
+    {
+      "id": "pollo_limon",
+      "nombre": "Pollo al Limon",
+      "ingredientes": ["Pechuga de Pollo 150g", "Cebolla 30g", "Zumo de Limon 30g", "Aceite de Oliva 10g"],
+      "preparacion": "Dorar el pollo. Anadir cebolla picada y zumo de limon. Cocinar 5 min mas."
+    },
+    {
+      "id": "revuelto_verduras_gambas",
+      "nombre": "Revuelto de Verduras con Gambas",
+      "ingredientes": ["Gambas 50g", "Patata 75g", "Huevo 50g", "Judia Verde 50g", "Coliflor 75g", "Aceite de Oliva 10g"],
+      "preparacion": "Hervir verduras y patata. Saltear con las gambas en aceite. Anadir huevo batido y remover hasta cuajar."
+    }
+  ]
+}
+{
+  "mes": "Noviembre",
+  "recetas": [
+    {
+      "id": "espaguetis_atun",
+      "nombre": "Espaguetis con Atun",
+      "ingredientes": ["Espagueti Integral 240g", "Atun En Aceite 80g", "Tomate Frito 120g", "Cebolla 50g", "Pimiento 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Cocer espaguetis 8-10 min. Sofreir cebolla y pimiento en aceite. Anadir atun y tomate frito. Mezclar con la pasta."
+    },
+    {
+      "id": "ensalada_atun_aguacate",
+      "nombre": "Ensalada de Atun y Aguacate",
+      "ingredientes": ["Escarola 75g", "Aguacate 75g", "Atun En Aceite 40g", "Tomate Crudo 75g", "Aceite De Oliva 5g", "Zumo De Limon 5g"],
+      "preparacion": "Lavar escarola y trocear tomate y aguacate. Anadir atun. Alinar con emulsion de aceite y limon."
+    },
+    {
+      "id": "calabacines_juliana",
+      "nombre": "Calabacines en Juliana al Wok",
+      "ingredientes": ["Calabacin 150g", "Cebolla 50g", "Tomate Cherry 20g", "Salsa De Soja 10g", "Puerro 30g", "Aceite De Oliva 5g"],
+      "preparacion": "Cortar verduras en juliana. Saltear puerro, tomate y cebolla. Anadir calabacin y terminar con salsa de soja."
+    },
+    {
+      "id": "merluza_riojana",
+      "nombre": "Merluza a la Riojana",
+      "ingredientes": ["Merluza 150g", "Pimiento 70g", "Tomate Frito 60g", "Cebolla 70g", "Ajo 3g", "Aceite De Oliva 10g"],
+      "preparacion": "Sofreir ajo y cebolla. Anadir pimiento y tomate hasta espesar. Incorporar merluza y cocer 3 min."
+    },
+    {
+      "id": "bocadillo_atun_millo",
+      "nombre": "Bocadillo de Atun y Millo",
+      "ingredientes": ["Atun En Aceite 60g", "Maiz 30g", "Mayonesa Light 15g", "Pan Integral 80g"],
+      "preparacion": "Escurrir atun. Rellenar el pan con el atun, la mayonesa y el millo (maiz)."
+    },
+    {
+      "id": "pollo_curry",
+      "nombre": "Pollo al Curry",
+      "ingredientes": ["Pechuga De Pollo 125g", "Leche De Coco 100g", "Cebolla 35g", "Zanahoria 100g", "Curry 5g"],
+      "preparacion": "Trocear pollo y verduras. Cocinar todo en una cazuela con leche de coco y curry 30 min tapado."
+    },
+    {
+      "id": "huevo_pisto_manchego",
+      "nombre": "Huevo con Pisto Manchego",
+      "ingredientes": ["Huevo 50g", "Pimiento 30g", "Calabacin 60g", "Cebolla 30g", "Ajo 2g", "Tomate Crudo 60g", "Aceite De Oliva 15g"],
+      "preparacion": "Picar y rehogar verduras en aceite hasta pochar. Freir el huevo y servirlo sobre el pisto."
+    },
+    {
+      "id": "albondigas_guisantes",
+      "nombre": "Albondigas con Guisantes",
+      "ingredientes": ["Carne Ternera 100g", "Guisantes 40g", "Tomate 40g", "Pimiento 20g", "Huevo 50g", "Harina 20g", "Vino Blanco 30g", "Aceite De Oliva 10g"],
+      "preparacion": "Formar albondigas con carne, huevo y harina. Freir y luego guisar con verduras y vino 8 min a presion."
+    },
+    {
+      "id": "ensalada_manzana_queso",
+      "nombre": "Ensalada de Manzana y Queso",
+      "ingredientes": ["Manzana Roja 150g", "Queso Tierno 50g", "Escarola 50g", "Nueces 10g", "Tomate 40g", "Aceite De Oliva 10g"],
+      "preparacion": "Trocear manzana y mojar en limon. Mezclar con escarola, tomate, nueces y queso. Alinar con aceite."
+    },
+    {
+      "id": "arroz_meloso_langostinos",
+      "nombre": "Arroz Meloso con Langostinos",
+      "ingredientes": ["Arroz Integral 180g", "Langostinos 80g", "Champinones 60g", "Vino Blanco 50g", "Ajo 10g", "Aceite De Oliva 10g"],
+      "preparacion": "Cocer langostinos y usar su caldo. Saltear ajos y champinones, anadir arroz y caldo hasta que quede meloso."
+    },
+    {
+      "id": "ensalada_tres_tiempos",
+      "nombre": "Ensalada Tres Tiempos",
+      "ingredientes": ["Manzana Roja 75g", "Zanahoria 50g", "Atun En Aceite 40g", "Lechuga 50g", "Queso Tierno 75g", "Aceite De Oliva 10g"],
+      "preparacion": "Mezclar lechuga, tiras de zanahoria y trozos de manzana con queso y atun. Alinar con aceite y vinagre."
+    },
+    {
+      "id": "calabaza_tomate",
+      "nombre": "Calabaza con Tomate",
+      "ingredientes": ["Calabaza 200g", "Tomate 100g", "Cebolla 50g", "Vino Blanco 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Sofreir cebolla en aceite y vino. Anadir tomate y calabaza. Cubrir con agua y cocer 40 min."
+    },
+    {
+      "id": "pizza_atun",
+      "nombre": "Pizza con Atun",
+      "ingredientes": ["Base De Pizza 80g", "Atun 40g", "Champinones 50g", "Queso 25g", "Tomate Frito 60g", "Aceite De Oliva 5g"],
+      "preparacion": "Extender tomate en la base. Anadir queso, atun, jamon y champinones. Hornear a 220 grados."
+    },
+    {
+      "id": "salteado_calabacin_champinones",
+      "nombre": "Salteado de Calabacin y Champinones",
+      "ingredientes": ["Calabacin 100g", "Champinones 75g", "Berenjena 75g", "Pimiento 50g", "Ajo 3g", "Aceite De Oliva 10g"],
+      "preparacion": "Dorar ajos. Anadir resto de verduras troceadas y cocinar tapado a fuego medio 15 min."
+    },
+    {
+      "id": "pollo_limon",
+      "nombre": "Pollo al Limon",
+      "ingredientes": ["Pechuga De Pollo 150g", "Cebolla 30g", "Zumo De Limon 30g", "Aceite De Oliva 10g"],
+      "preparacion": "Dorar pollo en aceite. Anadir cebolla y zumo de limon con ralladura. Cocinar 5 min a presion."
+    },
+    {
+      "id": "revuelto_verduras_gambas",
+      "nombre": "Revuelto de Verduras con Gambas",
+      "ingredientes": ["Gambas 50g", "Patata 75g", "Huevo 50g", "Judia Verde 50g", "Coliflor 75g", "Zanahoria 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Hervir verduras y patata. Saltear con gambas en aceite y anadir el huevo hasta cuajar."
+    }
+  ]
+}
+{
+  "mes": "Diciembre",
+  "recetas": [
+    {
+      "id": "revuelto_verduras_gambas",
+      "nombre": "Revuelto Verduras Gambas",
+      "ingredientes": [
+        "Huevo 50g",
+        "Gambas 50g",
+        "Zanahoria 50g",
+        "Judia Verde 150g",
+        "Patata 75g",
+        "Aceite De Oliva 10g"
+      ],
+      "preparacion": "Hervir verduras y patata. Saltear con las gambas y anadir el huevo batido hasta que cuaje."
+    },
+    {
+      "id": "bocadillo_aguacate_tomate",
+      "nombre": "Bocadillo Aguacate Tomate",
+      "ingredientes": ["Pan Integral 80g", "Aguacate 60g", "Tomate Crudo 40g", "Huevo Cocido 50g"],
+      "preparacion": "Cocer el huevo 10 min. Abrir el pan, poner el aguacate laminado, el tomate en rodajas y el huevo cocido encima."
+    },
+    {
+      "id": "ensalada_tres_tiempos",
+      "nombre": "Ensalada Tres Tiempos",
+      "ingredientes": ["Manzana Roja 75g", "Zanahoria 50g", "Atun En Aceite 40g", "Lechuga 50g", "Aceite De Oliva 10g", "Queso Tierno 75g", "Vinagre 5g"],
+      "preparacion": "Cortar y mezclar todos los ingredientes. Alinar con aceite y vinagre."
+    },
+    {
+      "id": "ensalada_millo_manzana",
+      "nombre": "Ensalada Millo Manzana",
+      "ingredientes": ["Maiz Millo 40g", "Manzana Roja 100g", "Lechuga 100g", "Aceite De Oliva 10g", "Zumo De Limon 5g"],
+      "preparacion": "Mezclar la lechuga con la manzana troceada y el millo. Alinar con aceite y limon."
+    },
+    {
+      "id": "judias_verdes_rehogadas",
+      "nombre": "Judias Verdes Rehogadas",
+      "ingredientes": ["Judia Verde 150g", "Ajo 5g", "Cebolla 50g", "Aceite De Oliva 10g", "Pimenton Dulce 2g"],
+      "preparacion": "Cocer las judias. En una sarten con aceite, dorar ajos y cebolla. Anadir el pimenton y las judias escurridas."
+    },
+    {
+      "id": "salteado_calabacin",
+      "nombre": "Salteado Calabacin",
+      "ingredientes": ["Calabacin 100g", "Champinones 75g", "Berenjena 75g", "Pimiento 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Trocear las verduras y saltear en una sarten con aceite durante 15 minutos."
+    },
+    {
+      "id": "arroz_meloso",
+      "nombre": "Arroz Meloso con Langostinos",
+      "ingredientes": ["Arroz Integral 180g", "Champinones 60g", "Langostinos 80g", "Vino Blanco 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Sofreir ajo y champinones. Anadir arroz y vino. Ir anadiendo caldo removiendo hasta que este meloso."
+    },
+    {
+      "id": "merluza_plancha",
+      "nombre": "Merluza Plancha",
+      "ingredientes": ["Merluza 150g", "Aceite De Oliva 10g", "Ajo 5g", "Perejil 2g"],
+      "preparacion": "Hacer un majado con ajo, perejil y aceite. Pintar el pescado y cocinar a la plancha."
+    },
+    {
+      "id": "pollo_ajillo",
+      "nombre": "Pollo Ajillo",
+      "ingredientes": ["Pechuga de Pollo 150g", "Ajo 10g", "Aceite De Oliva 10g", "Vino Blanco 20g"],
+      "preparacion": "Trocear el pollo. Dorar ajos, sellar el pollo y cocinar con el vino blanco."
+    },
+    {
+      "id": "pollo_limon",
+      "nombre": "Pollo Limon",
+      "ingredientes": ["Pechuga de Pollo 150g", "Cebolla 30g", "Zumo de Limon 30g", "Aceite De Oliva 10g"],
+      "preparacion": "Dorar el pollo. Anadir la cebolla picada y el zumo de limon. Cocinar 5 min mas."
+    },
+    {
+      "id": "pizza_navidad",
+      "nombre": "Pizza Navidad",
+      "ingredientes": ["Base de Pizza 80g", "Tomate Frito 60g", "Queso 25g", "Atun 40g", "Champinones 50g"],
+      "preparacion": "Montar la pizza con los ingredientes y hornear a 220 grados hasta que este dorada."
+    },
+    {
+      "id": "ensalada_tomate_jamon",
+      "nombre": "Ensalada de Tomate y Jamon Serrano",
+      "ingredientes": ["Tomate Crudo 150g", "Jamon Serrano 60g", "Aceite De Oliva 10g", "Ajo 2g"],
+      "preparacion": "Tomate en rodajas con ajo picado. Poner el jamon encima y alinar con aceite."
+    },
+    {
+      "id": "ensalada_aguacate",
+      "nombre": "Ensalada de Aguacate",
+      "ingredientes": ["Aguacate 75g", "Lechuga 100g", "Tomate Crudo 50g", "Cebolla 30g"],
+      "preparacion": "Trocear lechuga, tomate y aguacate. Mezclar con la cebolla y alinar."
+    },
+    {
+      "id": "pasta_natali",
+      "nombre": "Pasta Natali",
+      "ingredientes": ["Espagueti Integral 240g", "Atun En Aceite 80g", "Tomate Frito 60g", "Aceitunas Verdes 20g"],
+      "preparacion": "Hervir pasta. Calentar atun, aceitunas y tomate. Mezclar con la pasta."
+    },
+    {
+      "id": "solomillo_ternera",
+      "nombre": "Solomillo Ternera",
+      "ingredientes": ["Solomillo de Ternera 150g", "Aceite De Oliva 5g", "Sal"],
+      "preparacion": "Cocinar a la plancha al punto deseado. Salar al final."
+    },
+    {
+      "id": "ensalada_tomate",
+      "nombre": "Ensalada de Tomate",
+      "ingredientes": ["Tomate Crudo 150g", "Cebolla 30g", "Aceite De Oliva 5g"],
+      "preparacion": "Cortar el tomate y la cebolla. Alinar con el aceite."
+    },
+    {
+      "id": "bocadillo_aguacate",
+      "nombre": "Bocadillo Aguacate",
+      "ingredientes": ["Pan Integral 80g", "Aguacate 60g", "Tomate Crudo 40g", "Huevo Cocido 50g"],
+      "preparacion": "Huevo cocido con aguacate y tomate en pan integral."
+    }
+  ]
+}
+{
+  "mes": "Enero",
+  "recetas": [
+    {
+      "id": "espaguetis_marineros",
+      "nombre": "Espaguetis Marineros",
+      "ingredientes": ["Espagueti Integral 150g", "Langostinos 100g", "Ajo 5g", "Perejil 10g", "Vino Blanco 80g", "Aceite De Oliva 10g"],
+      "preparacion": "Hervir pasta. En sarten con aceite dorar ajo, anadir vino y reducir. Incorporar langostinos y perejil, saltear y mezclar con la pasta."
+    },
+    {
+      "id": "cogollo_lechuga_pavo",
+      "nombre": "Cogollo De Lechuga Con Pavo",
+      "ingredientes": ["Cogollo De Lechuga 100g", "Pechuga De Pavo 90g", "Calabacin 50g", "Pimiento 25g", "Aguacate 75g", "Aceite De Oliva 10g"],
+      "preparacion": "Picar pavo y verduras. Saltear en sarten con aceite. Rellenar hojas del cogollo y poner aguacate encima."
+    },
+    {
+      "id": "huevo_frito",
+      "nombre": "Huevo Frito",
+      "ingredientes": ["Huevo 60g", "Aceite De Oliva 10g"],
+      "preparacion": "Calentar aceite en sarten. Freir el huevo hasta que la clara este cocinada. Retirar y anadir sal."
+    },
+    {
+      "id": "ensalada_campera",
+      "nombre": "Ensalada Campera",
+      "ingredientes": ["Patata 125g", "Tomate 100g", "Pimiento 40g", "Cebolla 30g", "Atun 40g", "Aceitunas 20g", "Aceite De Oliva 5g"],
+      "preparacion": "Cocer patatas y trocear. Picar verduras. Mezclar con atun y aceitunas. Alinar con aceite y vinagre."
+    },
+    {
+      "id": "merluza_plancha_limon",
+      "nombre": "Merluza A La Plancha Con Limon",
+      "ingredientes": ["Merluza 150g", "Limon 10g", "Aceite De Oliva 5g"],
+      "preparacion": "Cocinar merluza en plancha con aceite por ambos lados. Anadir sal y limon al servir."
+    },
+    {
+      "id": "bocadillo_aguacate_tomate_huevo",
+      "nombre": "Bocadillo De Aguacate Tomate y Huevo",
+      "ingredientes": ["Pan Integral 80g", "Queso Tierno 70g", "Tomate 60g", "Aguacate 60g", "Huevo 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Hacer huevo a la plancha. Abrir pan, colocar queso, tomate, aguacate y el huevo encima."
+    },
+    {
+      "id": "pollo_strogonoff",
+      "nombre": "Pollo Strogonoff",
+      "ingredientes": ["Pechuga De Pollo 140g", "Champinones 75g", "Cebolla 25g", "Ajo 3g", "Nata 40g", "Aceite De Oliva 10g"],
+      "preparacion": "Dorar cebolla y ajo. Anadir pollo y champinones. Incorporar nata y cocinar hasta que espese."
+    },
+    {
+      "id": "ensalada_manzana_queso",
+      "nombre": "Ensalada De Manzana Y Queso",
+      "ingredientes": ["Manzana 150g", "Escarola 50g", "Tomate 40g", "Queso 50g", "Nueces 10g", "Aceite De Oliva 10g"],
+      "preparacion": "Cortar manzana con limon. Mezclar con escarola, tomate y nueces. Anadir queso y alinar."
+    },
+    {
+      "id": "wok_verduras",
+      "nombre": "Wok De Verduras",
+      "ingredientes": ["Espinaca 100g", "Pimiento 75g", "Edamame 50g", "Cebolla 40g", "Jengibre 10g", "Salsa De Soja 15g", "Aceite De Oliva 10g"],
+      "preparacion": "Saltear cebolla, pimiento y jengibre. Anadir espinaca y edamame. Incorporar soja y cocinar 2 min."
+    },
+    {
+      "id": "arroz_pollo_mostaza",
+      "nombre": "Arroz Con Pollo Y Mostaza",
+      "ingredientes": ["Arroz Integral 150g", "Pollo 140g", "Cebolla 50g", "Mostaza 10g", "Nata 25g", "Aceite De Oliva 5g"],
+      "preparacion": "Sofreir pollo y cebolla. Anadir arroz, mostaza y nata. Cocinar con un poco de agua 20 min."
+    },
+    {
+      "id": "calabaza_tomate",
+      "nombre": "Calabaza Con Tomate",
+      "ingredientes": ["Calabaza 200g", "Tomate 100g", "Cebolla 50g", "Vino Blanco 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Rehogar cebolla en aceite y vino. Anadir tomate y calabaza. Cocinar 40 min hasta que ablande."
+    },
+    {
+      "id": "tortilla_francesa_jamon",
+      "nombre": "Tortilla Francesa Con Jamon",
+      "ingredientes": ["Huevo 60g", "Jamon Cocido 40g", "Aceite De Oliva 5g"],
+      "preparacion": "Batir huevo. Anadir a sarten con aceite. Incorporar jamon y cuajar por ambos lados."
+    }
+  ]
+}
