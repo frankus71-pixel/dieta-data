@@ -2,12 +2,14 @@
   "recetas": [
     {
       "id": "macarrones_con_carne",
+      "categoria": "pastas",
       "nombre": "Macarrones con Carne (H)",
       "ingredientes": ["240g Macarrones Integrales", "130g Carne Molida Ternera", "50g Cebolla", "90g Tomate Frito", "50g Pimiento", "3g Ajo", "10g Aceite"],
       "preparacion": "Cocer macarrones. Rehogar cebolla, ajo, pimiento y carne. Anadir tomate y mezclar con la pasta. Servir caliente."
     },
     {
       "id": "ensalada_de_manzana_y_queso",
+      "categoria": "ensaladas",
       "nombre": "Ensalada De Manzana Y Queso",
       "ingredientes": ["150g Manzana Roja", "10g Nuez", "10g Zumo De Limon", "10g Aceite", "50g Escarola", "50g Queso Tierno", "40g Tomate"],
       "preparacion": "Cortar manzana en tajadas con limon. Mezclar con escarola, tomates, nueces y queso. Alinar con aceite y limon."
