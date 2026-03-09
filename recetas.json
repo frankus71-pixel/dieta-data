@@ -125,7 +125,7 @@
       "nombre": "Huevo Frito",
       "ingredientes": ["50g Huevo", "10g Aceite"],
       "preparacion": "Freir el huevo en aceite caliente hasta que la clara este cuajada."
-    }
+    },
     {
       "id": "pasta_griega_especias",
       "nombre": "Pasta Griega con Especias",
@@ -217,11 +217,18 @@
       "preparacion": "Dorar el pollo. Anadir cebolla picada y zumo de limon. Cocinar 5 min mas."
     },
     {
-      "id": "revuelto_verduras_gambas",
-      "nombre": "Revuelto de Verduras con Gambas",
-      "ingredientes": ["Gambas 50g", "Patata 75g", "Huevo 50g", "Judia Verde 50g", "Coliflor 75g", "Aceite de Oliva 10g"],
-      "preparacion": "Hervir verduras y patata. Saltear con las gambas en aceite. Anadir huevo batido y remover hasta cuajar."
-    }
+  "id": "revuelto_verduras_gambas",
+  "nombre": "Revuelto Verduras Gambas",
+  "ingredientes": [
+    "Huevo 50g",
+    "Gambas 50g",
+    "Zanahoria 50g",
+    "Judia Verde 150g",
+    "Patata 75g",
+    "Aceite De Oliva 10g"
+  ],
+  "preparacion": "Hervir verduras y patata. Saltear con las gambas y añadir el huevo batido hasta que cuaje."
+}
     {
       "id": "espaguetis_atun",
       "nombre": "Espaguetis con Atun",
