@@ -1,6 +1,5 @@
 {
-  "mes": "Septiembre 2025",
-  "recetas": [
+  "Recetas": [
     {
       "id": "macarrones_con_carne",
       "nombre": "Macarrones con Carne (H)",
@@ -127,11 +126,6 @@
       "ingredientes": ["50g Huevo", "10g Aceite"],
       "preparacion": "Freir el huevo en aceite caliente hasta que la clara este cuajada."
     }
-  ]
-}
-{
-  "mes": "Octubre",
-  "recetas": [
     {
       "id": "pasta_griega_especias",
       "nombre": "Pasta Griega con Especias",
@@ -228,11 +222,6 @@
       "ingredientes": ["Gambas 50g", "Patata 75g", "Huevo 50g", "Judia Verde 50g", "Coliflor 75g", "Aceite de Oliva 10g"],
       "preparacion": "Hervir verduras y patata. Saltear con las gambas en aceite. Anadir huevo batido y remover hasta cuajar."
     }
-  ]
-}
-{
-  "mes": "Noviembre",
-  "recetas": [
     {
       "id": "espaguetis_atun",
       "nombre": "Espaguetis con Atun",
@@ -328,24 +317,12 @@
       "nombre": "Revuelto de Verduras con Gambas",
       "ingredientes": ["Gambas 50g", "Patata 75g", "Huevo 50g", "Judia Verde 50g", "Coliflor 75g", "Zanahoria 50g", "Aceite De Oliva 10g"],
       "preparacion": "Hervir verduras y patata. Saltear con gambas en aceite y anadir el huevo hasta cuajar."
-    }
-  ]
-}
-{
-  "mes": "Diciembre",
-  "recetas": [
+    },
     {
       "id": "revuelto_verduras_gambas",
       "nombre": "Revuelto Verduras Gambas",
-      "ingredientes": [
-        "Huevo 50g",
-        "Gambas 50g",
-        "Zanahoria 50g",
-        "Judia Verde 150g",
-        "Patata 75g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Hervir verduras y patata. Saltear con las gambas y anadir el huevo batido hasta que cuaje."
+      "ingredientes": ["Huevo 50g", "Gambas 50g", "Zanahoria 50g", "Judia Verde 150g", "Patata 75g", "Aceite De Oliva 10g",
+       "preparacion": "Hervir verduras y patata. Saltear con las gambas y anadir el huevo batido hasta que cuaje."
     },
     {
       "id": "bocadillo_aguacate_tomate",
@@ -442,12 +419,7 @@
       "nombre": "Bocadillo Aguacate",
       "ingredientes": ["Pan Integral 80g", "Aguacate 60g", "Tomate Crudo 40g", "Huevo Cocido 50g"],
       "preparacion": "Huevo cocido con aguacate y tomate en pan integral."
-    }
-  ]
-}
-{
-  "mes": "Enero",
-  "recetas": [
+    },
     {
       "id": "espaguetis_marineros",
       "nombre": "Espaguetis Marineros",
