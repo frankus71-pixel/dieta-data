@@ -350,12 +350,19 @@
       "preparacion": "Hervir verduras y patata. Saltear con gambas en aceite y anadir el huevo hasta cuajar."
     },
     {
-      "id": "revuelto_verduras_gambas",
-      "categoria": "verduras",
-      "nombre": "Revuelto Verduras Gambas",
-      "ingredientes": ["Huevo 50g", "Gambas 50g", "Zanahoria 50g", "Judia Verde 150g", "Patata 75g", "Aceite De Oliva 10g",
-       "preparacion",":", "Hervir verduras y patata. Saltear con las gambas y anadir el huevo batido hasta que cuaje."]
-    },
+  "id": "revuelto_verduras_gambas",
+  "categoria": "verduras",
+  "nombre": "Revuelto Verduras Gambas",
+  "ingredientes": [
+    "Huevo 50g",
+    "Gambas 50g",
+    "Zanahoria 50g",
+    "Judia Verde 150g",
+    "Patata 75g",
+    "Aceite De Oliva 10g"
+  ],
+  "preparacion": "Hervir verduras y patata. Saltear con las gambas y anadir el huevo batido hasta que cuaje."
+},
     {
       "id": "bocadillo_aguacate_tomate",
       "categoria": "bocadillos",
