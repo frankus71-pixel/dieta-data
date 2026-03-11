@@ -79,7 +79,7 @@
     },
     {
       "id": "pizza_reina",
-      "categoria": "pizza",
+      "categoria": "pizzas",
       "nombre": "Pizza Reina",
       "ingredientes": ["80g Base De Pizza", "60g Tomate Frito", "25g Queso", "25g Jamon Cocido", "50g Champinones", "5g Aceite"],
       "preparacion": "Montar pizza con ingredientes sobre la base. Hornear a 220 grados hasta fundir queso."
