@@ -1,101 +1,100 @@
 {
-  "mes": "Noviembre",
   "recetas": [
     {
       "id": "espaguetis_atun",
       "nombre": "Espaguetis con Atun",
       "ingredientes": ["Espagueti Integral 240g", "Atun En Aceite 80g", "Tomate Frito 120g", "Cebolla 50g", "Pimiento 50g", "Aceite De Oliva 10g"],
-      "preparacion": "Cocer espaguetis 8-10 min. Sofreir cebolla y pimiento en aceite. Anadir atun y tomate frito. Mezclar con la pasta."
+      "preparacion": "Cuece los espaguetis en agua con sal hasta que esten al dente y escurre. En una sarten con aceite a fuego medio, sofrie la cebolla y el pimiento picados durante 5 minutos hasta que esten tiernos. Añade el atun escurrido y el tomate frito, mezcla bien y cocina 3 minutos mas. Incorpora la pasta escurrida a la sarten, remueve para integrar todos los ingredientes y sirve inmediatamente."
     },
     {
       "id": "ensalada_atun_aguacate",
       "nombre": "Ensalada de Atun y Aguacate",
       "ingredientes": ["Escarola 75g", "Aguacate 75g", "Atun En Aceite 40g", "Tomate Crudo 75g", "Aceite De Oliva 5g", "Zumo De Limon 5g"],
-      "preparacion": "Lavar escarola y trocear tomate y aguacate. Anadir atun. Alinar con emulsion de aceite y limon."
+      "preparacion": "Lava y centrifuga bien la escarola. Corta el tomate en dados medianos y el aguacate en laminas o cubos, rociando con un poco de limon para evitar que se oxide. Coloca la escarola de base en el plato, dispone encima el tomate, el aguacate y el atun escurrido. Prepara una emulsion batiendo el aceite con el zumo de limon y una pizca de sal, aliña justo antes de servir."
     },
     {
       "id": "calabacines_juliana",
       "nombre": "Calabacines en Juliana al Wok",
       "ingredientes": ["Calabacin 150g", "Cebolla 50g", "Tomate Cherry 20g", "Salsa De Soja 10g", "Puerro 30g", "Aceite De Oliva 5g"],
-      "preparacion": "Cortar verduras en juliana. Saltear puerro, tomate y cebolla. Anadir calabacin y terminar con salsa de soja."
+      "preparacion": "Corta el calabacin, la cebolla y el puerro en juliana fina y uniforme. Calienta el wok a fuego alto con el aceite hasta que humee. Saltea primero el puerro y la cebolla 2 minutos removiendo constantemente. Añade el calabacin y los tomates cherry partidos por la mitad y cocina 3 minutos mas sin dejar de mover. Vierte la salsa de soja, mezcla rapidamente 30 segundos y sirve de inmediato para conservar el crujiente."
     },
     {
       "id": "merluza_riojana",
       "nombre": "Merluza a la Riojana",
       "ingredientes": ["Merluza 150g", "Pimiento 70g", "Tomate Frito 60g", "Cebolla 70g", "Ajo 3g", "Aceite De Oliva 10g"],
-      "preparacion": "Sofreir ajo y cebolla. Anadir pimiento y tomate hasta espesar. Incorporar merluza y cocer 3 min."
+      "preparacion": "En una cazuela con aceite a fuego medio, dora el ajo laminado y la cebolla picada durante 4-5 minutos. Añade el pimiento en tiras y sofrie 3 minutos mas. Incorpora el tomate frito y cocina hasta que la salsa espese ligeramente, unos 3 minutos. Coloca los lomos de merluza sobre la salsa, tapa la cazuela y cocina a fuego suave 4-5 minutos hasta que el pescado este opaco y se desmigue con facilidad."
     },
     {
       "id": "bocadillo_atun_millo",
       "nombre": "Bocadillo de Atun y Millo",
       "ingredientes": ["Atun En Aceite 60g", "Maiz 30g", "Mayonesa Light 15g", "Pan Integral 80g"],
-      "preparacion": "Escurrir atun. Rellenar el pan con el atun, la mayonesa y el millo (maiz)."
+      "preparacion": "Escurre bien el atun del aceite y desmigalo con un tenedor. Escurre tambien el maiz de su liquido de conserva. En un bol, mezcla el atun con el maiz y la mayonesa light hasta obtener una pasta homogenea. Abre el pan integral y, si lo prefieres, toestalo ligeramente. Rellena con la mezcla de atun, distribuye bien y sirve."
     },
     {
       "id": "pollo_curry",
       "nombre": "Pollo al Curry",
       "ingredientes": ["Pechuga De Pollo 125g", "Leche De Coco 100g", "Cebolla 35g", "Zanahoria 100g", "Curry 5g"],
-      "preparacion": "Trocear pollo y verduras. Cocinar todo en una cazuela con leche de coco y curry 30 min tapado."
+      "preparacion": "Corta el pollo en dados de 2 cm y salpimenta. Pica la cebolla fina y la zanahoria en rodajas. En una cazuela a fuego medio, sofrie la cebolla 3 minutos, añade el pollo y sella por todos lados. Incorpora la zanahoria y el curry, remueve 1 minuto para tostar las especias. Vierte la leche de coco, tapa y cocina a fuego suave 25-30 minutos hasta que la salsa espese y el pollo este bien tierno."
     },
     {
       "id": "huevo_pisto_manchego",
       "nombre": "Huevo con Pisto Manchego",
       "ingredientes": ["Huevo 50g", "Pimiento 30g", "Calabacin 60g", "Cebolla 30g", "Ajo 2g", "Tomate Crudo 60g", "Aceite De Oliva 15g"],
-      "preparacion": "Picar y rehogar verduras en aceite hasta pochar. Freir el huevo y servirlo sobre el pisto."
+      "preparacion": "Pica el ajo, la cebolla, el pimiento y el calabacin en dados pequenos. Calienta el aceite en una sarten y sofrie el ajo y la cebolla 3 minutos. Añade el pimiento y el calabacin y cocina 5 minutos mas a fuego medio. Incorpora el tomate picado y cocina todo junto 10 minutos hasta que las verduras esten bien pochadas y el liquido evaporado. En otra sarten con unas gotas de aceite, frie el huevo y sirvelo sobre el pisto."
     },
     {
       "id": "albondigas_guisantes",
       "nombre": "Albondigas con Guisantes",
       "ingredientes": ["Carne Ternera 100g", "Guisantes 40g", "Tomate 40g", "Pimiento 20g", "Huevo 50g", "Harina 20g", "Vino Blanco 30g", "Aceite De Oliva 10g"],
-      "preparacion": "Formar albondigas con carne, huevo y harina. Freir y luego guisar con verduras y vino 8 min a presion."
+      "preparacion": "Mezcla la carne picada con el huevo batido, sal y pimienta. Forma albondigas del tamano de una nuez y pasalas por harina. Frie en aceite hasta dorar por fuera y reserva. En la misma sarten sofrie el pimiento y el tomate picados 4 minutos. Añade el vino, deja evaporar y agrega los guisantes y las albondigas. Cocina 8 minutos a fuego suave o 3 minutos en olla a presion."
     },
     {
       "id": "ensalada_manzana_queso",
       "nombre": "Ensalada de Manzana y Queso",
       "ingredientes": ["Manzana Roja 150g", "Queso Tierno 50g", "Escarola 50g", "Nueces 10g", "Tomate 40g", "Aceite De Oliva 10g"],
-      "preparacion": "Trocear manzana y mojar en limon. Mezclar con escarola, tomate, nueces y queso. Alinar con aceite."
+      "preparacion": "Lava y trocea la escarola con las manos. Corta la manzana en laminas finas y rocía con zumo de limon para que no se oxide. Corta el tomate en dados y el queso en cubos. Tuesta las nueces en una sarten sin aceite 1-2 minutos para potenciar su sabor. Coloca la escarola de base, dispone encima el tomate, la manzana, el queso y las nueces. Aliña con aceite, un toque de vinagre y sal justo antes de servir."
     },
     {
       "id": "arroz_meloso_langostinos",
       "nombre": "Arroz Meloso con Langostinos",
       "ingredientes": ["Arroz Integral 180g", "Langostinos 80g", "Champinones 60g", "Vino Blanco 50g", "Ajo 10g", "Aceite De Oliva 10g"],
-      "preparacion": "Cocer langostinos y usar su caldo. Saltear ajos y champinones, anadir arroz y caldo hasta que quede meloso."
+      "preparacion": "Pela los langostinos y cuece las cabezas y cascaras en agua 10 minutos para hacer un caldo. Cuela y reserva. Dora el ajo picado en aceite, añade los champinones laminados y saltea 3 minutos. Incorpora el arroz integral y nacaralo 1 minuto. Vierte el vino y deja evaporar. Añade el caldo de langostinos caliente poco a poco, removiendo frecuentemente durante 35 minutos. Cuando el arroz este casi listo, incorpora los langostinos y cocina 3 minutos mas hasta que esten rosados."
     },
     {
       "id": "ensalada_tres_tiempos",
       "nombre": "Ensalada Tres Tiempos",
       "ingredientes": ["Manzana Roja 75g", "Zanahoria 50g", "Atun En Aceite 40g", "Lechuga 50g", "Queso Tierno 75g", "Aceite De Oliva 10g"],
-      "preparacion": "Mezclar lechuga, tiras de zanahoria y trozos de manzana con queso y atun. Alinar con aceite y vinagre."
+      "preparacion": "Lava y trocea la lechuga. Pela la zanahoria y cortala en bastoncitos finos o rallala gruesa. Corta la manzana en dados pequenos y rocía con limon. Corta el queso en cubos y escurre bien el atun. En una fuente, coloca la lechuga de base y distribuye encima la zanahoria, la manzana, el queso y el atun. Aliña con aceite, un chorrito de vinagre de manzana y sal al gusto."
     },
     {
       "id": "calabaza_tomate",
       "nombre": "Calabaza con Tomate",
       "ingredientes": ["Calabaza 200g", "Tomate 100g", "Cebolla 50g", "Vino Blanco 50g", "Aceite De Oliva 10g"],
-      "preparacion": "Sofreir cebolla en aceite y vino. Anadir tomate y calabaza. Cubrir con agua y cocer 40 min."
+      "preparacion": "Pela la calabaza y cortala en cubos de 2 cm. Pica la cebolla y el tomate. En una cazuela con aceite a fuego medio, sofrie la cebolla 3-4 minutos hasta que este transparente. Añade el vino blanco y deja evaporar 2 minutos. Incorpora el tomate picado y cocina 3 minutos mas. Añade la calabaza, cubre con agua justo hasta el nivel de las verduras, tapa y cocina a fuego medio-bajo 35-40 minutos hasta que la calabaza este bien tierna."
     },
     {
       "id": "pizza_atun",
       "nombre": "Pizza con Atun",
       "ingredientes": ["Base De Pizza 80g", "Atun 40g", "Champinones 50g", "Queso 25g", "Tomate Frito 60g", "Aceite De Oliva 5g"],
-      "preparacion": "Extender tomate en la base. Anadir queso, atun, jamon y champinones. Hornear a 220 grados."
+      "preparacion": "Precalienta el horno a 220 grados con calor arriba y abajo. Lamina los champinones y salteados en una sarten con unas gotas de aceite 2-3 minutos. Extiende el tomate frito uniformemente sobre la base de pizza. Añade el queso rallado y distribuye encima el atun escurrido y los champinones salteados. Hornea en la parte baja del horno 10-12 minutos hasta que los bordes esten dorados y el queso bien fundido."
     },
     {
       "id": "salteado_calabacin_champinones",
       "nombre": "Salteado de Calabacin y Champinones",
       "ingredientes": ["Calabacin 100g", "Champinones 75g", "Berenjena 75g", "Pimiento 50g", "Ajo 3g", "Aceite De Oliva 10g"],
-      "preparacion": "Dorar ajos. Anadir resto de verduras troceadas y cocinar tapado a fuego medio 15 min."
+      "preparacion": "Corta todas las verduras en dados medianos del mismo tamano para que se cocinen de forma uniforme. Calienta el aceite en una sarten amplia a fuego medio-alto y dora los ajos laminados 1 minuto. Añade el pimiento y la berenjena, que necesitan mas tiempo, y cocina 4 minutos. Incorpora el calabacin y los champinones, remueve, tapa y cocina a fuego medio 10-12 minutos hasta que todas las verduras esten tiernas. Destapa los ultimos 3 minutos para evaporar el liquido."
     },
     {
       "id": "pollo_limon",
       "nombre": "Pollo al Limon",
       "ingredientes": ["Pechuga De Pollo 150g", "Cebolla 30g", "Zumo De Limon 30g", "Aceite De Oliva 10g"],
-      "preparacion": "Dorar pollo en aceite. Anadir cebolla y zumo de limon con ralladura. Cocinar 5 min a presion."
+      "preparacion": "Corta la pechuga en filetes o medallones y salpimenta. Calienta el aceite en una sarten a fuego medio-alto y dora el pollo por ambas caras hasta que este bien dorado, unos 3-4 minutos por lado. Retira y reserva. En la misma sarten, sofrie la cebolla picada 3 minutos hasta que ablande. Añade el zumo de limon y un poco de ralladura, vuelve a poner el pollo y cocina todo junto 4-5 minutos a fuego suave hasta que la salsa reduzca ligeramente."
     },
     {
       "id": "revuelto_verduras_gambas",
       "nombre": "Revuelto de Verduras con Gambas",
       "ingredientes": ["Gambas 50g", "Patata 75g", "Huevo 50g", "Judia Verde 50g", "Coliflor 75g", "Zanahoria 50g", "Aceite De Oliva 10g"],
-      "preparacion": "Hervir verduras y patata. Saltear con gambas en aceite y anadir el huevo hasta cuajar."
+      "preparacion": "Cuece la patata en dados, la judia verde troceada, la coliflor en ramilletes y la zanahoria en rodajas en agua con sal durante 12-15 minutos hasta que esten tiernas. Escurre bien. Calienta el aceite en una sarten y saltea las gambas 2 minutos hasta que esten rosadas. Añade las verduras cocidas y mezcla. Bate el huevo con sal, viertelo sobre las verduras y gambas y remueve suavemente a fuego bajo hasta que el huevo cuaje cremoso sin quedar seco."
     }
   ]
 }
