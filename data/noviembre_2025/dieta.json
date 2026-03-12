@@ -17,7 +17,7 @@
         { "alimento": "Plátano", "gramos": 120 }
       ],
       "comida": [
-        { "receta_id": "espaguetis_atun_h", "gramos": 550 },
+        { "receta_id": "espaguetis_atun", "gramos": 550 },
         { "alimento": "Mandarina", "gramos": 150 }
       ],
       "merienda": [
@@ -45,7 +45,7 @@
         { "alimento": "Galleta De Trigo Espelta Integral", "gramos": 30 }
       ],
       "comida": [
-        { "receta_id": "calabacines_juliana_wok", "gramos": 265 },
+        { "receta_id": "calabacines_juliana", "gramos": 265 },
         { "receta_id": "merluza_riojana", "gramos": 363 },
         { "alimento": "Arroz Blanco Cocinado", "gramos": 100 },
         { "alimento": "Fresa Y Fresón", "gramos": 150 }
@@ -55,7 +55,7 @@
         { "alimento": "Nueces Sin Piel", "gramos": 10 }
       ],
       "cena": [
-        { "receta_id": "bocadillo_atun_millo_h", "gramos": 185 },
+        { "receta_id": "bocadillo_atun_millo", "gramos": 185 },
         { "alimento": "Albaricoque", "gramos": 150 }
       ],
       "kcal": 1826.87
@@ -75,7 +75,7 @@
         { "alimento": "Galleta De Trigo Espelta Integral", "gramos": 30 }
       ],
       "comida": [
-        { "receta_id": "pollo_curry_nov", "gramos": 365 },
+        { "receta_id": "pollo_curry", "gramos": 365 },
         { "alimento": "Patata", "gramos": 200 },
         { "alimento": "Albaricoque", "gramos": 200 }
       ],
@@ -84,7 +84,7 @@
         { "alimento": "Nueces Sin Piel", "gramos": 10 }
       ],
       "cena": [
-        { "receta_id": "huevo_pisto_manchego_nov", "gramos": 247 },
+        { "receta_id": "huevo_pisto_manchego", "gramos": 247 },
         { "alimento": "Pan Integral", "gramos": 30 },
         { "alimento": "Papaya", "gramos": 200 }
       ],
@@ -133,7 +133,7 @@
         { "alimento": "Galleta De Trigo Espelta Integral", "gramos": 30 }
       ],
       "comida": [
-        { "receta_id": "arroz_meloso_nov", "gramos": 395 },
+        { "receta_id": "arroz_meloso_langostinos", "gramos": 395 },
         { "alimento": "Sandia", "gramos": 200 }
       ],
       "merienda": [
@@ -141,7 +141,7 @@
         { "alimento": "Nueces Sin Piel", "gramos": 10 }
       ],
       "cena": [
-        { "receta_id": "ensalada_tres_tiempos_nov", "gramos": 305 },
+        { "receta_id": "ensalada_tres_tiempos", "gramos": 305 },
         { "alimento": "Huevo De Gallina", "gramos": 50 },
         { "alimento": "Pan Integral", "gramos": 30 },
         { "alimento": "Albaricoque", "gramos": 150 }
@@ -163,7 +163,7 @@
         { "alimento": "Nueces Sin Piel", "gramos": 10 }
       ],
       "comida": [
-        { "receta_id": "calabaza_tomate_nov", "gramos": 412 },
+        { "receta_id": "calabaza_tomate", "gramos": 412 },
         { "alimento": "Salmón", "gramos": 150 },
         { "alimento": "Aceite De Oliva", "gramos": 10 },
         { "alimento": "Fresa Y Fresón", "gramos": 150 }
@@ -172,7 +172,7 @@
         { "alimento": "Albaricoque", "gramos": 150 }
       ],
       "cena": [
-        { "receta_id": "pizza_atun_nov", "gramos": 285 },
+        { "receta_id": "pizza_atun", "gramos": 285 },
         { "alimento": "Sandia", "gramos": 150 }
       ],
       "kcal": 1846.91
@@ -191,8 +191,8 @@
         { "alimento": "Nueces Sin Piel", "gramos": 10 }
       ],
       "comida": [
-        { "receta_id": "salteado_calabacin_champi_nov", "gramos": 313 },
-        { "receta_id": "pollo_limon_nov", "gramos": 221 },
+        { "receta_id": "salteado_calabacin_champinones", "gramos": 313 },
+        { "receta_id": "pollo_limon", "gramos": 221 },
         { "alimento": "Arroz Blanco Cocinado", "gramos": 150 },
         { "alimento": "Sandia", "gramos": 150 }
       ],
@@ -201,7 +201,7 @@
         { "alimento": "Yogur Desnatado", "gramos": 125 }
       ],
       "cena": [
-        { "receta_id": "revuelto_verduras_gambas_nov", "gramos": 360 },
+        { "receta_id": "revuelto_verduras_gambas", "gramos": 360 },
         { "alimento": "Pan Integral", "gramos": 30 },
         { "alimento": "Sandia", "gramos": 150 }
       ],
