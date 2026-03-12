@@ -11,10 +11,10 @@
         "90g Tomate Frito",
         "50g Pimiento",
         "3g Ajo",
-        "10g Aceite"
+        "10g Aceite De Oliva"
       ],
-      "preparacion": "Cocer macarrones. Rehogar cebolla, ajo, pimiento y carne. Anadir tomate y mezclar con la pasta. Servir caliente.",
-      "calorias": 720
+      "calorias": 743,
+      "preparacion": "1. Pon abundante agua con sal a hervir en una olla grande. Cuando rompa a hervir, añade los macarrones integrales y cocinalos segun instrucciones del paquete (unos 10-12 min), hasta que esten al dente. Escurre y reserva.\n2. Mientras cuece la pasta, pela y pica finamente la cebolla, el ajo y el pimiento en trozos pequeños.\n3. Calienta el aceite de oliva en una sarten amplia a fuego medio. Sofrie la cebolla y el ajo durante 3-4 minutos hasta que esten transparentes.\n4. Añade el pimiento y cocina 3 minutos mas.\n5. Incorpora la carne molida, sube el fuego a medio-alto y rehoga removiendo con una espatula hasta que la carne pierda el color rosado (5-6 min). Salpimenta al gusto.\n6. Añade el tomate frito, mezcla bien y deja cocer a fuego bajo 5 minutos para que se integren los sabores.\n7. Incorpora los macarrones escurridos a la sarten con la salsa de carne. Mezcla bien y calienta 1-2 minutos.\n8. Sirve inmediatamente, bien caliente."
     },
     {
       "id": "ensalada_de_manzana_y_queso",
@@ -24,25 +24,25 @@
         "150g Manzana Roja",
         "10g Nuez",
         "10g Zumo De Limon",
-        "10g Aceite",
+        "10g Aceite De Oliva",
         "50g Escarola",
         "50g Queso Tierno",
         "40g Tomate"
       ],
-      "preparacion": "Cortar manzana en tajadas con limon. Mezclar con escarola, tomates, nueces y queso. Alinar con aceite y limon.",
-      "calorias": 310
+      "calorias": 351,
+      "preparacion": "1. Lava bien la manzana roja y cortala en cuartos, retirando el corazon. Corta cada cuarto en laminas finas o gajos. Rocialas inmediatamente con el zumo de limon para evitar que se oxiden.\n2. Lava y seca la escarola, separando las hojas. Si son muy grandes, trocéalas con las manos.\n3. Corta el tomate en dados medianos o en rodajas.\n4. Corta el queso tierno en dados de aproximadamente 1 cm.\n5. Tuesta ligeramente las nueces en una sarten sin aceite durante 1-2 minutos a fuego suave para potenciar su sabor. Reserva.\n6. Coloca la escarola como base en la fuente. Dispone encima el tomate, la manzana con su limon y el queso en dados.\n7. Esparce las nueces tostadas por encima.\n8. Aliña con el aceite de oliva, un poco mas de zumo de limon y una pizca de sal. Sirve de inmediato."
     },
     {
       "id": "tortilla_francesa_con_jamon",
       "categoria": "huevos",
       "nombre": "Tortilla Francesa Con Jamon",
       "ingredientes": [
-        "50g Huevo",
-        "30g Jamon Cocido",
-        "10g Aceite"
+        "60g Huevo",
+        "40g Jamon Cocido",
+        "5g Aceite De Oliva"
       ],
-      "preparacion": "Batir huevo. En sarten con aceite, cuajar el huevo con el jamon picado. Hacer por ambos lados.",
-      "calorias": 185
+      "calorias": 178,
+      "preparacion": "1. Casca el huevo en un bol, añade una pizca de sal y batelo bien con un tenedor hasta que la clara y la yema esten completamente integradas.\n2. Pica el jamon cocido en trozos pequeños o en tiras finas e incorporalo al huevo batido. Mezcla.\n3. Calienta el aceite de oliva en una sarten antiadherente pequeña a fuego medio-alto. Cuando este caliente, vierte la mezcla de huevo y jamon.\n4. Con una espatula de silicona, ve moviendo suavemente los bordes hacia el centro mientras la tortilla cuaja en la base.\n5. Cuando este cuajada por debajo pero aun jugosa en el centro, dobla un lado sobre el otro formando una media luna.\n6. Deja cocinar 30 segundos mas y sirve inmediatamente."
     },
     {
       "id": "ensalada_variada",
@@ -54,12 +54,12 @@
         "30g Zanahoria",
         "30g Cebolla",
         "55g Esparrago",
-        "5g Aceite",
+        "5g Aceite De Oliva",
         "5g Vinagre",
         "35g Aceituna"
       ],
-      "preparacion": "Lavar y picar verduras. Mezclar en fuente, anadir aceitunas y alinar con aceite y vinagre.",
-      "calorias": 130
+      "calorias": 153,
+      "preparacion": "1. Lava bien todas las verduras bajo agua fria.\n2. Trocea la lechuga con las manos en trozos de bocado y coloca como base en una fuente amplia.\n3. Pela la zanahoria y rallala o cortala en rodajas finas. Pela la cebolla y cortala en aros finos o en juliana.\n4. Corta el tomate en gajos o cubos medianos.\n5. Si los esparragos son en conserva, escurrelos bien. Si son frescos, cocinalos al vapor 3-4 minutos y enfria.\n6. Coloca ordenadamente sobre la lechuga el tomate, la zanahoria, la cebolla, los esparragos y las aceitunas.\n7. Aliña con el aceite de oliva, el vinagre y sal al gusto justo antes de servir."
     },
     {
       "id": "pescado_al_horno",
@@ -70,12 +70,12 @@
         "150g Patata",
         "75g Cebolla",
         "30g Pimiento",
-        "10g Aceite",
+        "10g Aceite De Oliva",
         "75g Vino Blanco",
         "3g Ajo"
       ],
-      "preparacion": "Rehogar cebolla, ajo y pimiento. Poner pescado en fuente con vino y limon. Hornear 10 min, anadir verduras y cocinar 5 min mas. Acompanar con papas.",
-      "calorias": 380
+      "calorias": 418,
+      "preparacion": "1. Precalienta el horno a 200°C con calor arriba y abajo.\n2. Pela las patatas y cortalas en rodajas de 0,5 cm. Pela y corta la cebolla en aros finos. Corta el pimiento en tiras. Lamina el ajo.\n3. En una fuente de horno, coloca las rodajas de patata formando una cama. Reparte encima la cebolla, el pimiento y el ajo. Rocía con la mitad del aceite, sal y pimienta.\n4. Hornea las verduras 15 minutos para que comiencen a cocinarse.\n5. Saca la fuente, coloca el lomo de merluza salpimentado encima de las verduras. Vierte el vino blanco por los lados.\n6. Rocía el pescado con el aceite restante y hornea 12-15 minutos mas hasta que el pescado este opaco y se desprenda facilmente con un tenedor."
     },
     {
       "id": "bocadillo_de_caballa",
@@ -86,22 +86,22 @@
         "100g Caballa En Aceite",
         "30g Tomate",
         "20g Aceituna",
-        "5g Aceite"
+        "5g Aceite De Oliva"
       ],
-      "preparacion": "Abrir pan, poner aceite, tomate en rodajas, caballa escurrida y aceitunas. Cerrar.",
-      "calorias": 430
+      "calorias": 464,
+      "preparacion": "1. Abre el pan integral por la mitad a lo largo. Tuéstalo ligeramente si lo prefieres crujiente.\n2. Escurre bien la caballa en aceite con un colador para eliminar el exceso. Desmenuzala ligeramente.\n3. Corta el tomate en rodajas finas y sala ligeramente.\n4. Pinta la base del pan con el aceite de oliva.\n5. Coloca las rodajas de tomate sobre la base, distribuye la caballa desmenuzada encima de manera uniforme.\n6. Reparte las aceitunas (enteras o cortadas por la mitad).\n7. Cierra el bocadillo, presiona ligeramente y sirve en el momento."
     },
     {
       "id": "ensalada_de_tomate",
       "categoria": "ensaladas",
       "nombre": "Ensalada De Tomate",
       "ingredientes": [
-        "150g Tomate",
-        "10g Aceite",
-        "2g Ajo"
+        "150g Tomate Crudo",
+        "30g Cebolla",
+        "5g Aceite De Oliva"
       ],
-      "preparacion": "Cortar tomate en rodajas. Picar ajo muy fino y repartir. Alinar con aceite y sal.",
-      "calorias": 120
+      "calorias": 83,
+      "preparacion": "1. Lava los tomates y secalos. Cortalos en rodajas de unos 5-7 mm de grosor y disponlos en una fuente plana solapando ligeramente.\n2. Pela la cebolla y cortala en aros muy finos. Si te resulta muy fuerte, sumergela 5 minutos en agua fria para suavizarla y escurre bien.\n3. Coloca los aros de cebolla sobre las rodajas de tomate.\n4. Aliña con el aceite de oliva y una pizca de sal en escamas. Sirve a temperatura ambiente."
     },
     {
       "id": "pollo_al_horno_con_calabaza",
@@ -113,10 +113,10 @@
         "100g Calabaza",
         "50g Cebolla",
         "30g Vino Blanco",
-        "10g Aceite"
+        "10g Aceite De Oliva"
       ],
-      "preparacion": "Cortar calabaza, patata y cebolla. Hornear con vino y aceite 25 min a 180 grados. Anadir pollo y hornear hasta dorar.",
-      "calorias": 420
+      "calorias": 436,
+      "preparacion": "1. Precalienta el horno a 200°C.\n2. Pela la patata y cortala en cubos de 2 cm. Pela la calabaza, retira las pepitas y cortala en cubos similares. Pela la cebolla y cortala en gajos.\n3. Coloca las patatas, calabaza y cebolla en una fuente de horno. Rocía con la mitad del aceite, sal y pimienta. Mezcla para que todo quede bien impregnado.\n4. Hornea las verduras 20 minutos, dandoles una vuelta a los 10 minutos.\n5. Seca la pechuga de pollo con papel de cocina y salpimientala. Hazle unos cortes superficiales para que se cocine mejor.\n6. Coloca el pollo encima de las verduras semicocidas, vierte el vino blanco y rocía con el aceite restante.\n7. Sube a 210°C y hornea 20-25 minutos mas hasta que el pollo este dorado. Comprueba pinchando la parte mas gruesa: el jugo debe salir claro."
     },
     {
       "id": "ensalada_de_millo_y_manzana",
@@ -124,15 +124,13 @@
       "nombre": "Ensalada De Millo Y Manzana",
       "ingredientes": [
         "100g Manzana",
-        "20g Maiz",
-        "100g Tomate",
-        "75g Esparrago",
-        "40g Atun",
-        "10g Aceite",
-        "5g Mostaza"
+        "40g Maiz",
+        "100g Lechuga",
+        "10g Aceite De Oliva",
+        "5g Zumo De Limon"
       ],
-      "preparacion": "Mezclar manzana, tomate, maiz, esparragos y atun. Alinar con mezcla de aceite, vinagre y mostaza.",
-      "calorias": 230
+      "calorias": 211,
+      "preparacion": "1. Lava la lechuga, escurrela bien y trocéala con las manos. Coloca como base en la fuente.\n2. Lava la manzana, cortala en cuartos, retira el corazon y cortala en cubos o laminitas. Rocía con el zumo de limon para que no se oxide.\n3. Si el maiz es en conserva, escurrelo y enjuagalo bajo el grifo.\n4. Coloca sobre la lechuga la manzana y el maiz de manera uniforme.\n5. Aliña con el aceite de oliva, el zumo de limon restante y una pizca de sal. Mezcla suavemente y sirve fresco."
     },
     {
       "id": "revuelto_de_champinones_o_setas",
@@ -142,11 +140,11 @@
         "150g Champinones",
         "50g Huevo",
         "50g Jamon Cocido",
-        "10g Aceite",
+        "10g Aceite De Oliva",
         "10g Limon"
       ],
-      "preparacion": "Dorar champinones con limon en aceite. Anadir huevos batidos y jamon. Remover hasta cuajar.",
-      "calorias": 220
+      "calorias": 256,
+      "preparacion": "1. Limpia los champinones con un paño humedo (no los laves directamente para que no absorban agua). Cortalos en laminas de 3-4 mm.\n2. Pica el jamon cocido en trozos o tiras pequeñas.\n3. Calienta el aceite en una sarten a fuego medio-alto. Añade los champinones y saltéalos sin moverlos demasiado para que doren bien, 4-5 minutos. Sala y añade el zumo de limon.\n4. Incorpora el jamon y saltea 1 minuto mas.\n5. Bate el huevo con una pizca de sal. Baja el fuego a medio-bajo y vierte el huevo sobre los champinones.\n6. Remueve suavemente en movimientos circulares desde los bordes al centro, dejando que cuaje poco a poco pero quedando jugoso. Retira antes de que seque del todo.\n7. Sirve inmediatamente."
     },
     {
       "id": "salteado_danpel",
@@ -156,10 +154,10 @@
         "150g Zanahoria",
         "100g Cebolla",
         "100g Pimiento",
-        "15g Aceite"
+        "15g Aceite De Oliva"
       ],
-      "preparacion": "Cortar verduras en tiras. Saltear en sarten con aceite: primero cebolla y pimiento, luego zanahoria hasta que este al dente.",
-      "calorias": 175
+      "calorias": 266,
+      "preparacion": "1. Pela la zanahoria y cortala en bastones finos de 5 cm (juliana gruesa). Pela la cebolla y cortala en tiras anchas. Corta el pimiento en tiras similares.\n2. Calienta el aceite de oliva en una sarten grande o wok a fuego alto.\n3. Incorpora primero la cebolla y el pimiento. Saltea removiendo frecuentemente durante 3-4 minutos hasta que empiecen a ablandarse.\n4. Añade la zanahoria y baja a fuego medio-alto. Continua salteando 5-6 minutos hasta que las verduras esten al dente: tiernas pero con ligero crujiente.\n5. Sazona con sal y pimienta al gusto. Sirve caliente."
     },
     {
       "id": "pizza_reina",
@@ -171,10 +169,10 @@
         "25g Queso",
         "25g Jamon Cocido",
         "50g Champinones",
-        "5g Aceite"
+        "5g Aceite De Oliva"
       ],
-      "preparacion": "Montar pizza con ingredientes sobre la base. Hornear a 220 grados hasta fundir queso.",
-      "calorias": 390
+      "calorias": 420,
+      "preparacion": "1. Precalienta el horno a 220°C con calor arriba y abajo.\n2. Limpia los champinones y laminalos. Saltéalos 2 minutos en sarten con unas gotas de aceite para que pierdan el agua.\n3. Coloca la base de pizza sobre papel de horno en la bandeja.\n4. Extiende el tomate frito de manera uniforme por la base, dejando un centimetro libre en los bordes.\n5. Reparte el queso rallado o en lonchas finas sobre el tomate.\n6. Coloca el jamon cocido en trozos y los champinones salteados de forma uniforme.\n7. Hornea en la parte media-baja 10-12 minutos hasta que los bordes esten dorados y el queso fundido y burbujeante."
     },
     {
       "id": "ensalada_de_tomate_y_queso_tierno",
@@ -184,11 +182,11 @@
         "150g Tomate",
         "50g Queso Tierno",
         "10g Pinones",
-        "10g Aceite",
+        "10g Aceite De Oliva",
         "5g Vinagre"
       ],
-      "preparacion": "Rodajas de tomate con queso en dados y pinones. Alinar con aceite y vinagre.",
-      "calorias": 270
+      "calorias": 284,
+      "preparacion": "1. Lava los tomates y secalos. Cortalos en rodajas gruesas (7-8 mm) y disponlos en un plato plano.\n2. Corta el queso tierno en dados de 1-1,5 cm o en lonchas finas y coloca sobre el tomate.\n3. Tuesta los piñones en una sarten pequeña sin aceite a fuego medio durante 1-2 minutos, moviendolos constantemente. Reserva.\n4. Mezcla el aceite de oliva con el vinagre y una pizca de sal para el aliño.\n5. Vierte el aliño sobre el tomate y el queso. Esparce los piñones tostados por encima.\n6. Sirve a temperatura ambiente."
     },
     {
       "id": "arroz_con_pollo",
@@ -200,10 +198,10 @@
         "20g Pimiento",
         "20g Cebolla",
         "20g Zanahoria",
-        "10g Aceite"
+        "10g Aceite De Oliva"
       ],
-      "preparacion": "Cocer arroz. Saltear pollo con verduras picadas. Mezclar con el arroz y calentar.",
-      "calorias": 520
+      "calorias": 415,
+      "preparacion": "1. Pon el arroz integral a cocer en abundante agua con sal segun instrucciones (aprox. 35-40 min). Escurre y reserva.\n2. Corta el pollo en dados de 2 cm. Pica finamente la cebolla, el pimiento y la zanahoria.\n3. Calienta el aceite en una sarten a fuego medio-alto. Sella los dados de pollo 4-5 minutos hasta que esten dorados. Reserva.\n4. En la misma sarten, sofrie la cebolla 2 minutos, añade el pimiento y la zanahoria y cocina 3 minutos mas.\n5. Reincorpora el pollo, mezcla con las verduras y ajusta de sal y pimienta.\n6. Añade el arroz cocido y escurrido. Saltea todo junto a fuego vivo 2 minutos para integrar sabores."
     },
     {
       "id": "ensalada_de_lechuga_y_pollo",
@@ -213,12 +211,12 @@
         "60g Lechuga",
         "60g Pollo",
         "50g Queso Tierno",
-        "10g Aceite",
+        "10g Aceite De Oliva",
         "10g Mostaza",
         "5g Mayonesa Light"
       ],
-      "preparacion": "Pollo a la plancha en tiras. Mezclar con lechuga y queso. Alinar con salsa de mostaza y mayonesa.",
-      "calorias": 280
+      "calorias": 293,
+      "preparacion": "1. Salpimenta la pechuga de pollo y cocina a la plancha a fuego medio-alto 5-6 minutos por cada lado hasta que este bien cocinada. Deja reposar 2 minutos y cortala en tiras o dados.\n2. Lava y seca la lechuga, trocéala con las manos.\n3. Corta el queso tierno en dados o en lonchas.\n4. Prepara la salsa mezclando el aceite, la mostaza y la mayonesa light hasta obtener una mezcla homogenea.\n5. Coloca la lechuga de base, añade el pollo y el queso.\n6. Vierte la salsa justo antes de servir."
     },
     {
       "id": "revuelto_de_calabacin",
@@ -228,10 +226,10 @@
         "140g Calabacin",
         "50g Huevo",
         "40g Cebolla",
-        "10g Aceite"
+        "10g Aceite De Oliva"
       ],
-      "preparacion": "Pochar cebolla y calabacin en dados. Anadir huevo batido y remover hasta cuajar.",
-      "calorias": 175
+      "calorias": 200,
+      "preparacion": "1. Lava el calabacin y cortalo en dados pequeños de 1 cm. Pela la cebolla y picala finamente.\n2. Calienta el aceite en una sarten antiadherente a fuego medio. Sofrie la cebolla 3-4 minutos hasta que este transparente.\n3. Añade el calabacin, sube a fuego medio-alto y cocina removiendo 6-8 minutos hasta que este tierno y ligeramente dorado. Sala.\n4. Bate el huevo con una pizca de sal. Baja el fuego a medio-bajo y vierte el huevo sobre las verduras.\n5. Remueve con una espatula en movimientos lentos y envolventes hasta que el huevo cuaje cremoso y jugoso. No sobrecocines.\n6. Sirve inmediatamente."
     },
     {
       "id": "calabaza_con_tomate",
@@ -242,10 +240,10 @@
         "100g Tomate",
         "50g Cebolla",
         "50g Vino Blanco",
-        "10g Aceite"
+        "10g Aceite De Oliva"
       ],
-      "preparacion": "Rehogar cebolla en aceite con vino. Anadir tomate y calabaza en trozos. Cubrir con agua y cocer 40 min.",
-      "calorias": 155
+      "calorias": 211,
+      "preparacion": "1. Pela la calabaza, retira las pepitas y cortala en cubos de 3 cm. Pica la cebolla en brunoise. Trocea el tomate en dados medianos.\n2. Calienta el aceite en una cazuela a fuego medio. Sofrie la cebolla 4-5 minutos hasta que este transparente.\n3. Añade el vino blanco y deja evaporar el alcohol 2 minutos.\n4. Incorpora el tomate, mezcla y sofrie 3 minutos.\n5. Añade los cubos de calabaza y cubre con agua (unos 150 ml). Sal y pimienta.\n6. Tapa y cocina a fuego medio-bajo 35-40 minutos removiendo ocasionalmente hasta que la calabaza este muy tierna. Destapa los ultimos 10 minutos si queda demasiado caldo."
     },
     {
       "id": "bocadillo_de_jamon_serrano_con_queso_tierno",
@@ -255,10 +253,10 @@
         "80g Pan Integral",
         "50g Jamon Serrano",
         "50g Queso Tierno",
-        "5g Aceite"
+        "5g Aceite De Oliva"
       ],
-      "preparacion": "Abrir pan, poner aceite, jamon y queso. Servir.",
-      "calorias": 440
+      "calorias": 458,
+      "preparacion": "1. Abre el pan integral por la mitad. Si lo prefieres mas texturizado, tuóstalo brevemente en plancha o tostadora.\n2. Pinta la base con el aceite de oliva.\n3. Coloca las lonchas de queso tierno sobre la base del pan cubriendola bien.\n4. Dispone el jamon serrano en lonchas finas encima del queso.\n5. Cierra el bocadillo, presiona ligeramente y sirve."
     },
     {
       "id": "bowl_de_garbanzos_con_langostinos",
@@ -270,10 +268,10 @@
         "60g Champinones",
         "50g Tomate Cherry",
         "30g Lechuga",
-        "15g Aceite"
+        "15g Aceite De Oliva"
       ],
-      "preparacion": "Base de lechuga con garbanzos, champinones y tomates. Anadir langostinos salteados. Alinar con aceite, vinagre y limon.",
-      "calorias": 310
+      "calorias": 363,
+      "preparacion": "1. Si los garbanzos son en conserva, escurrelos y enjuagalos bien. Reserva.\n2. Limpia los champinones y laminalos. Calienta 5g de aceite en sarten a fuego alto y saltéalos 3-4 minutos hasta que doren. Sala y reserva.\n3. En la misma sarten con otros 5g de aceite, saltea los langostinos pelados 1-2 minutos por lado hasta que esten rosados. Reserva.\n4. Lava la lechuga y trocéala. Corta los tomates cherry por la mitad.\n5. Monta el bowl: lechuga de base, garbanzos, champinones y tomates cherry.\n6. Coloca los langostinos encima.\n7. Aliña con el aceite restante, un chorrito de vinagre, zumo de limon y sal."
     },
     {
       "id": "calabacines_en_juliana_al_wok",
@@ -285,10 +283,10 @@
         "30g Puerro",
         "20g Tomate Cherry",
         "10g Salsa Soja",
-        "5g Aceite"
+        "5g Aceite De Oliva"
       ],
-      "preparacion": "Saltear puerro y cebolla en wok. Anadir calabacin en juliana y tomates. Terminar con salsa de soja.",
-      "calorias": 130
+      "calorias": 109,
+      "preparacion": "1. Lava el calabacin y cortalo en juliana (bastones finos de 5-6 cm). Corta la cebolla en juliana fina. Limpia el puerro y cortalo en rodajas. Corta los tomates cherry por la mitad.\n2. Calienta el wok a fuego muy alto hasta que humee. Añade el aceite.\n3. Saltea el puerro y la cebolla 2 minutos removiendo constantemente.\n4. Añade el calabacin en juliana y saltea 3-4 minutos a fuego vivo para que coja color manteniendo el crujiente.\n5. Incorpora los tomates cherry y cocina 1 minuto mas.\n6. Vierte la salsa de soja, mezcla rapidamente y retira del fuego. Sirve de inmediato."
     },
     {
       "id": "pasta_griega_especias",
@@ -298,11 +296,11 @@
         "240g Macarrones Integrales",
         "50g Queso Feta",
         "150g Tomate Cherry",
-        "10g Aceite de Oliva",
+        "10g Aceite De Oliva",
         "2g Ajo"
       ],
-      "preparacion": "Hervir pasta. Hornear tomates, feta, aceite y ajo 30 min a 220 grados. Mezclar con la pasta hasta formar salsa.",
-      "calorias": 650
+      "calorias": 590,
+      "preparacion": "1. Precalienta el horno a 220°C.\n2. En una fuente de horno, coloca los tomates cherry enteros y el bloque de queso feta en el centro. Lamina el ajo y distribuyelo entre los tomates. Rocía con aceite de oliva, oregano seco y pimienta negra.\n3. Hornea 25-30 minutos hasta que los tomates esten muy tiernos y el feta blando y dorado.\n4. Mientras, cuece los macarrones integrales en agua con sal. Reserva 150 ml del agua de coccion antes de escurrir.\n5. Saca la fuente del horno. Aplasta los tomates y el feta con un tenedor y mezcla hasta formar una salsa cremosa. Añade agua de coccion si esta muy espesa.\n6. Incorpora los macarrones y mezcla bien. Sirve inmediatamente."
     },
     {
       "id": "ensalada_cesar_pollo_huevo",
@@ -315,10 +313,10 @@
         "20g Queso Parmesano",
         "50g Tomate",
         "20g Cebolla",
-        "10g Aceite de Oliva"
+        "10g Aceite De Oliva"
       ],
-      "preparacion": "Trocear lechuga y cebolla. Pollo a la plancha y huevo cocido. Mezclar todo y alinar con aceite y vinagre.",
-      "calorias": 260
+      "calorias": 341,
+      "preparacion": "1. Cuece el huevo en agua hirviendo 10 minutos. Enfria en agua con hielo, pela y reserva.\n2. Salpimenta el pollo y cocina a la plancha 5-6 minutos por cada lado. Deja reposar 2 minutos y cortalo en tiras.\n3. Lava la lechuga, sécala y trocéala. Corta el tomate en gajos. Corta la cebolla en aros finos.\n4. Ralla o lamina el parmesano.\n5. Mezcla el aceite de oliva con vinagre al gusto, sal y pimienta.\n6. Coloca la lechuga de base, añade tomate, cebolla, pollo en tiras y huevo cocido en cuartos.\n7. Esparce el parmesano y aliña justo antes de servir."
     },
     {
       "id": "judias_verdes_jamon",
@@ -329,10 +327,10 @@
         "30g Jamon Cocido",
         "2g Ajo",
         "20g Vino Blanco",
-        "5g Aceite de Oliva"
+        "5g Aceite De Oliva"
       ],
-      "preparacion": "Cocer judias 25 min. Sofreir jamon y ajo en aceite y vino. Anadir judias y cocinar 10 min mas.",
-      "calorias": 160
+      "calorias": 143,
+      "preparacion": "1. Lava las judias verdes, retira los extremos y posibles hilos. Cortalas en trozos de 5-6 cm.\n2. Cuecelas en agua hirviendo con sal 15-20 minutos hasta que esten tiernas pero al dente. Escurre y reserva.\n3. Pica finamente el ajo. Corta el jamon en tiras o dados pequeños.\n4. Calienta el aceite en una sarten a fuego medio. Sofrie el ajo 1 minuto sin que se queme.\n5. Añade el jamon y saltea 2 minutos hasta que coja color.\n6. Incorpora el vino blanco y deja evaporar 1 minuto.\n7. Añade las judias, mezcla y cocina 5 minutos mas a fuego medio-bajo. Ajusta de sal y sirve caliente."
     },
     {
       "id": "lenguado_encebollado",
@@ -343,10 +341,10 @@
         "50g Cebolla",
         "20g Harina",
         "30g Vino Blanco",
-        "10g Aceite de Oliva"
+        "10g Aceite De Oliva"
       ],
-      "preparacion": "Enharinar y freir pescado. Sofreir cebolla, anadir vino y agua. Juntar con el pescado y hervir 10 min.",
-      "calorias": 310
+      "calorias": 308,
+      "preparacion": "1. Seca el lenguado con papel de cocina, salpimenta y enharina ligeramente por ambas caras sacudiendo el exceso.\n2. Calienta la mitad del aceite en una sarten a fuego medio-alto. Frie el lenguado 3-4 minutos por cada lado hasta que este dorado. Retira y reserva.\n3. En la misma sarten con el aceite restante, sofrie la cebolla cortada en aros finos a fuego medio 8-10 minutos hasta que este muy blanda y dorada.\n4. Vierte el vino blanco y reduce 2 minutos.\n5. Añade 50 ml de agua, mezcla y coloca el lenguado encima de la cebolla.\n6. Tapa y cocina a fuego bajo 8-10 minutos dando la vuelta al pescado con cuidado a mitad de coccion."
     },
     {
       "id": "bocadillo_lomo",
@@ -358,10 +356,10 @@
         "20g Queso",
         "40g Tomate",
         "10g Lechuga",
-        "5g Aceite de Oliva"
+        "5g Aceite De Oliva"
       ],
-      "preparacion": "Cocinar lomo a la sarten. Rellenar el pan con lomo, queso, lechuga y tomate. Servir caliente.",
-      "calorias": 460
+      "calorias": 464,
+      "preparacion": "1. Corta el lomo en filetes de 1 cm de grosor y salpimientalos.\n2. Calienta una sarten o plancha a fuego alto. Cocina el lomo 3-4 minutos por lado hasta que este dorado. Deja reposar 1 minuto.\n3. Abre el pan y tuéstalo brevemente si lo prefieres crujiente.\n4. Coloca el queso en la base (el calor del lomo lo fundira ligeramente).\n5. Añade las hojas de lechuga y el tomate en rodajas finas.\n6. Coloca el lomo caliente encima y rocía con el aceite.\n7. Cierra y sirve en el momento."
     },
     {
       "id": "pollo_curry",
@@ -374,167 +372,8 @@
         "35g Cebolla",
         "5g Curry"
       ],
-      "preparacion": "Trocear pollo y verduras. Cocinar en cazuela con leche de coco y curry durante 30 min.",
-      "calorias": 340
-    },
-    {
-      "id": "huevo_pisto",
-      "categoria": "huevos",
-      "nombre": "Huevo con Pisto Manchego",
-      "ingredientes": [
-        "50g Huevo",
-        "60g Calabacin",
-        "60g Tomate",
-        "30g Pimiento",
-        "30g Cebolla",
-        "15g Aceite de Oliva"
-      ],
-      "preparacion": "Picar y rehogar verduras en aceite hasta pochar. Freir el huevo aparte y servir sobre el pisto.",
-      "calorias": 220
-    },
-    {
-      "id": "pizza_atun",
-      "categoria": "pizzas",
-      "nombre": "Pizza con Atun",
-      "ingredientes": [
-        "80g Base de Pizza",
-        "40g Atun",
-        "50g Champinones",
-        "25g Queso",
-        "60g Tomate Frito",
-        "5g Aceite de Oliva"
-      ],
-      "preparacion": "Extender tomate en la base. Anadir queso, atun escurrido y champinones. Hornear a 220 grados.",
-      "calorias": 380
-    },
-    {
-      "id": "arroz_langostinos",
-      "categoria": "arroces",
-      "nombre": "Arroz Meloso con Langostinos",
-      "ingredientes": [
-        "180g Arroz Integral",
-        "80g Langostinos",
-        "60g Champinones",
-        "50g Vino Blanco",
-        "10g Aceite de Oliva"
-      ],
-      "preparacion": "Cocer langostinos y reservar caldo. Dorar champinones, anadir langostinos, arroz y el caldo. Cocinar hasta que este meloso.",
-      "calorias": 490
-    },
-    {
-      "id": "bocadillo_atun",
-      "categoria": "bocadillos",
-      "nombre": "Bocadillo de Atun",
-      "ingredientes": [
-        "80g Pan Integral",
-        "40g Atun",
-        "40g Tomate",
-        "20g Aceitunas",
-        "20g Lechuga",
-        "5g Aceite de Oliva"
-      ],
-      "preparacion": "Escurrir atun. Rellenar el pan con atun, tomate, lechuga y aceitunas. Anadir aceite.",
-      "calorias": 340
-    },
-    {
-      "id": "salteado_calabacin",
-      "categoria": "verduras",
-      "nombre": "Salteado de Calabacin",
-      "ingredientes": [
-        "100g Calabacin",
-        "75g Champinones",
-        "75g Berenjena",
-        "50g Pimiento",
-        "10g Aceite de Oliva"
-      ],
-      "preparacion": "Sofreir ajo. Anadir verduras troceadas y cocinar tapado a fuego medio 15 min.",
-      "calorias": 150
-    },
-    {
-      "id": "pollo_limon",
-      "categoria": "pollo",
-      "nombre": "Pollo al Limon",
-      "ingredientes": [
-        "150g Pechuga de Pollo",
-        "30g Cebolla",
-        "30g Zumo de Limon",
-        "10g Aceite de Oliva"
-      ],
-      "preparacion": "Dorar el pollo. Anadir cebolla picada y zumo de limon. Cocinar 5 min mas.",
-      "calorias": 255
-    },
-    {
-      "id": "revuelto_verduras_gambas",
-      "categoria": "verduras",
-      "nombre": "Revuelto de Verduras con Gambas",
-      "ingredientes": [
-        "50g Huevo",
-        "50g Gambas",
-        "50g Zanahoria",
-        "150g Judia Verde",
-        "75g Patata",
-        "10g Aceite De Oliva"
-      ],
-      "preparacion": "Hervir verduras y patata. Saltear con las gambas y anadir el huevo batido hasta que cuaje.",
-      "calorias": 270
-    },
-    {
-      "id": "espaguetis_atun",
-      "categoria": "pastas",
-      "nombre": "Espaguetis con Atun",
-      "ingredientes": [
-        "240g Espagueti Integral",
-        "80g Atun En Aceite",
-        "120g Tomate Frito",
-        "50g Cebolla",
-        "50g Pimiento",
-        "10g Aceite De Oliva"
-      ],
-      "preparacion": "Cocer espaguetis 8-10 min. Sofreir cebolla y pimiento en aceite. Anadir atun y tomate frito. Mezclar con la pasta.",
-      "calorias": 680
-    },
-    {
-      "id": "ensalada_atun_aguacate",
-      "categoria": "ensaladas",
-      "nombre": "Ensalada de Atun y Aguacate",
-      "ingredientes": [
-        "75g Escarola",
-        "75g Aguacate",
-        "40g Atun En Aceite",
-        "75g Tomate Crudo",
-        "5g Aceite De Oliva",
-        "5g Zumo De Limon"
-      ],
-      "preparacion": "Lavar escarola y trocear tomate y aguacate. Anadir atun. Alinar con emulsion de aceite y limon.",
-      "calorias": 250
-    },
-    {
-      "id": "merluza_riojana",
-      "categoria": "pescados",
-      "nombre": "Merluza a la Riojana",
-      "ingredientes": [
-        "150g Merluza",
-        "70g Pimiento",
-        "60g Tomate Frito",
-        "70g Cebolla",
-        "3g Ajo",
-        "10g Aceite De Oliva"
-      ],
-      "preparacion": "Sofreir ajo y cebolla. Anadir pimiento y tomate hasta espesar. Incorporar merluza y cocer 3 min.",
-      "calorias": 270
-    },
-    {
-      "id": "bocadillo_atun_millo",
-      "categoria": "bocadillos",
-      "nombre": "Bocadillo de Atun y Millo",
-      "ingredientes": [
-        "60g Atun En Aceite",
-        "30g Maiz",
-        "15g Mayonesa Light",
-        "80g Pan Integral"
-      ],
-      "preparacion": "Escurrir atun. Rellenar el pan con el atun, la mayonesa y el millo (maiz).",
-      "calorias": 370
+      "calorias": 404,
+      "preparacion": "1. Corta el pollo en dados de 2-3 cm. Pela la zanahoria y cortala en rodajas. Pica la cebolla en brunoise fina.\n2. Calienta una cazuela a fuego medio. Sofrie la cebolla 3-4 minutos hasta que este transparente.\n3. Añade el curry y tuéstalo 1 minuto removiendo para que se integre con la cebolla.\n4. Incorpora los dados de pollo y sella 3-4 minutos por todos lados.\n5. Añade la zanahoria y mezcla.\n6. Vierte la leche de coco, lleva a ebullicion suave. Tapa y cocina a fuego bajo 25-30 minutos hasta que el pollo y la zanahoria esten tiernos.\n7. Ajusta de sal y sirve acompañado de arroz integral."
     },
     {
       "id": "huevo_pisto_manchego",
@@ -549,8 +388,184 @@
         "60g Tomate Crudo",
         "15g Aceite De Oliva"
       ],
-      "preparacion": "Picar y rehogar verduras en aceite hasta pochar. Freir el huevo y servirlo sobre el pisto.",
-      "calorias": 230
+      "calorias": 250,
+      "preparacion": "1. Pica finamente el ajo y la cebolla. Corta el pimiento, el calabacin y el tomate en dados de 1 cm.\n2. Calienta 10g de aceite en una sarten a fuego medio. Sofrie el ajo y la cebolla 3-4 minutos.\n3. Añade el pimiento y cocina 3 minutos mas.\n4. Incorpora el calabacin y sofrie 4 minutos removiendo.\n5. Añade el tomate, sala y baja el fuego. Cocina tapado 10-12 minutos hasta que todas las verduras esten bien pochadas. Este es el pisto.\n6. En una sarten aparte con el aceite restante, frie el huevo a fuego medio hasta que la clara cuaje.\n7. Sirve el pisto en plato hondo con el huevo frito encima."
+    },
+    {
+      "id": "pizza_atun",
+      "categoria": "pizzas",
+      "nombre": "Pizza con Atun",
+      "ingredientes": [
+        "80g Base De Pizza",
+        "40g Atun",
+        "50g Champinones",
+        "25g Queso",
+        "60g Tomate Frito",
+        "5g Aceite De Oliva"
+      ],
+      "calorias": 442,
+      "preparacion": "1. Precalienta el horno a 220°C.\n2. Lamina los champinones y saltéalos en sarten con unas gotas de aceite 2-3 minutos para eliminar la humedad.\n3. Escurre bien el atun con un colador.\n4. Coloca la base de pizza sobre papel de horno en la bandeja.\n5. Extiende el tomate frito uniformemente dejando el borde libre.\n6. Distribuye el queso, luego el atun desmigado y los champinones laminados.\n7. Hornea en la parte media-baja 10-12 minutos hasta que los bordes esten crujientes y el queso fundido."
+    },
+    {
+      "id": "arroz_meloso_langostinos",
+      "categoria": "arroces",
+      "nombre": "Arroz Meloso con Langostinos",
+      "ingredientes": [
+        "180g Arroz Integral",
+        "80g Langostinos",
+        "60g Champinones",
+        "50g Vino Blanco",
+        "10g Ajo",
+        "10g Aceite De Oliva"
+      ],
+      "calorias": 449,
+      "preparacion": "1. Cuece los langostinos en agua con sal 2 minutos. Reserva el caldo colado (unos 500 ml). Pela los langostinos y reserva.\n2. Lamina los champinones y el ajo.\n3. Calienta el aceite en una cazuela amplia. Sofrie el ajo 1 minuto y añade los champinones. Saltea 4-5 minutos hasta dorar.\n4. Añade el arroz integral y nacaralo 2 minutos removiendo.\n5. Vierte el vino blanco y deja evaporar 2 minutos.\n6. Añade el caldo caliente poco a poco (como un risotto): un cazo, remueve, cuando se absorba añade otro. Repite 35-40 minutos.\n7. Cuando el arroz este meloso y cremoso, incorpora los langostinos y cocina 2 minutos mas. Sirve inmediatamente."
+    },
+    {
+      "id": "ensalada_tres_tiempos",
+      "categoria": "ensaladas",
+      "nombre": "Ensalada Tres Tiempos",
+      "ingredientes": [
+        "75g Manzana Roja",
+        "50g Zanahoria",
+        "40g Atun En Aceite",
+        "50g Lechuga",
+        "75g Queso Tierno",
+        "10g Aceite De Oliva"
+      ],
+      "calorias": 385,
+      "preparacion": "1. Lava la lechuga y trocéala. Pela la zanahoria y rallala o cortala en bastones finos. Corta la manzana en gajos finos y rocía con limon.\n2. Corta el queso tierno en dados de 1 cm. Escurre el atun y desmenuzalo.\n3. Monta la ensalada en tres sectores sobre la lechuga: zanahoria en un sector, manzana en otro, queso en el tercero (de ahi 'tres tiempos').\n4. Distribuye el atun sobre el conjunto.\n5. Aliña con aceite, vinagre y sal al gusto. Sirve fria o a temperatura ambiente."
+    },
+    {
+      "id": "bocadillo_atun",
+      "categoria": "bocadillos",
+      "nombre": "Bocadillo de Atun",
+      "ingredientes": [
+        "80g Pan Integral",
+        "40g Atun",
+        "40g Tomate",
+        "20g Aceitunas",
+        "20g Lechuga",
+        "5g Aceite De Oliva"
+      ],
+      "calorias": 321,
+      "preparacion": "1. Escurre el atun con un colador, apretando para eliminar bien el aceite. Desmenuzalo con un tenedor.\n2. Corta el tomate en rodajas finas y sala un poco. Lava y seca las hojas de lechuga.\n3. Abre el pan integral y rocía la base con el aceite de oliva.\n4. Coloca las hojas de lechuga, luego el tomate en rodajas.\n5. Distribuye el atun desmigado de manera uniforme y reparte las aceitunas por encima.\n6. Cierra el bocadillo y sirve inmediatamente."
+    },
+    {
+      "id": "salteado_calabacin",
+      "categoria": "verduras",
+      "nombre": "Salteado de Calabacin y Champinones",
+      "ingredientes": [
+        "100g Calabacin",
+        "75g Champinones",
+        "75g Berenjena",
+        "50g Pimiento",
+        "3g Ajo",
+        "10g Aceite De Oliva"
+      ],
+      "calorias": 158,
+      "preparacion": "1. Corta el calabacin en medias lunas de 1 cm. Lamina los champinones. Corta la berenjena en dados de 2 cm. Corta el pimiento en tiras. Lamina el ajo.\n2. Calienta el aceite en sarten a fuego medio-alto. Sofrie el ajo 30 segundos.\n3. Incorpora el pimiento y la berenjena. Saltea 4-5 minutos removiendo.\n4. Añade los champinones y cocina 3 minutos.\n5. Incorpora el calabacin. Tapa, baja a fuego medio y cocina 6-8 minutos removiendo ocasionalmente.\n6. Destapa, sube el fuego 1 minuto para evaporar el liquido. Sazona con sal y pimienta."
+    },
+    {
+      "id": "pollo_limon",
+      "categoria": "pollo",
+      "nombre": "Pollo al Limon",
+      "ingredientes": [
+        "150g Pechuga De Pollo",
+        "30g Cebolla",
+        "30g Zumo De Limon",
+        "10g Aceite De Oliva"
+      ],
+      "calorias": 273,
+      "preparacion": "1. Seca la pechuga y salpimientala. Hazle cortes superficiales en diagonal para que el limon penetre mejor.\n2. Pela y corta la cebolla en juliana fina.\n3. Calienta el aceite en una sarten a fuego medio-alto. Dora la pechuga 5-6 minutos por cada lado. Retira y reserva tapada.\n4. En la misma sarten, sofrie la cebolla a fuego medio 3-4 minutos hasta que este tierna.\n5. Vierte el zumo de limon sobre la cebolla y reduce 1-2 minutos hasta obtener una salsita.\n6. Vuelve a colocar la pechuga, napala con la salsa y cocina 2 minutos mas. Sirve con la salsa por encima."
+    },
+    {
+      "id": "revuelto_verduras_gambas",
+      "categoria": "verduras",
+      "nombre": "Revuelto de Verduras con Gambas",
+      "ingredientes": [
+        "50g Huevo",
+        "50g Gambas",
+        "50g Zanahoria",
+        "75g Judia Verde",
+        "75g Patata",
+        "10g Aceite De Oliva"
+      ],
+      "calorias": 305,
+      "preparacion": "1. Pela la patata y cortala en dados de 1,5 cm. Pela la zanahoria y cortala en rodajas. Limpia las judias y cortalas en trozos.\n2. Cuece en agua hirviendo con sal: patatas 8 minutos, luego añade zanahoria y judias 8 minutos mas. Escurre bien.\n3. Calienta el aceite en sarten a fuego medio-alto. Saltea las gambas 1-2 minutos por lado hasta que esten rosadas. Retira y reserva.\n4. En la misma sarten, añade las verduras cocidas y saltea 2-3 minutos a fuego vivo para que cojan color.\n5. Reincorpora las gambas. Bate el huevo con sal y viertelo. Remueve con espatula hasta que el huevo cuaje cremoso. Sirve de inmediato."
+    },
+    {
+      "id": "bocadillo_aguacate_tomate_huevo",
+      "categoria": "bocadillos",
+      "nombre": "Bocadillo De Aguacate Tomate y Huevo",
+      "ingredientes": [
+        "80g Pan Integral",
+        "70g Queso Tierno",
+        "60g Tomate",
+        "60g Aguacate",
+        "50g Huevo",
+        "10g Aceite De Oliva"
+      ],
+      "calorias": 591,
+      "preparacion": "1. Calienta una sarten con unas gotas de aceite a fuego medio. Casca el huevo, salpimenta y cocina a la plancha 2-3 minutos hasta que la clara este cuajada. Reserva.\n2. Corta el aguacate en laminas finas y rocía con limon.\n3. Corta el tomate en rodajas finas y sala ligeramente.\n4. Corta el queso tierno en lonchas.\n5. Abre el pan integral y tuéstalo si lo prefieres crujiente. Rocía con el aceite.\n6. Coloca el queso en la base, luego las rodajas de tomate y el aguacate laminado.\n7. Pon el huevo a la plancha encima del aguacate. Cierra y sirve inmediatamente."
+    },
+    {
+      "id": "espaguetis_atun",
+      "categoria": "pastas",
+      "nombre": "Espaguetis con Atun",
+      "ingredientes": [
+        "240g Espagueti Integral",
+        "80g Atun En Aceite",
+        "120g Tomate Frito",
+        "50g Cebolla",
+        "50g Pimiento",
+        "10g Aceite De Oliva"
+      ],
+      "calorias": 715,
+      "preparacion": "1. Cuece los espaguetis integrales en agua abundante con sal segun instrucciones (8-10 min). Escurre reservando un poco del agua de coccion.\n2. Pica la cebolla y el pimiento en dados. Escurre el atun y desmenuzalo.\n3. Calienta el aceite en sarten. Sofrie la cebolla 4 minutos, añade el pimiento y sofrie 3 minutos mas.\n4. Incorpora el atun desmigado y mezcla 1 minuto.\n5. Añade el tomate frito y cocina a fuego suave 5 minutos.\n6. Incorpora los espaguetis, mezcla bien y añade agua de coccion si la salsa esta muy espesa.\n7. Sirve inmediatamente."
+    },
+    {
+      "id": "ensalada_atun_aguacate",
+      "categoria": "ensaladas",
+      "nombre": "Ensalada de Atun y Aguacate",
+      "ingredientes": [
+        "75g Escarola",
+        "75g Aguacate",
+        "40g Atun En Aceite",
+        "75g Tomate Crudo",
+        "5g Aceite De Oliva",
+        "5g Zumo De Limon"
+      ],
+      "calorias": 273,
+      "preparacion": "1. Lava la escarola y sécala, trocéala en trozos de bocado.\n2. Corta el tomate en dados. Corta el aguacate en cubos o laminas y rocía con limon para evitar oxidacion.\n3. Escurre el atun y desmenuzalo.\n4. Mezcla el aceite con el zumo de limon restante y una pizca de sal formando una emulsion.\n5. Coloca la escarola de base, añade tomate, aguacate y atun.\n6. Vierte la emulsion justo antes de servir."
+    },
+    {
+      "id": "merluza_riojana",
+      "categoria": "pescados",
+      "nombre": "Merluza a la Riojana",
+      "ingredientes": [
+        "150g Merluza",
+        "70g Pimiento",
+        "60g Tomate Frito",
+        "70g Cebolla",
+        "3g Ajo",
+        "10g Aceite De Oliva"
+      ],
+      "calorias": 309,
+      "preparacion": "1. Pica el ajo y la cebolla finamente. Corta el pimiento en tiras. Salpimenta el lomo de merluza y reserva.\n2. Calienta el aceite en sarten a fuego medio. Sofrie el ajo 30 segundos, añade la cebolla 4-5 minutos.\n3. Incorpora las tiras de pimiento y cocina 5 minutos.\n4. Añade el tomate frito y cocina a fuego bajo 5 minutos hasta que la salsa espese.\n5. Coloca la merluza sobre la salsa con la piel hacia abajo. Tapa y cocina a fuego bajo 4-5 minutos sin mover el pescado hasta que este opaco y se separe en lascas.\n6. Sirve el pescado napado con la salsa."
+    },
+    {
+      "id": "bocadillo_atun_millo",
+      "categoria": "bocadillos",
+      "nombre": "Bocadillo de Atun y Millo",
+      "ingredientes": [
+        "60g Atun En Aceite",
+        "30g Maiz",
+        "15g Mayonesa Light",
+        "80g Pan Integral"
+      ],
+      "calorias": 390,
+      "preparacion": "1. Escurre el atun con un colador, apretando para eliminar bien el liquido.\n2. Si el maiz es en conserva, escurrelo y enjuagalo.\n3. Mezcla en un bol el atun desmigado, el maiz y la mayonesa light hasta obtener una mezcla homogenea.\n4. Abre el pan y tuéstalo ligeramente si lo prefieres.\n5. Rellena generosamente con la mezcla. Cierra y sirve."
     },
     {
       "id": "albondigas_guisantes",
@@ -566,37 +581,8 @@
         "30g Vino Blanco",
         "10g Aceite De Oliva"
       ],
-      "preparacion": "Formar albondigas con carne, huevo y harina. Freir y luego guisar con verduras y vino 8 min a presion.",
-      "calorias": 380
-    },
-    {
-      "id": "ensalada_manzana_queso",
-      "categoria": "ensaladas",
-      "nombre": "Ensalada de Manzana y Queso",
-      "ingredientes": [
-        "150g Manzana Roja",
-        "50g Queso Tierno",
-        "50g Escarola",
-        "10g Nueces",
-        "40g Tomate",
-        "10g Aceite De Oliva"
-      ],
-      "preparacion": "Trocear manzana y mojar en limon. Mezclar con escarola, tomate, nueces y queso. Alinar con aceite.",
-      "calorias": 300
-    },
-    {
-      "id": "ensalada_millo_manzana",
-      "categoria": "ensaladas",
-      "nombre": "Ensalada Millo Manzana",
-      "ingredientes": [
-        "40g Maiz",
-        "100g Manzana Roja",
-        "100g Lechuga",
-        "10g Aceite De Oliva",
-        "5g Zumo De Limon"
-      ],
-      "preparacion": "Mezclar la lechuga con la manzana troceada y el millo. Alinar con aceite y limon.",
-      "calorias": 190
+      "calorias": 449,
+      "preparacion": "1. Mezcla la carne molida con el huevo batido, sal y pimienta. Amasa con las manos.\n2. Con las manos humedecidas, forma bolitas de 3 cm de diametro. Pasalas por harina sacudiendo el exceso.\n3. Calienta el aceite en sarten a fuego medio-alto. Frie las albondigas girándolas para dorarlas uniformemente (4-5 min). Retira y reserva.\n4. En la misma sarten, sofrie el pimiento y el tomate picados 3-4 minutos.\n5. Vierte el vino blanco y deja evaporar 1 minuto.\n6. Reincorpora las albondigas, añade los guisantes y 100 ml de agua. Tapa y cocina a fuego bajo 15 minutos (o 8 min en olla a presion). Sirve caliente."
     },
     {
       "id": "judias_verdes_rehogadas",
@@ -609,35 +595,22 @@
         "10g Aceite De Oliva",
         "2g Pimenton Dulce"
       ],
-      "preparacion": "Cocer las judias. En una sarten con aceite, dorar ajos y cebolla. Anadir el pimenton y las judias escurridas.",
-      "calorias": 140
-    },
-    {
-      "id": "arroz_meloso",
-      "categoria": "arroces",
-      "nombre": "Arroz Meloso con Langostinos",
-      "ingredientes": [
-        "180g Arroz Integral",
-        "60g Champinones",
-        "80g Langostinos",
-        "50g Vino Blanco",
-        "10g Aceite De Oliva"
-      ],
-      "preparacion": "Sofreir ajo y champinones. Anadir arroz y vino. Ir anadiendo caldo removiendo hasta que este meloso.",
-      "calorias": 490
+      "calorias": 168,
+      "preparacion": "1. Lava las judias, retira extremos e hilos. Corta en trozos de 5-6 cm.\n2. Cuece en agua hirviendo con sal 15-18 minutos hasta que esten tiernas. Escurre y reserva.\n3. Lamina el ajo. Pica la cebolla en brunoise.\n4. Calienta el aceite a fuego medio. Sofrie la cebolla 4-5 minutos hasta dorar, añade el ajo 1 minuto.\n5. Retira del fuego, añade el pimenton dulce y remueve rapidamente (el pimenton amarga si se quema).\n6. Incorpora las judias, vuelve al fuego medio y rehoga 3-4 minutos para que se impregnen del sofrito. Ajusta de sal."
     },
     {
       "id": "merluza_plancha",
       "categoria": "pescados",
-      "nombre": "Merluza Plancha",
+      "nombre": "Merluza A La Plancha Con Limon",
       "ingredientes": [
         "150g Merluza",
-        "10g Aceite De Oliva",
+        "10g Limon",
+        "5g Aceite De Oliva",
         "5g Ajo",
         "2g Perejil"
       ],
-      "preparacion": "Hacer un majado con ajo, perejil y aceite. Pintar el pescado y cocinar a la plancha.",
-      "calorias": 210
+      "calorias": 175,
+      "preparacion": "1. Pica muy finamente el ajo y el perejil fresco. Mezclala con el aceite y una pizca de sal formando un majado.\n2. Seca el lomo de merluza con papel de cocina y salpimenta ligeramente.\n3. Pinta el pescado por ambas caras con el majado.\n4. Calienta una plancha o sarten antiadherente a fuego alto hasta que este muy caliente.\n5. Cocina el pescado 3-4 minutos sin mover hasta que se forme costra dorada. Da la vuelta con cuidado y cocina 2-3 minutos mas hasta que este opaco y se separe en lascas.\n6. Sirve inmediatamente con el zumo de limon recien exprimido."
     },
     {
       "id": "pollo_ajillo",
@@ -649,8 +622,8 @@
         "10g Aceite De Oliva",
         "20g Vino Blanco"
       ],
-      "preparacion": "Trocear el pollo. Dorar ajos, sellar el pollo y cocinar con el vino blanco.",
-      "calorias": 245
+      "calorias": 279,
+      "preparacion": "1. Corta la pechuga en dados de 3 cm y salpimientalos. Lamina el ajo finamente.\n2. Calienta el aceite en sarten a fuego medio. Sofrie el ajo 1-2 minutos hasta que este dorado. Retiralo si se dora demasiado.\n3. Sube a fuego medio-alto e incorpora el pollo. Sella por todos lados 5-6 minutos hasta dorar bien.\n4. Vierte el vino blanco y sube el fuego. Deja evaporar el alcohol 1-2 minutos mientras el pollo se glasea.\n5. Baja a fuego medio-bajo, tapa y cocina 5 minutos mas. Sirve caliente con los ajos por encima."
     },
     {
       "id": "pizza_navidad",
@@ -663,8 +636,8 @@
         "40g Atun",
         "50g Champinones"
       ],
-      "preparacion": "Montar la pizza con los ingredientes y hornear a 220 grados hasta que este dorada.",
-      "calorias": 370
+      "calorias": 398,
+      "preparacion": "1. Precalienta el horno a 220°C.\n2. Lamina los champinones y saltéalos en sarten sin aceite 2-3 minutos. Escurre el atun y desmenuzalo.\n3. Coloca la base de pizza sobre papel de horno.\n4. Extiende el tomate frito uniformemente dejando el borde libre.\n5. Distribuye el queso, luego el atun y los champinones.\n6. Hornea 10-12 minutos hasta que los bordes esten dorados y el queso fundido."
     },
     {
       "id": "ensalada_tomate_jamon",
@@ -676,8 +649,8 @@
         "10g Aceite De Oliva",
         "2g Ajo"
       ],
-      "preparacion": "Tomate en rodajas con ajo picado. Poner el jamon encima y alinar con aceite.",
-      "calorias": 220
+      "calorias": 274,
+      "preparacion": "1. Lava y seca los tomates. Cortalos en rodajas de 7-8 mm y disponlos en plato plano.\n2. Pica el ajo muy finamente y distribuyelo sobre las rodajas de tomate.\n3. Coloca las lonchas de jamon serrano encima del tomate.\n4. Aliña con el aceite de oliva virgen extra y sal en escamas con moderacion (el jamon ya aporta sal).\n5. Sirve a temperatura ambiente."
     },
     {
       "id": "ensalada_aguacate",
@@ -689,8 +662,8 @@
         "50g Tomate Crudo",
         "30g Cebolla"
       ],
-      "preparacion": "Trocear lechuga, tomate y aguacate. Mezclar con la cebolla y alinar.",
-      "calorias": 175
+      "calorias": 156,
+      "preparacion": "1. Lava la lechuga y sécala. Trocéala en piezas de bocado y coloca de base en un bol.\n2. Corta el tomate en dados o gajos. Corta la cebolla en aros finos o brunoise.\n3. Corta el aguacate, retira el hueso y saca la pulpa en dados o laminas. Rocía con limon.\n4. Coloca sobre la lechuga el tomate, la cebolla y el aguacate.\n5. Aliña con aceite de oliva, limon o vinagre y sal justo antes de servir."
     },
     {
       "id": "pasta_natali",
@@ -702,8 +675,8 @@
         "60g Tomate Frito",
         "20g Aceitunas Verdes"
       ],
-      "preparacion": "Hervir pasta. Calentar atun, aceitunas y tomate. Mezclar con la pasta.",
-      "calorias": 620
+      "calorias": 574,
+      "preparacion": "1. Cuece los espaguetis integrales en agua con sal segun instrucciones. Reserva medio vaso del agua de coccion antes de escurrir.\n2. Escurre el atun y desmenuzalo. Corta las aceitunas en rodajas.\n3. En una sarten a fuego medio, calienta el tomate frito 2-3 minutos. Añade el atun y las aceitunas, mezcla y calienta 2 minutos.\n4. Incorpora los espaguetis, mezcla con la salsa a fuego medio-bajo 1-2 minutos (añade agua de coccion si es necesario).\n5. Sirve inmediatamente."
     },
     {
       "id": "solomillo_ternera",
@@ -711,36 +684,10 @@
       "nombre": "Solomillo Ternera",
       "ingredientes": [
         "150g Solomillo de Ternera",
-        "5g Aceite De Oliva",
-        "Sal"
-      ],
-      "preparacion": "Cocinar a la plancha al punto deseado. Salar al final.",
-      "calorias": 255
-    },
-    {
-      "id": "ensalada_tomate",
-      "categoria": "ensaladas",
-      "nombre": "Ensalada de Tomate",
-      "ingredientes": [
-        "150g Tomate Crudo",
-        "30g Cebolla",
         "5g Aceite De Oliva"
       ],
-      "preparacion": "Cortar el tomate y la cebolla. Alinar con el aceite.",
-      "calorias": 100
-    },
-    {
-      "id": "bocadillo_aguacate",
-      "categoria": "bocadillos",
-      "nombre": "Bocadillo Aguacate",
-      "ingredientes": [
-        "80g Pan Integral",
-        "60g Aguacate",
-        "40g Tomate Crudo",
-        "50g Huevo Cocido"
-      ],
-      "preparacion": "Huevo cocido con aguacate y tomate en pan integral.",
-      "calorias": 380
+      "calorias": 284,
+      "preparacion": "1. Saca el solomillo de la nevera 20-30 minutos antes para que llegue a temperatura ambiente.\n2. Seca bien la pieza con papel de cocina.\n3. Calienta una plancha o sarten de hierro a fuego muy alto. Añade el aceite.\n4. Coloca el solomillo en la plancha. Para punto jugoso (medio): 2-3 minutos por cada lado para 2 cm de grosor. Para mas hecho, añade 1-2 minutos por lado.\n5. No presiones la carne para no perder los jugos.\n6. Deja reposar 2-3 minutos sobre una tabla antes de cortar. El reposo es clave para redistribuir los jugos.\n7. Sala con sal gruesa o en escamas justo al servir."
     },
     {
       "id": "espaguetis_marineros",
@@ -754,8 +701,8 @@
         "80g Vino Blanco",
         "10g Aceite De Oliva"
       ],
-      "preparacion": "Hervir pasta. En sarten con aceite dorar ajo, anadir vino y reducir. Incorporar langostinos y perejil, saltear y mezclar con la pasta.",
-      "calorias": 450
+      "calorias": 447,
+      "preparacion": "1. Cuece los espaguetis integrales en agua con sal. Escurre reservando un poco del caldo.\n2. Pela y sazona los langostinos. Pica el ajo finamente. Pica el perejil fresco.\n3. Calienta el aceite en sarten amplia. Sofrie el ajo 1 minuto sin que se queme.\n4. Sube el fuego y añade los langostinos. Saltea 1-2 minutos por lado hasta que esten rosados. Retira y reserva.\n5. Vierte el vino blanco en la misma sarten y rasca el fondo para soltar los jugos. Reduce a la mitad (2-3 min).\n6. Añade los espaguetis, mezcla con la salsa. Si esta seco, añade agua de coccion.\n7. Reincorpora los langostinos, espolvorea perejil y sirve de inmediato."
     },
     {
       "id": "cogollo_lechuga_pavo",
@@ -769,8 +716,8 @@
         "75g Aguacate",
         "10g Aceite De Oliva"
       ],
-      "preparacion": "Picar pavo y verduras. Saltear en sarten con aceite. Rellenar hojas del cogollo y poner aguacate encima.",
-      "calorias": 300
+      "calorias": 338,
+      "preparacion": "1. Corta el pavo en dados, el calabacin en dados pequeños y el pimiento en dados.\n2. Calienta la mitad del aceite en sarten. Saltea el pavo 4-5 minutos hasta dorar. Añade el calabacin y el pimiento y saltea 3 minutos mas. Sala.\n3. Lamina o trocea el aguacate y rocía con limon.\n4. Lava el cogollo y separa las hojas grandes que serviran de cuenco natural.\n5. Rellena cada hoja con la mezcla de pavo y verduras.\n6. Coloca el aguacate encima y rocía con el aceite restante y unas gotas de limon."
     },
     {
       "id": "huevo_frito",
@@ -780,8 +727,8 @@
         "60g Huevo",
         "10g Aceite De Oliva"
       ],
-      "preparacion": "Calentar aceite en sarten. Freir el huevo hasta que la clara este cocinada. Retirar y anadir sal.",
-      "calorias": 150
+      "calorias": 174,
+      "preparacion": "1. Calienta el aceite en una sarten pequeña antiadherente a fuego medio-alto hasta que este bien caliente pero sin humear.\n2. Casca el huevo en un bol pequeño para evitar cascaras.\n3. Inclina la sarten y desliza el huevo desde el bol hacia el aceite.\n4. Con una cuchara, rocía el aceite caliente por encima de la yema para que cuaje la superficie sin dar la vuelta (tecnica tradicional).\n5. Cocina 2-3 minutos hasta que la clara este completamente cuajada y los bordes dorados y crujientes.\n6. Retira escurriendo el aceite, sala con escamas y sirve inmediatamente."
     },
     {
       "id": "ensalada_campera",
@@ -796,35 +743,8 @@
         "20g Aceitunas",
         "5g Aceite De Oliva"
       ],
-      "preparacion": "Cocer patatas y trocear. Picar verduras. Mezclar con atun y aceitunas. Alinar con aceite y vinagre.",
-      "calorias": 290
-    },
-    {
-      "id": "merluza_plancha_limon",
-      "categoria": "pescados",
-      "nombre": "Merluza A La Plancha Con Limon",
-      "ingredientes": [
-        "150g Merluza",
-        "10g Limon",
-        "5g Aceite De Oliva"
-      ],
-      "preparacion": "Cocinar merluza en plancha con aceite por ambos lados. Anadir sal y limon al servir.",
-      "calorias": 175
-    },
-    {
-      "id": "bocadillo_aguacate_tomate_huevo",
-      "categoria": "bocadillos",
-      "nombre": "Bocadillo De Aguacate Tomate y Huevo",
-      "ingredientes": [
-        "80g Pan Integral",
-        "70g Queso Tierno",
-        "60g Tomate",
-        "60g Aguacate",
-        "50g Huevo",
-        "10g Aceite De Oliva"
-      ],
-      "preparacion": "Hacer huevo a la plancha. Abrir pan, colocar queso, tomate, aguacate y el huevo encima.",
-      "calorias": 510
+      "calorias": 265,
+      "preparacion": "1. Cuece las patatas con piel en agua hirviendo con sal 20-25 minutos hasta que esten tiernas. Escurre, deja enfriar, pela y corta en cubos o rodajas.\n2. Corta el tomate en gajos. Corta el pimiento en dados. Pela y corta la cebolla en aros o brunoise.\n3. Escurre y desmiga el atun.\n4. En fuente amplia, coloca las patatas de base. Añade tomate, pimiento y cebolla.\n5. Distribuye el atun y las aceitunas por encima.\n6. Aliña con aceite, vinagre y sal. Mezcla con cuidado.\n7. Sirve a temperatura ambiente o ligeramente fria. Gana en sabor si reposa 15-20 minutos."
     },
     {
       "id": "pollo_strogonoff",
@@ -838,8 +758,8 @@
         "40g Nata",
         "10g Aceite De Oliva"
       ],
-      "preparacion": "Dorar cebolla y ajo. Anadir pollo y champinones. Incorporar nata y cocinar hasta que espese.",
-      "calorias": 340
+      "calorias": 411,
+      "preparacion": "1. Corta la pechuga en tiras de 1 cm de ancho y salpimientalas. Pica la cebolla y el ajo finamente. Lamina los champinones.\n2. Calienta el aceite en sarten a fuego medio. Sofrie cebolla y ajo 3-4 minutos hasta tiernos.\n3. Sube el fuego, incorpora las tiras de pollo y sella 3-4 minutos hasta que doren.\n4. Añade los champinones y saltea 3-4 minutos hasta que reduzcan.\n5. Baja a fuego medio-bajo, vierte la nata y mezcla bien raspando el fondo.\n6. Cocina a fuego suave 5-7 minutos removiendo hasta que la salsa espese y nape el pollo. Sazona con sal, pimienta y una pizca de nuez moscada.\n7. Sirve sobre arroz integral."
     },
     {
       "id": "wok_verduras",
@@ -854,8 +774,8 @@
         "15g Salsa De Soja",
         "10g Aceite De Oliva"
       ],
-      "preparacion": "Saltear cebolla, pimiento y jengibre. Anadir espinaca y edamame. Incorporar soja y cocinar 2 min.",
-      "calorias": 190
+      "calorias": 230,
+      "preparacion": "1. Corta el pimiento en tiras. Corta la cebolla en juliana. Pela y ralla el jengibre. Si el edamame es congelado, descongela o usa directamente.\n2. Calienta el wok a fuego muy alto hasta que humee. Añade el aceite.\n3. Saltea cebolla y pimiento 2-3 minutos removiendo constantemente.\n4. Añade el jengibre rallado y saltea 30 segundos.\n5. Incorpora el edamame y saltea 2 minutos.\n6. Añade las espinacas y saltea 1-2 minutos hasta que esten tiernas.\n7. Vierte la soja, mezcla 30 segundos y retira del fuego. Sirve de inmediato."
     },
     {
       "id": "arroz_pollo_mostaza",
@@ -869,50 +789,8 @@
         "25g Nata",
         "5g Aceite De Oliva"
       ],
-      "preparacion": "Sofreir pollo y cebolla. Anadir arroz, mostaza y nata. Cocinar con un poco de agua 20 min.",
-      "calorias": 560
-    },
-    {
-      "id": "tortilla_francesa_jamon",
-      "categoria": "huevos",
-      "nombre": "Tortilla Francesa Con Jamon",
-      "ingredientes": [
-        "60g Huevo",
-        "40g Jamon Cocido",
-        "5g Aceite De Oliva"
-      ],
-      "preparacion": "Batir huevo. Anadir a sarten con aceite. Incorporar jamon y cuajar por ambos lados.",
-      "calorias": 195
-    },
-    {
-      "id": "ensalada_tres_tiempos",
-      "categoria": "ensaladas",
-      "nombre": "Ensalada Tres Tiempos",
-      "ingredientes": [
-        "75g Manzana Roja",
-        "50g Zanahoria",
-        "40g Atun En Aceite",
-        "50g Lechuga",
-        "75g Queso Tierno",
-        "10g Aceite De Oliva"
-      ],
-      "preparacion": "Mezclar lechuga, tiras de zanahoria y trozos de manzana con queso y atun. Alinar con aceite y vinagre.",
-      "calorias": 310
-    },
-    {
-      "id": "salteado_calabacin_champinones",
-      "categoria": "verduras",
-      "nombre": "Salteado de Calabacin y Champinones",
-      "ingredientes": [
-        "100g Calabacin",
-        "75g Champinones",
-        "75g Berenjena",
-        "50g Pimiento",
-        "3g Ajo",
-        "10g Aceite De Oliva"
-      ],
-      "preparacion": "Dorar ajos. Anadir resto de verduras troceadas y cocinar tapado a fuego medio 15 min.",
-      "calorias": 155
+      "calorias": 514,
+      "preparacion": "1. Cuece el arroz integral en agua con sal segun instrucciones (35-40 min). Escurre y reserva.\n2. Corta el pollo en dados de 2 cm y salpimientalo. Pica la cebolla en brunoise.\n3. Calienta el aceite en sarten a fuego medio-alto. Dora el pollo por todos lados 5-6 minutos. Retira y reserva.\n4. Sofrie la cebolla 4-5 minutos hasta dorar.\n5. Reincorpora el pollo, añade la mostaza y mezcla bien para impregnar.\n6. Vierte la nata y 50 ml de agua. Cocina a fuego suave 8-10 minutos hasta que la salsa espese.\n7. Añade el arroz cocido, mezcla y calienta 2 minutos. Sirve caliente."
     }
   ]
 }
