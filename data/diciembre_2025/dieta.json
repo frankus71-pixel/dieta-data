@@ -19,7 +19,7 @@
       ],
       "merienda": [],
       "cena": [
-        { "receta_id": "ensalada_tomate_jamon_serrano", "gramos": 220 },
+        { "receta_id": "ensalada_tomate_jamon", "gramos": 220 },
         { "alimento": "Pan Integral", "gramos": 30 },
         { "alimento": "Papaya", "gramos": 200 }
       ],
@@ -37,7 +37,7 @@
       "media_manana": [],
       "comida": [
         { "receta_id": "judias_verdes_rehogadas", "gramos": 210 },
-        { "receta_id": "merluza_plancha_ajo", "gramos": 200 },
+        { "receta_id": "merluza_plancha", "gramos": 200 },
         { "alimento": "Fresa Y Fresón", "gramos": 200 }
       ],
       "merienda": [],
@@ -80,12 +80,12 @@
       ],
       "media_manana": [],
       "comida": [
-        { "receta_id": "arroz_meloso_dic", "gramos": 395 },
+        { "receta_id": "arroz_meloso", "gramos": 395 },
         { "alimento": "Sandia", "gramos": 200 }
       ],
       "merienda": [],
       "cena": [
-        { "receta_id": "ensalada_tres_tiempos_dic", "gramos": 305 },
+        { "receta_id": "ensalada_tres_tiempos", "gramos": 305 },
         { "alimento": "Huevo De Gallina", "gramos": 50 }
       ],
       "kcal": 1700.0
@@ -101,13 +101,13 @@
       ],
       "media_manana": [],
       "comida": [
-        { "receta_id": "solomillo_ternera_dic", "gramos": 180 },
-        { "receta_id": "ensalada_tomate_simple", "gramos": 200 },
+        { "receta_id": "solomillo_ternera", "gramos": 180 },
+        { "receta_id": "ensalada_tomate", "gramos": 200 },
         { "alimento": "Patata", "gramos": 200 }
       ],
       "merienda": [],
       "cena": [
-        { "receta_id": "bocadillo_aguacate_tomate_h", "gramos": 245 },
+        { "receta_id": "bocadillo_aguacate_tomate", "gramos": 245 },
         { "alimento": "Papaya", "gramos": 200 }
       ],
       "kcal": 1750.0
@@ -123,12 +123,12 @@
       ],
       "media_manana": [],
       "comida": [
-        { "receta_id": "pizza_navidad_dic", "gramos": 300 },
+        { "receta_id": "pizza_navidad", "gramos": 300 },
         { "alimento": "Fresa Y Fresón", "gramos": 200 }
       ],
       "merienda": [],
       "cena": [
-        { "receta_id": "revuelto_verduras_gambas_dic", "gramos": 340 },
+        { "receta_id": "revuelto_verduras_gambas", "gramos": 340 },
         { "alimento": "Pan Integral", "gramos": 30 }
       ],
       "kcal": 1820.0
@@ -144,13 +144,13 @@
       ],
       "media_manana": [],
       "comida": [
-        { "receta_id": "salteado_calabacin_dic", "gramos": 300 },
-        { "receta_id": "pollo_limon_dic", "gramos": 220 },
+        { "receta_id": "salteado_calabacin", "gramos": 300 },
+        { "receta_id": "pollo_limon", "gramos": 220 },
         { "alimento": "Arroz Blanco Cocinado", "gramos": 150 }
       ],
       "merienda": [],
       "cena": [
-        { "receta_id": "ensalada_tomate_simple", "gramos": 200 },
+        { "receta_id": "ensalada_tomate", "gramos": 200 },
         { "alimento": "Yogur Desnatado", "gramos": 125 }
       ],
       "kcal": 1650.0
