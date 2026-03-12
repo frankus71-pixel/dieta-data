@@ -1,77 +1,106 @@
 {
-  "mes": "Enero",
   "recetas": [
     {
       "id": "espaguetis_marineros",
       "nombre": "Espaguetis Marineros",
       "ingredientes": ["Espagueti Integral 150g", "Langostinos 100g", "Ajo 5g", "Perejil 10g", "Vino Blanco 80g", "Aceite De Oliva 10g"],
-      "preparacion": "Hervir pasta. En sarten con aceite dorar ajo, anadir vino y reducir. Incorporar langostinos y perejil, saltear y mezclar con la pasta."
+      "preparacion": "1. Cuece los espaguetis en agua con sal segun instrucciones.\n2. Dora el ajo en aceite, añade el vino y reduce 2 minutos.\n3. Incorpora los langostinos y saltea hasta que esten rosados.\n4. Mezcla con la pasta, espolvorea perejil y sirve."
     },
     {
       "id": "cogollo_lechuga_pavo",
       "nombre": "Cogollo De Lechuga Con Pavo",
       "ingredientes": ["Cogollo De Lechuga 100g", "Pechuga De Pavo 90g", "Calabacin 50g", "Pimiento 25g", "Aguacate 75g", "Aceite De Oliva 10g"],
-      "preparacion": "Picar pavo y verduras. Saltear en sarten con aceite. Rellenar hojas del cogollo y poner aguacate encima."
+      "preparacion": "1. Corta el pavo, calabacin y pimiento en dados.\n2. Saltea en sarten con aceite hasta que el pavo este cocinado.\n3. Separa las hojas del cogollo y rellenala con la mezcla salteada.\n4. Coloca el aguacate laminado encima y aliña con limon."
     },
     {
       "id": "huevo_frito",
       "nombre": "Huevo Frito",
       "ingredientes": ["Huevo 60g", "Aceite De Oliva 10g"],
-      "preparacion": "Calentar aceite en sarten. Freir el huevo hasta que la clara este cocinada. Retirar y anadir sal."
+      "preparacion": "1. Calienta el aceite en sarten a fuego medio-alto.\n2. Casca el huevo y deslizalo con cuidado.\n3. Rocía aceite caliente sobre la yema para que cuaje.\n4. Cocina hasta que la clara este cuajada y los bordes dorados. Sala al servir."
     },
     {
       "id": "ensalada_campera",
       "nombre": "Ensalada Campera",
       "ingredientes": ["Patata 125g", "Tomate 100g", "Pimiento 40g", "Cebolla 30g", "Atun 40g", "Aceitunas 20g", "Aceite De Oliva 5g"],
-      "preparacion": "Cocer patatas y trocear. Picar verduras. Mezclar con atun y aceitunas. Alinar con aceite y vinagre."
+      "preparacion": "1. Cuece las patatas con piel 20-25 min. Pela y trocea.\n2. Corta el tomate, pimiento y cebolla en dados.\n3. Mezcla todo con el atun escurrido y las aceitunas.\n4. Aliña con aceite, vinagre y sal. Sirve a temperatura ambiente."
     },
     {
-      "id": "merluza_plancha_limon",
+      "id": "merluza_plancha",
       "nombre": "Merluza A La Plancha Con Limon",
-      "ingredientes": ["Merluza 150g", "Limon 10g", "Aceite De Oliva 5g"],
-      "preparacion": "Cocinar merluza en plancha con aceite por ambos lados. Anadir sal y limon al servir."
+      "ingredientes": ["Merluza 150g", "Limon 10g", "Aceite De Oliva 5g", "Ajo 5g", "Perejil 2g"],
+      "preparacion": "1. Mezcla ajo picado, perejil y aceite formando un majado.\n2. Pinta el pescado por ambas caras.\n3. Cocina en plancha caliente 3-4 min por lado hasta dorar.\n4. Sirve con zumo de limon recien exprimido."
     },
     {
       "id": "bocadillo_aguacate_tomate_huevo",
-      "nombre": "Bocadillo De Aguacate Tomate y Huevo",
+      "nombre": "Bocadillo De Aguacate Tomate Y Huevo",
       "ingredientes": ["Pan Integral 80g", "Queso Tierno 70g", "Tomate 60g", "Aguacate 60g", "Huevo 50g", "Aceite De Oliva 10g"],
-      "preparacion": "Hacer huevo a la plancha. Abrir pan, colocar queso, tomate, aguacate y el huevo encima."
+      "preparacion": "1. Cocina el huevo a la plancha con unas gotas de aceite.\n2. Lamina el aguacate y corta el tomate en rodajas.\n3. Abre el pan, coloca el queso, tomate y aguacate.\n4. Pon el huevo encima, cierra y sirve."
     },
     {
       "id": "pollo_strogonoff",
       "nombre": "Pollo Strogonoff",
       "ingredientes": ["Pechuga De Pollo 140g", "Champinones 75g", "Cebolla 25g", "Ajo 3g", "Nata 40g", "Aceite De Oliva 10g"],
-      "preparacion": "Dorar cebolla y ajo. Anadir pollo y champinones. Incorporar nata y cocinar hasta que espese."
+      "preparacion": "1. Dora la cebolla y el ajo en aceite 3-4 min.\n2. Añade el pollo en tiras y sella por todos lados.\n3. Incorpora los champinones laminados y saltea 3 min.\n4. Vierte la nata y cocina a fuego suave 7 min hasta que espese."
     },
     {
-      "id": "ensalada_manzana_queso",
+      "id": "ensalada_de_manzana_y_queso",
       "nombre": "Ensalada De Manzana Y Queso",
       "ingredientes": ["Manzana 150g", "Escarola 50g", "Tomate 40g", "Queso 50g", "Nueces 10g", "Aceite De Oliva 10g"],
-      "preparacion": "Cortar manzana con limon. Mezclar con escarola, tomate y nueces. Anadir queso y alinar."
+      "preparacion": "1. Corta la manzana en laminas y rocía con limon.\n2. Mezcla con la escarola, tomate en dados y nueces.\n3. Añade el queso en dados.\n4. Aliña con aceite, vinagre y sal."
     },
     {
       "id": "wok_verduras",
       "nombre": "Wok De Verduras",
       "ingredientes": ["Espinaca 100g", "Pimiento 75g", "Edamame 50g", "Cebolla 40g", "Jengibre 10g", "Salsa De Soja 15g", "Aceite De Oliva 10g"],
-      "preparacion": "Saltear cebolla, pimiento y jengibre. Anadir espinaca y edamame. Incorporar soja y cocinar 2 min."
+      "preparacion": "1. Calienta el wok a fuego muy alto con aceite.\n2. Saltea cebolla, pimiento y jengibre 2-3 min.\n3. Añade el edamame y las espinacas.\n4. Vierte la soja, mezcla 30 segundos y sirve de inmediato."
     },
     {
       "id": "arroz_pollo_mostaza",
       "nombre": "Arroz Con Pollo Y Mostaza",
       "ingredientes": ["Arroz Integral 150g", "Pollo 140g", "Cebolla 50g", "Mostaza 10g", "Nata 25g", "Aceite De Oliva 5g"],
-      "preparacion": "Sofreir pollo y cebolla. Anadir arroz, mostaza y nata. Cocinar con un poco de agua 20 min."
+      "preparacion": "1. Cuece el arroz integral 35-40 min. Reserva.\n2. Dora el pollo en dados y la cebolla en aceite.\n3. Añade la mostaza y la nata, cocina 8-10 min hasta que espese.\n4. Mezcla con el arroz y sirve caliente."
     },
     {
-      "id": "calabaza_tomate",
+      "id": "calabaza_con_tomate",
       "nombre": "Calabaza Con Tomate",
       "ingredientes": ["Calabaza 200g", "Tomate 100g", "Cebolla 50g", "Vino Blanco 50g", "Aceite De Oliva 10g"],
-      "preparacion": "Rehogar cebolla en aceite y vino. Anadir tomate y calabaza. Cocinar 40 min hasta que ablande."
+      "preparacion": "1. Sofrie la cebolla en aceite con el vino 3 min.\n2. Añade el tomate troceado y cocina 3 min mas.\n3. Incorpora la calabaza en cubos y cubre con agua.\n4. Tapa y cocina a fuego medio-bajo 35-40 min hasta que ablande."
     },
     {
-      "id": "tortilla_francesa_jamon",
+      "id": "tortilla_francesa_con_jamon",
       "nombre": "Tortilla Francesa Con Jamon",
       "ingredientes": ["Huevo 60g", "Jamon Cocido 40g", "Aceite De Oliva 5g"],
-      "preparacion": "Batir huevo. Anadir a sarten con aceite. Incorporar jamon y cuajar por ambos lados."
+      "preparacion": "1. Bate el huevo con sal y añade el jamon picado.\n2. Calienta el aceite en sarten antiadherente.\n3. Vierte la mezcla y cuaja moviendo los bordes hacia el centro.\n4. Dobla en media luna y cocina 30 segundos mas."
+    },
+    {
+      "id": "ensalada_de_millo_y_manzana",
+      "nombre": "Ensalada De Millo Y Manzana",
+      "ingredientes": ["Maiz 40g", "Manzana Roja 100g", "Lechuga 100g", "Aceite De Oliva 10g", "Zumo De Limon 5g"],
+      "preparacion": "1. Lava y trocea la lechuga. Coloca de base.\n2. Corta la manzana en cubos y rocía con limon.\n3. Añade el maiz escurrido y la manzana sobre la lechuga.\n4. Aliña con aceite, limon y sal."
+    },
+    {
+      "id": "bocadillo_club_pollo_huevo",
+      "nombre": "Bocadillo Club Con Pollo Y Huevo",
+      "ingredientes": ["Pan Integral 80g", "Pechuga De Pollo 80g", "Huevo 50g", "Lechuga 20g", "Tomate 40g", "Mayonesa Light 15g", "Aceite De Oliva 5g"],
+      "preparacion": "1. Cocina el pollo a la plancha y cortalo en tiras.\n2. Cuece el huevo 10 min, pela y corta en rodajas.\n3. Tuesta el pan ligeramente.\n4. Unta mayonesa, coloca lechuga, tomate, pollo y huevo. Cierra y sirve."
+    },
+    {
+      "id": "bocadillo_salmon_ahumado",
+      "nombre": "Bocadillo De Salmon Ahumado",
+      "ingredientes": ["Pan Integral 80g", "Salmon Ahumado 80g", "Queso Tierno 50g", "Aguacate 60g", "Limon 10g"],
+      "preparacion": "1. Abre el pan y tuestalo ligeramente.\n2. Lamina el aguacate y rocía con limon.\n3. Coloca el queso en la base, luego el aguacate laminado.\n4. Dispone el salmon ahumado encima y cierra el bocadillo."
+    },
+    {
+      "id": "ensalada_salmon_aguacate",
+      "nombre": "Ensalada De Salmon, Aguacate Y Lechuga",
+      "ingredientes": ["Salmon Ahumado 80g", "Aguacate 75g", "Lechuga 100g", "Tomate Cherry 50g", "Cebolla Morada 30g", "Aceite De Oliva 10g", "Limon 10g"],
+      "preparacion": "1. Lava y trocea la lechuga. Coloca de base.\n2. Corta el aguacate en dados y rocía con limon.\n3. Añade los tomates cherry partidos y la cebolla en aros finos.\n4. Coloca el salmon en tiras, aliña con aceite y limon."
+    },
+    {
+      "id": "pizzetas_vegetales",
+      "nombre": "Pizzetas Vegetales",
+      "ingredientes": ["Base De Pizza 80g", "Tomate Frito 60g", "Queso 25g", "Pimiento 50g", "Calabacin 50g", "Champinones 50g", "Aceite De Oliva 5g"],
+      "preparacion": "1. Precalienta el horno a 220 grados.\n2. Saltea el pimiento, calabacin y champinones 3 min en aceite.\n3. Extiende el tomate sobre la base, añade el queso y las verduras.\n4. Hornea 10-12 min hasta que el queso este fundido y los bordes dorados."
     }
   ]
 }
