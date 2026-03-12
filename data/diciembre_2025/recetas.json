@@ -1,114 +1,106 @@
 {
-  "mes": "Diciembre",
   "recetas": [
     {
-      "id": "revuelto_verduras_gambas",
-      "nombre": "Revuelto Verduras Gambas",
-      "ingredientes": [
-        "Huevo 50g",
-        "Gambas 50g",
-        "Zanahoria 50g",
-        "Judia Verde 150g",
-        "Patata 75g",
-        "Aceite De Oliva 10g"
-      ],
-      "preparacion": "Hervir verduras y patata. Saltear con las gambas y anadir el huevo batido hasta que cuaje."
-    },
-    {
-      "id": "bocadillo_aguacate_tomate",
-      "nombre": "Bocadillo Aguacate Tomate",
-      "ingredientes": ["Pan Integral 80g", "Aguacate 60g", "Tomate Crudo 40g", "Huevo Cocido 50g"],
-      "preparacion": "Cocer el huevo 10 min. Abrir el pan, poner el aguacate laminado, el tomate en rodajas y el huevo cocido encima."
-    },
-    {
-      "id": "ensalada_tres_tiempos",
-      "nombre": "Ensalada Tres Tiempos",
-      "ingredientes": ["Manzana Roja 75g", "Zanahoria 50g", "Atun En Aceite 40g", "Lechuga 50g", "Aceite De Oliva 10g", "Queso Tierno 75g", "Vinagre 5g"],
-      "preparacion": "Cortar y mezclar todos los ingredientes. Alinar con aceite y vinagre."
-    },
-    {
-      "id": "ensalada_millo_manzana",
-      "nombre": "Ensalada Millo Manzana",
-      "ingredientes": ["Maiz Millo 40g", "Manzana Roja 100g", "Lechuga 100g", "Aceite De Oliva 10g", "Zumo De Limon 5g"],
-      "preparacion": "Mezclar la lechuga con la manzana troceada y el millo. Alinar con aceite y limon."
-    },
-    {
-      "id": "judias_verdes_rehogadas",
-      "nombre": "Judias Verdes Rehogadas",
-      "ingredientes": ["Judia Verde 150g", "Ajo 5g", "Cebolla 50g", "Aceite De Oliva 10g", "Pimenton Dulce 2g"],
-      "preparacion": "Cocer las judias. En una sarten con aceite, dorar ajos y cebolla. Anadir el pimenton y las judias escurridas."
-    },
-    {
-      "id": "salteado_calabacin",
-      "nombre": "Salteado Calabacin",
-      "ingredientes": ["Calabacin 100g", "Champinones 75g", "Berenjena 75g", "Pimiento 50g", "Aceite De Oliva 10g"],
-      "preparacion": "Trocear las verduras y saltear en una sarten con aceite durante 15 minutos."
-    },
-    {
-      "id": "arroz_meloso",
-      "nombre": "Arroz Meloso con Langostinos",
-      "ingredientes": ["Arroz Integral 180g", "Champinones 60g", "Langostinos 80g", "Vino Blanco 50g", "Aceite De Oliva 10g"],
-      "preparacion": "Sofreir ajo y champinones. Anadir arroz y vino. Ir anadiendo caldo removiendo hasta que este meloso."
-    },
-    {
-      "id": "merluza_plancha",
-      "nombre": "Merluza Plancha",
-      "ingredientes": ["Merluza 150g", "Aceite De Oliva 10g", "Ajo 5g", "Perejil 2g"],
-      "preparacion": "Hacer un majado con ajo, perejil y aceite. Pintar el pescado y cocinar a la plancha."
-    },
-    {
-      "id": "pollo_ajillo",
-      "nombre": "Pollo Ajillo",
-      "ingredientes": ["Pechuga de Pollo 150g", "Ajo 10g", "Aceite De Oliva 10g", "Vino Blanco 20g"],
-      "preparacion": "Trocear el pollo. Dorar ajos, sellar el pollo y cocinar con el vino blanco."
-    },
-    {
-      "id": "pollo_limon",
-      "nombre": "Pollo Limon",
-      "ingredientes": ["Pechuga de Pollo 150g", "Cebolla 30g", "Zumo de Limon 30g", "Aceite De Oliva 10g"],
-      "preparacion": "Dorar el pollo. Anadir la cebolla picada y el zumo de limon. Cocinar 5 min mas."
-    },
-    {
-      "id": "pizza_navidad",
-      "nombre": "Pizza Navidad",
-      "ingredientes": ["Base de Pizza 80g", "Tomate Frito 60g", "Queso 25g", "Atun 40g", "Champinones 50g"],
-      "preparacion": "Montar la pizza con los ingredientes y hornear a 220 grados hasta que este dorada."
+      "id": "pasta_natali",
+      "nombre": "Pasta Natali",
+      "ingredientes": ["Espagueti Integral 240g", "Atun En Aceite 80g", "Tomate Frito 60g", "Aceitunas Verdes 20g"],
+      "preparacion": "Cuece los espaguetis en agua abundante con sal hasta que esten al dente, unos 8-10 minutos. Mientras tanto, calienta a fuego suave en una sarten el tomate frito con el atun escurrido y desmigado, mezclando bien para integrar los sabores. Añade las aceitunas en rodajas y cocina 2 minutos mas. Escurre la pasta reservando un poco del agua de coccion, incorporala a la sarten y remueve para que se impregne bien de la salsa. Añade un chorrito del agua de coccion si queda seco y sirve inmediatamente."
     },
     {
       "id": "ensalada_tomate_jamon",
       "nombre": "Ensalada de Tomate y Jamon Serrano",
       "ingredientes": ["Tomate Crudo 150g", "Jamon Serrano 60g", "Aceite De Oliva 10g", "Ajo 2g"],
-      "preparacion": "Tomate en rodajas con ajo picado. Poner el jamon encima y alinar con aceite."
+      "preparacion": "Lava los tomates y cortalos en rodajas de 1 cm de grosor. Disponlos en una fuente plana solapandolos ligeramente. Pica el ajo muy fino y espolvorea sobre el tomate. Coloca las lonchas de jamon serrano encima de forma generosa cubriendo bien el tomate. Aliña con un buen chorro de aceite de oliva y una pizca de sal en escamas. Deja reposar 5 minutos antes de servir para que el tomate absorba el aceite y el sabor del jamon."
+    },
+    {
+      "id": "judias_verdes_rehogadas",
+      "nombre": "Judias Verdes Rehogadas",
+      "ingredientes": ["Judia Verde 150g", "Ajo 5g", "Cebolla 50g", "Aceite De Oliva 10g", "Pimenton Dulce 2g"],
+      "preparacion": "Limpia las judias verdes eliminando los extremos y cuecelas en agua con sal 12-15 minutos hasta que esten tiernas pero con algo de mordida. Escurre y reserva. En una sarten con aceite a fuego medio sofrie la cebolla picada 4 minutos hasta que ablande. Añade el ajo laminado y cocina 1 minuto mas sin que se queme. Retira la sarten del fuego, añade el pimenton dulce y remueve rapidamente para que no se amargue. Incorpora las judias escurridas, vuelve al fuego y saltea 3 minutos mezclando bien para que absorban el sofrito."
+    },
+    {
+      "id": "merluza_plancha",
+      "nombre": "Merluza a la Plancha",
+      "ingredientes": ["Merluza 150g", "Aceite De Oliva 10g", "Ajo 5g", "Perejil 2g"],
+      "preparacion": "Prepara un majado picando finamente el ajo y el perejil fresco y mezclandolos con el aceite. Seca bien el lomo de merluza con papel de cocina, salpimenta por ambas caras y pintalo con el majado. Calienta una plancha o sarten antiadherente a fuego alto hasta que este muy caliente. Coloca el pescado y cocina 3-4 minutos sin moverlo hasta que se forme una costra dorada. Da la vuelta con cuidado y cocina 2-3 minutos mas hasta que el pescado este opaco y se separe facilmente. Sirve inmediatamente."
     },
     {
       "id": "ensalada_aguacate",
       "nombre": "Ensalada de Aguacate",
       "ingredientes": ["Aguacate 75g", "Lechuga 100g", "Tomate Crudo 50g", "Cebolla 30g"],
-      "preparacion": "Trocear lechuga, tomate y aguacate. Mezclar con la cebolla y alinar."
+      "preparacion": "Lava y trocea la lechuga con las manos en piezas del tamano de un bocado. Corta el tomate en dados medianos y la cebolla en aros muy finos, remojandola en agua fria 5 minutos si es muy fuerte. Corta el aguacate por la mitad, extrae el hueso, pelalo y corta en laminas o dados rociando con limon para evitar que se oxide. Monta la ensalada con la lechuga de base, dispone el tomate y la cebolla y coloca el aguacate encima. Aliña con aceite, zumo de limon y sal al gusto."
     },
     {
-      "id": "pasta_natali",
-      "nombre": "Pasta Natali",
-      "ingredientes": ["Espagueti Integral 240g", "Atun En Aceite 80g", "Tomate Frito 60g", "Aceitunas Verdes 20g"],
-      "preparacion": "Hervir pasta. Calentar atun, aceitunas y tomate. Mezclar con la pasta."
+      "id": "pollo_ajillo",
+      "nombre": "Pollo al Ajillo",
+      "ingredientes": ["Pechuga de Pollo 150g", "Ajo 10g", "Aceite De Oliva 10g", "Vino Blanco 20g"],
+      "preparacion": "Corta la pechuga en dados de 3 cm y salpimenta. Lamina los ajos. Calienta el aceite en una cazuela o sarten a fuego medio y dora los ajos laminados hasta que esten dorados pero sin quemarse, luego retirarlos y reservar. Sube el fuego y sella el pollo por todos lados hasta que este bien dorado por fuera, unos 4-5 minutos. Vuelve a añadir los ajos, vierte el vino blanco y deja evaporar el alcohol 2 minutos. Baja el fuego, tapa y cocina 8-10 minutos hasta que el pollo este tierno y la salsa haya reducido."
+    },
+    {
+      "id": "ensalada_millo_manzana",
+      "nombre": "Ensalada de Millo y Manzana",
+      "ingredientes": ["Maiz Millo 40g", "Manzana Roja 100g", "Lechuga 100g", "Aceite De Oliva 10g", "Zumo De Limon 5g"],
+      "preparacion": "Lava y trocea la lechuga. Corta la manzana en dados pequenos y rocía inmediatamente con zumo de limon para evitar que se oxide y aporte frescor. Escurre bien el maiz de su liquido de conserva. En una fuente o bol coloca la lechuga de base, añade los dados de manzana y el maiz distribuido uniformemente. Aliña con aceite de oliva, el resto del zumo de limon y una pizca de sal. Mezcla suavemente y sirve fresca."
+    },
+    {
+      "id": "arroz_meloso",
+      "nombre": "Arroz Meloso con Langostinos",
+      "ingredientes": ["Arroz Integral 180g", "Champinones 60g", "Langostinos 80g", "Vino Blanco 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Pela los langostinos y cuece las cabezas y cascaras en agua 10 minutos para obtener un caldo sabroso. Cuela y mantén caliente. Dora el ajo picado en aceite, añade los champinones laminados y saltea 3 minutos hasta que pierdan el agua. Incorpora el arroz integral y nacaralo removiendo 1 minuto. Vierte el vino blanco y deja evaporar. Añade el caldo de langostinos caliente poco a poco, removiendo con frecuencia durante 30-35 minutos. Cuando el arroz este casi listo incorpora los langostinos y cocina 3 minutos mas hasta que esten rosados y el arroz quede cremoso."
+    },
+    {
+      "id": "ensalada_tres_tiempos",
+      "nombre": "Ensalada Tres Tiempos",
+      "ingredientes": ["Manzana Roja 75g", "Zanahoria 50g", "Atun En Aceite 40g", "Lechuga 50g", "Aceite De Oliva 10g", "Queso Tierno 75g", "Vinagre 5g"],
+      "preparacion": "Lava y trocea la lechuga. Pela la zanahoria y cortala en bastoncitos finos o rallala gruesa. Corta la manzana en dados pequenos y rocía con limon para que no se oxide. Corta el queso en cubos y escurre bien el atun. En una fuente coloca la lechuga de base y distribuye encima la zanahoria, la manzana, el queso y el atun desmigado. Aliña con aceite, el vinagre y sal al gusto justo antes de servir para que la lechuga no pierda su textura."
     },
     {
       "id": "solomillo_ternera",
-      "nombre": "Solomillo Ternera",
+      "nombre": "Solomillo de Ternera",
       "ingredientes": ["Solomillo de Ternera 150g", "Aceite De Oliva 5g", "Sal"],
-      "preparacion": "Cocinar a la plancha al punto deseado. Salar al final."
+      "preparacion": "Saca el solomillo de la nevera 20 minutos antes de cocinarlo para que se atempere. Seca bien con papel de cocina y salpimenta generosamente por ambas caras. Calienta una plancha o sarten de hierro a fuego muy alto hasta que este casi al humo. Añade unas gotas de aceite y sella el solomillo 2-3 minutos por lado para un punto rosado o 4 minutos para mas hecho. Deja reposar la carne 3 minutos antes de cortar para que los jugos se redistribuyan. Sala con escamas al servir."
     },
     {
       "id": "ensalada_tomate",
       "nombre": "Ensalada de Tomate",
       "ingredientes": ["Tomate Crudo 150g", "Cebolla 30g", "Aceite De Oliva 5g"],
-      "preparacion": "Cortar el tomate y la cebolla. Alinar con el aceite."
+      "preparacion": "Lava los tomates y cortalos en rodajas o en gajos segun prefieras. Pela la cebolla y corta en aros muy finos, si es muy intensa sumergela 5 minutos en agua fria para suavizar su sabor. Coloca el tomate en una fuente plana y distribuye los aros de cebolla por encima. Aliña con aceite de oliva y sal en escamas. Deja reposar 5 minutos antes de servir para que el tomate suelte su jugo y se mezcle con el aceite."
+    },
+    {
+      "id": "bocadillo_aguacate_tomate",
+      "nombre": "Bocadillo de Aguacate y Tomate",
+      "ingredientes": ["Pan Integral 80g", "Aguacate 60g", "Tomate Crudo 40g", "Huevo Cocido 50g"],
+      "preparacion": "Cuece el huevo en agua hirviendo 10 minutos, pasalo por agua fria, pela y corta en rodajas. Corta el aguacate por la mitad, extrae el hueso, pelalo y lamina rociando con limon para evitar que se oxide. Lava el tomate y cortalo en rodajas finas. Abre el pan integral y tuéstalo ligeramente si lo prefieres crujiente. Coloca las laminas de aguacate en la base, encima el tomate con una pizca de sal y por ultimo las rodajas de huevo. Cierra el bocadillo y sirve."
+    },
+    {
+      "id": "pizza_navidad",
+      "nombre": "Pizza Navidad",
+      "ingredientes": ["Base de Pizza 80g", "Tomate Frito 60g", "Queso 25g", "Atun 40g", "Champinones 50g"],
+      "preparacion": "Precalienta el horno a 220 grados con calor arriba y abajo. Lamina los champinones y salteados en una sarten sin aceite 2-3 minutos para que pierdan el agua. Extiende el tomate frito uniformemente sobre la base de pizza llegando bien a los bordes. Distribuye el queso rallado, el atun bien escurrido y los champinones salteados. Hornea en la parte baja del horno 10-12 minutos hasta que los bordes esten dorados y crujientes y el queso este completamente fundido."
+    },
+    {
+      "id": "revuelto_verduras_gambas",
+      "nombre": "Revuelto de Verduras con Gambas",
+      "ingredientes": ["Huevo 50g", "Gambas 50g", "Zanahoria 50g", "Judia Verde 150g", "Patata 75g", "Aceite De Oliva 10g"],
+      "preparacion": "Cuece la patata en dados, la judia verde troceada y la zanahoria en rodajas en agua con sal 12-15 minutos hasta que esten tiernas. Escurre bien. Calienta el aceite en una sarten y saltea las gambas 2 minutos hasta que esten rosadas. Añade las verduras cocidas y mezcla removiendo 1 minuto para que cojan el sabor de las gambas. Bate el huevo con sal, viertelo sobre el conjunto y remueve suavemente a fuego bajo hasta que cuaje de forma cremosa sin quedar seco."
+    },
+    {
+      "id": "salteado_calabacin",
+      "nombre": "Salteado de Calabacin",
+      "ingredientes": ["Calabacin 100g", "Champinones 75g", "Berenjena 75g", "Pimiento 50g", "Aceite De Oliva 10g"],
+      "preparacion": "Corta todas las verduras en dados medianos del mismo tamano para que se cocinen de forma uniforme. Calienta el aceite en una sarten amplia a fuego medio-alto. Añade primero el pimiento y la berenjena, que necesitan mas tiempo, y cocina 4 minutos removiendo. Incorpora el calabacin y los champinones, remueve bien, tapa y cocina a fuego medio 10 minutos. Destapa los ultimos 3 minutos para que evapore el liquido y las verduras queden sabrosas y ligeramente doradas."
+    },
+    {
+      "id": "pollo_limon",
+      "nombre": "Pollo al Limon",
+      "ingredientes": ["Pechuga de Pollo 150g", "Cebolla 30g", "Zumo de Limon 30g", "Aceite De Oliva 10g"],
+      "preparacion": "Corta la pechuga en filetes o medallones y salpimenta. Calienta el aceite en una sarten a fuego medio-alto y dora el pollo por ambas caras 3-4 minutos por lado hasta que este bien dorado. Retira y reserva. En la misma sarten sofrie la cebolla picada 3 minutos hasta que ablande. Añade el zumo de limon y un poco de ralladura de piel, vuelve a incorporar el pollo y cocina todo junto 4-5 minutos a fuego suave hasta que la salsa reduzca y nape bien el pollo."
     },
     {
       "id": "bocadillo_aguacate",
-      "nombre": "Bocadillo Aguacate",
+      "nombre": "Bocadillo de Aguacate",
       "ingredientes": ["Pan Integral 80g", "Aguacate 60g", "Tomate Crudo 40g", "Huevo Cocido 50g"],
-      "preparacion": "Huevo cocido con aguacate y tomate en pan integral."
+      "preparacion": "Cuece el huevo en agua hirviendo 10 minutos, enfria, pela y corta en rodajas. Lamina el aguacate y rocía con limon. Corta el tomate en rodajas finas. Abre el pan y tuéstalo ligeramente. Distribuye el aguacate en la base, coloca el tomate con una pizca de sal y añade el huevo en rodajas. Cierra y sirve."
     }
   ]
 }
